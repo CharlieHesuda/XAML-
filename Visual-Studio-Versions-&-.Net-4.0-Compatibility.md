@@ -1,0 +1,22 @@
+# Visual Studio Versions
+
+__The nuget package is backwardly compatible with older Visual Studio versions__, including 2012, 2013, 2015.
+
+Compiling the __source__ code requires Visual Studio 2017.
+
+If you are not running VS2017, but want to view the demo you have a couple of options:
+
+ * Grab the latest demo which is a compiled .exe in a zip, found on the [Releases](https://github.com/ButchersBoy/MaterialDesignInXamlToolkit/releases) page.
+ * VS2015 users can clone and checkout the tag of the source used to compile version 2.3.0:
+
+```
+git clone https://github.com/ButchersBoy/MaterialDesignInXamlToolkit.git
+cd MaterialDesignInXamlToolkit
+git checkout tags/v2.3.0
+```
+
+# .Net 4.0
+
+There is a .Net 4.0 branch (net40) which is now only maintained by contributors, and is no longer officially supported:
+
+* Branch: https://github.com/ButchersBoy/MaterialDesignInXamlToolkit/tree/net40
