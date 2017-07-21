@@ -34,6 +34,7 @@ First of all, remove any Accent **Color** you've imported from MahApps' ```Style
 
 If you are using the Swatches or Recommended colors provided by the Toolkit, here are the proper substitutions:
 * `HighlightColor` => `Primary700`
+* `AccentBaseColor` => `Primary600`
 * `AccentColor` => `Primary500`
 * `AccentColor2` => `Primary400`
 * `AccentColor3` => `Primary300`
@@ -43,6 +44,7 @@ If you are using the Swatches or Recommended colors provided by the Toolkit, her
 Here's what the substitution looks like:
 ```xml
 <SolidColorBrush x:Key="HighlightBrush" Color="{DynamicResource Primary700}"/>
+<SolidColorBrush x:Key="AccentBaseColorBrush" Color="{DynamicResource Primary600}" />
 <SolidColorBrush x:Key="AccentColorBrush" Color="{DynamicResource Primary500}"/>
 <SolidColorBrush x:Key="AccentColorBrush2" Color="{DynamicResource Primary400}"/>
 <SolidColorBrush x:Key="AccentColorBrush3" Color="{DynamicResource Primary300}"/>
@@ -57,6 +59,9 @@ Here's what the substitution looks like:
 <SolidColorBrush x:Key="RightArrowFill" Color="{DynamicResource Primary500}"/>
 <SolidColorBrush x:Key="IdealForegroundColorBrush" Color="{DynamicResource Primary500Foreground}"/>
 <SolidColorBrush x:Key="IdealForegroundDisabledBrush" Color="{DynamicResource Primary500}" Opacity="0.4"/>
+<SolidColorBrush x:Key="MahApps.Metro.Brushes.ToggleSwitchButton.OnSwitchBrush.Win10" Color="{DynamicResource Primary500}" />
+<SolidColorBrush x:Key="MahApps.Metro.Brushes.ToggleSwitchButton.OnSwitchMouseOverBrush.Win10" Color="{DynamicResource Primary400}" />
+<SolidColorBrush x:Key="MahApps.Metro.Brushes.ToggleSwitchButton.ThumbIndicatorCheckedBrush.Win10" Color="{DynamicResource Primary500Foreground}" />
 ```
 
 ## The Fonts
@@ -151,6 +156,7 @@ Here's an example app.xaml, using Blue as the primary color and Lime as the acce
 
             <!-- MahApps Brushes -->
             <SolidColorBrush x:Key="HighlightBrush" Color="{DynamicResource Primary700}"/>
+            <SolidColorBrush x:Key="AccentBaseColorBrush" Color="{DynamicResource Primary600}" />
             <SolidColorBrush x:Key="AccentColorBrush" Color="{DynamicResource Primary500}"/>
             <SolidColorBrush x:Key="AccentColorBrush2" Color="{DynamicResource Primary400}"/>
             <SolidColorBrush x:Key="AccentColorBrush3" Color="{DynamicResource Primary300}"/>
@@ -165,6 +171,9 @@ Here's an example app.xaml, using Blue as the primary color and Lime as the acce
             <SolidColorBrush x:Key="RightArrowFill" Color="{DynamicResource Primary500}"/>
             <SolidColorBrush x:Key="IdealForegroundColorBrush" Color="{DynamicResource Primary500Foreground}"/>
             <SolidColorBrush x:Key="IdealForegroundDisabledBrush" Color="{DynamicResource Primary500}" Opacity="0.4"/>
+            <SolidColorBrush x:Key="MahApps.Metro.Brushes.ToggleSwitchButton.OnSwitchBrush.Win10" Color="{DynamicResource Primary500}" />
+            <SolidColorBrush x:Key="MahApps.Metro.Brushes.ToggleSwitchButton.OnSwitchMouseOverBrush.Win10" Color="{DynamicResource Primary400}" />
+            <SolidColorBrush x:Key="MahApps.Metro.Brushes.ToggleSwitchButton.ThumbIndicatorCheckedBrush.Win10" Color="{DynamicResource Primary500Foreground}" />
 
         </ResourceDictionary>
     </Application.Resources>
