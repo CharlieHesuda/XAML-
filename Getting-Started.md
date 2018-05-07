@@ -5,6 +5,9 @@ There is also an [introductory video](https://youtu.be/-n5yeEOsbCk).
 ## Installing the Toolkit
 
 Before anything else, you must install the Toolkit. This can be done either manually or through the [NuGet package](https://www.nuget.org/packages/MaterialDesignThemes/) (```Install-Package MaterialDesignThemes```).
+
+
+We also require to install [ShowMeTheXAML](https://github.com/Keboo/ShowMeTheXAML) using nuget or manually  `PM> Install-Package ShowMeTheXAML.MSBuild`
  
 ## Configuring your App.xaml
 
