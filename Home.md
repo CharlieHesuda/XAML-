@@ -1,4 +1,4 @@
-# Welcome to the Material Design In XAML Toolkit wiki!
+# Welcome to the Material Design In XAML Toolkit Wiki!
 
 Start at one of these places:
 
