@@ -1,6 +1,7 @@
 [Home](Home)  
 [Contribution Guidlines](Contribution-Guidelines)  
-[Building From Source](Visual-Studio-Versions-Net-4-Compatibility)  
+[Building From Source](Compiling-From-Source)  
+[Glossary](Glossary)
   
 Getting Started with MDIX  
 &nbsp;&nbsp;&nbsp;&nbsp;[Getting Started](Getting-Started)  
