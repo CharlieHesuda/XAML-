@@ -1,17 +1,15 @@
 [Home](Home)  
+[Contribution Guidlines](Contribution-Guidelines)  
+[Building From Source](Visual-Studio-Versions-Net-4-Compatibility)  
   
 Getting Started with MDIX  
 &nbsp;&nbsp;&nbsp;&nbsp;[Getting Started](Getting-Started)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Super Quick Start](Super-Quick-Start)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Tutorial On YouTube](Tutorial-on-YouTube-(pt-BR))  
-&nbsp;&nbsp;&nbsp;&nbsp;[Examples](https://github.com/Keboo/MaterialDesignInXaml.Examples)  
+&nbsp;&nbsp;&nbsp;&nbsp;[Examples Repository](https://github.com/Keboo/MaterialDesignInXaml.Examples)  
   
 Release Notes  
 &nbsp;&nbsp;&nbsp;&nbsp;[2.0.0 Breaking Changes](Version-200---Breaking-Changes)
-  
-[Contribution Guidlines](Contribution-Guidelines)  
-[MahApps Integration](MahAppsMetro-integration)  
-[Building From Source](Visual-Studio-Versions-Net-4-Compatibility)  
   
 Controls  
 &nbsp;&nbsp;&nbsp;&nbsp;[Buttons](Button-Styles)  
@@ -27,6 +25,7 @@ Theming
 &nbsp;&nbsp;&nbsp;&nbsp;[Swatches and Recommended Colors](Swatches-and-Recommended-Colors)  
   
 Miscellaneous  
+&nbsp;&nbsp;&nbsp;&nbsp;[MahApps Integration](MahAppsMetro-integration)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Performance](Performance)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Strong Naming](Strong-Naming)  
 &nbsp;&nbsp;&nbsp;&nbsp;[.NET 4.0 Compatibility](Visual-Studio-Versions-Net-4-Compatibility)  
