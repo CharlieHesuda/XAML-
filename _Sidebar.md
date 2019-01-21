@@ -1,0 +1,35 @@
+[Home](Home)  
+  
+Getting Started with MDIX  
+&nbsp;&nbsp;&nbsp;&nbsp;[Getting Started](Getting-Started)  
+&nbsp;&nbsp;&nbsp;&nbsp;[Super Quick Start](Super-Quick-Start)  
+&nbsp;&nbsp;&nbsp;&nbsp;[Tutorial On YouTube](Tutorial-on-YouTube-(pt-BR))  
+&nbsp;&nbsp;&nbsp;&nbsp;[Examples](https://github.com/Keboo/MaterialDesignInXaml.Examples)  
+  
+Release Notes  
+&nbsp;&nbsp;&nbsp;&nbsp;[2.0.0 Breaking Changes](Version-200---Breaking-Changes)
+  
+[Contribution Guidlines](Contribution-Guidelines)  
+[MahApps Integration](MahAppsMetro-integration)  
+[Building From Source](Visual-Studio-Versions-Net-4-Compatibility)  
+  
+Controls  
+&nbsp;&nbsp;&nbsp;&nbsp;[Buttons](Button-Styles)  
+&nbsp;&nbsp;&nbsp;&nbsp;[Dialogs](Dialogs)  
+&nbsp;&nbsp;&nbsp;&nbsp;[Snackbar](Snackbar)  
+&nbsp;&nbsp;&nbsp;&nbsp;[Toggle Button](Toggle-Button-Styles)  
+&nbsp;&nbsp;&nbsp;&nbsp;[Transitions](Transitions)  
+  
+Theming  
+&nbsp;&nbsp;&nbsp;&nbsp;[Brush Names](Brush-Names)  
+&nbsp;&nbsp;&nbsp;&nbsp;[Custom Palette Hues](Custom-Palette-Hues)  
+&nbsp;&nbsp;&nbsp;&nbsp;[Overriding Default Styles](Overriding-Default-Styles)  
+&nbsp;&nbsp;&nbsp;&nbsp;[Swatches and Recommended Colors](Swatches-and-Recommended-Colors)  
+  
+Miscellaneous  
+&nbsp;&nbsp;&nbsp;&nbsp;[Performance](Performance)  
+&nbsp;&nbsp;&nbsp;&nbsp;[Strong Naming](Strong-Naming)  
+&nbsp;&nbsp;&nbsp;&nbsp;[.NET 4.0 Compatibility](Visual-Studio-Versions-Net-4-Compatibility)  
+  
+Archive  
+[Using icons](Using-icons)
