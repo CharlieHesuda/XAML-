@@ -37,7 +37,11 @@ You can change the icon's colour by setting the `Foreground` property to the des
 
 **Code-Behind**
 ```cs
-var icon = new PackIcon { Kind = PackIconKind.SmileyHappy, Foreground = System.Windows.Media.Brushes.Red};
+var icon = new PackIcon 
+{ 
+    Kind = PackIconKind.SmileyHappy,
+    Foreground = System.Windows.Media.Brushes.Red
+};
 ```
 
 ***
