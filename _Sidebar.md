@@ -26,7 +26,7 @@ Theming
 &nbsp;&nbsp;&nbsp;&nbsp;[Swatches and Recommended Colors](Swatches-and-Recommended-Colors)  
   
 Miscellaneous  
-&nbsp;&nbsp;&nbsp;&nbsp;[MahApps Integration](Icons)  
+&nbsp;&nbsp;&nbsp;&nbsp;[Icons](Icons)  
 &nbsp;&nbsp;&nbsp;&nbsp;[MahApps Integration](MahAppsMetro-integration)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Performance](Performance)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Strong Naming](Strong-Naming)  
