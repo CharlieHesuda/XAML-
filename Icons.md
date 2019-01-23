@@ -58,5 +58,5 @@ You can also use them inside other controls
 **Using Code-Behind**
 
 ```cs
-BtnIcon.Content = new PackIcon() {Kind=PackIconKind.SmileyHappy}
+BtnIcon.Content = new PackIcon { Kind = PackIconKind.SmileyHappy }
 ```
