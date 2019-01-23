@@ -18,6 +18,7 @@ Controls
 &nbsp;&nbsp;&nbsp;&nbsp;[Snackbar](Snackbar)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Toggle Button](Toggle-Button-Styles)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Transitions](Transitions)  
+&nbsp;&nbsp;&nbsp;&nbsp;[Icons](Icons) 
   
 Theming  
 &nbsp;&nbsp;&nbsp;&nbsp;[Brush Names](Brush-Names)  
@@ -25,8 +26,7 @@ Theming
 &nbsp;&nbsp;&nbsp;&nbsp;[Overriding Default Styles](Overriding-Default-Styles)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Swatches and Recommended Colors](Swatches-and-Recommended-Colors)  
   
-Miscellaneous  
-&nbsp;&nbsp;&nbsp;&nbsp;[Icons](Icons)  
+Miscellaneous   
 &nbsp;&nbsp;&nbsp;&nbsp;[MahApps Integration](MahAppsMetro-integration)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Performance](Performance)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Strong Naming](Strong-Naming)  
