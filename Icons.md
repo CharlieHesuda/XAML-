@@ -20,6 +20,11 @@ xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
 ```cs
 var icon = new PackIcon { Kind = PackIconKind.SmileyHappy };
 ```
+Here you'll need to add a namespace reference like this
+
+```cs
+using MaterialDesignThemes.Wpf;
+```
 
 ***
 
@@ -32,7 +37,7 @@ You can change the icon's colour by setting the `Foreground` property to the des
 
 **Code-Behind**
 ```cs
-var icon = new PackIcon { Kind = PackIconKind.SmileyHappy, Foreground = Brushes.Red};
+var icon = new PackIcon { Kind = PackIconKind.SmileyHappy, Foreground = System.Windows.Media.Brushes.Red};
 ```
 
 ***
