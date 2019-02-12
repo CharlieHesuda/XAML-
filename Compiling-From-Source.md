@@ -6,7 +6,7 @@ The main project is contained within the `MaterialDesignToolkit.Wpf.sln` file lo
   
 Set the startup project to be `Demos\MaterialDesignDemo`, compile and run (or simply press F5).  
   
-The first time you compile the project you will likely get the error `ShowMeTheXAML was added to the MaterialDesignDemo project. Please rebuild the project.`. This is expected and should only occur the very first time you compile the library. Simply re-build the solution (from the top menu Build>>Rebuild Solution). If you continue to get this error, you may need to restart Visual Studio. 
+The first time you compile the project you will likely get the error `ShowMeTheXAML was added to the MaterialDesignDemo project. Please rebuild the project.`. This is expected and should only occur the very first time you compile the library. Simply re-build the solution (from the top menu Build>>Rebuild Solution). You must **rebuild**, not just a normal incremental build. If you continue to get this error, you may need to restart Visual Studio. For more details see [this comment](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/issues/1187#issuecomment-462640254).
   
 This library uses [paket](https://fsprojects.github.io/Paket/) to install its dependencies. Typically these should be downloaded automatically for you when you first compile the solution.
 
