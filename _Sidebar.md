@@ -13,6 +13,7 @@ Release Notes
 &nbsp;&nbsp;&nbsp;&nbsp;[2.0.0 Breaking Changes](Version-200---Breaking-Changes)
   
 Controls  
+&nbsp;&nbsp;&nbsp;&nbsp;[All Control Styles](ControlStyleList)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Buttons](Button-Styles)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Dialogs](Dialogs)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Snackbar](Snackbar)  
