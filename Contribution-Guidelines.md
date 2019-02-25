@@ -30,3 +30,4 @@ Things people can do to help with triaging issues
 - Verify the issue contains the above information. If you are able to, either add the information in a comment or ask the original poster to do so.
 - Attempt to reproduce to the bug. If you are able to reproduce the issue please leave a comment indicating that you were also able to reproduce the bug along with the version of the library that you used. 
 - If the original issue did not contain a reproduction solution consider adding one.
+- If possible add additional notes or debugging information. For example, if you found the section of code that is causing the issue leave a comment. This can be very helpful for anyone looking to fix the issue.
