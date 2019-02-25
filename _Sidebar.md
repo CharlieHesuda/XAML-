@@ -1,5 +1,5 @@
 [Home](Home)  
-[Contribution Guidlines](Contribution-Guidelines)  
+[Contributing](Contribution-Guidelines)  
 [Building From Source](Compiling-From-Source)  
 [Glossary](Glossary)
   
