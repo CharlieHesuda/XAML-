@@ -3,7 +3,7 @@ If you have enjoyed using this library and would like to help support it, there 
 * Help answer questions on [issues](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/issues) or the [gitter chat room](https://gitter.im/ButchersBoy/MaterialDesignInXamlToolkit). We all start learning at different places. If you see a question you can answer feel to respond. Remember to be kind and respectful. We all start learning at different levels.
 * [Help improve bug reports](#Improving-bug-reports)
 * [Improve the documentation (Wiki)](#Wiki)
-* [Submit code changes](#Pull-Request)
+* [Submit code changes](#Pull-Requests)
 
 ## Pull Requests
 Please take time to read the [contributing guidelines](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/master/.github/CONTRIBUTING.md) before submitting PRs.
