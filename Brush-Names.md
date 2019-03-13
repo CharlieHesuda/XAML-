@@ -38,4 +38,5 @@ NB.  *[Light/Mid/Dark]Brush brushes define the different hues of the primary col
 * MaterialDesignFlatButtonRipple
 * MaterialDesignToolTipBackground
 * MaterialDesignChipBackground
+* MaterialDesignCardBackground
 
