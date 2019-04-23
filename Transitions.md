@@ -120,3 +120,36 @@ Effects can be delayed.  Using an items control, a great cascading effect can ac
 
 * Custom wipes can be create be implementing ```ITransitionWipe```
 * Custom effects can be created by implementing ```ITransitionEffect```
+
+# Validation (Adorners)
+The default TextBox behavior puts the validation results in an [Adorner](https://docs.microsoft.com/en-us/dotnet/framework/wpf/controls/adorners-overview). Because the Transitioner stacks the views on top of eachother this can cause validation on a previous slide to stay visible because the adorner layer is often at above the transitioner at the window level. If you have a slide that uses adorners, you will want to wrap the slide in its own Adorner layer.
+
+```XAML
+<materialDesign:Transitioner ...>
+    <Grid>
+        <!-- First page with some validation that causes an adorner to show -->
+        <TextBox FontWeight="Bold" Text="{Binding Name, ValidatesOnExceptions=True}" />
+    </Grid>
+
+    <Grid>
+        <!-- Second page, adnorner still visible here -->
+    </Grid>
+</materialDesign:Transitioner>
+```
+To address this, simply set an adorner layer for the slides that need them.
+
+```XAML
+<materialDesign:Transitioner ...>
+    <!-- Creates an adorner layer at the individual slide level so that it hides when the slide is not visible -->
+    <AdornerDecorator>
+        <Grid>
+            <!-- First page with some validation that causes an adorner to show -->
+            <TextBox FontWeight="Bold" Text="{Binding Name, ValidatesOnExceptions=True}" />
+        </Grid>
+    </AdornerDecorator>
+
+    <Grid>
+        <!-- Second page, adnorner still visible here -->
+    </Grid>
+</materialDesign:Transitioner>
+```
