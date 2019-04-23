@@ -79,7 +79,7 @@ There are currently only 2 built-in wipes available:
 * CircleWipe
 * SlideOutWipe
 
-# TransitioningContent
+## TransitioningContent
 
 ```TransitioningContent``` is a ```ContentControl``` enabling animations to be run on a UI element easily, typically when a control loads.  By combining with the ```Transitioner``` more complex animations can be created.  Usage is simple:
 
@@ -116,12 +116,12 @@ Effects can be delayed.  Using an items control, a great cascading effect can ac
 </ItemsControl>
 ```
 
-# Additional
+## Additional
 
 * Custom wipes can be create be implementing ```ITransitionWipe```
 * Custom effects can be created by implementing ```ITransitionEffect```
 
-# Validation (Adorners)
+## Validation (Adorners)
 The default TextBox behavior puts the validation results in an [Adorner](https://docs.microsoft.com/en-us/dotnet/framework/wpf/controls/adorners-overview). Because the Transitioner stacks the views on top of eachother this can cause validation on a previous slide to stay visible because the adorner layer is often at above the transitioner at the window level. If you have a slide that uses adorners, you will want to wrap the slide in its own Adorner layer.
 
 ```XAML
