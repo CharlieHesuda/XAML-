@@ -7,6 +7,7 @@ Getting Started with MDIX
 &nbsp;&nbsp;&nbsp;&nbsp;[Getting Started](Getting-Started)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Super Quick Start](Super-Quick-Start)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Tutorial On YouTube](Tutorial-on-YouTube-(pt-BR))  
+&nbsp;&nbsp;&nbsp;&nbsp;[Frequently Asked Questions](FAQ)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Examples Repository](https://github.com/Keboo/MaterialDesignInXaml.Examples)  
   
 Release Notes  
