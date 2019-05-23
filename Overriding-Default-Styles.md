@@ -2,7 +2,7 @@ If you are not happy with the default styles you can easily override them. Just 
 
 Example of `MaterialDesignThemes.Overrides.xaml`:
 
-```
+``` xml
 <ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
                     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"                                     
                     xmlns:materialDesign="clr-namespace:MaterialDesignThemes.Wpf;assembly=MaterialDesignThemes.Wpf">
@@ -18,7 +18,7 @@ Example of `MaterialDesignThemes.Overrides.xaml`:
 
 As you are overriding default styles you probably want to merge your new default styles into your App.xaml resources. That would look something like this:
 
-```
+``` xml
 <Application x:Class="MaterialTest.App"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
