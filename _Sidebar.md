@@ -34,6 +34,7 @@ Miscellaneous
 &nbsp;&nbsp;&nbsp;&nbsp;[Performance](Performance)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Strong Naming](Strong-Naming)  
 &nbsp;&nbsp;&nbsp;&nbsp;[.NET 4.0 Compatibility](Visual-Studio-Versions-Net-4-Compatibility)  
+&nbsp;&nbsp;&nbsp;&nbsp;[Projects using Material Design](Projects-using-Material-Design)  
   
 Archive  
 [Using icons](Using-icons)
