@@ -25,3 +25,6 @@ You can also specify an explicit style to derive from. For example, this style e
 <!-- Your setters and triggers here -->
 </Style>
 ```
+
+### "***ValidationRule" does not exist in the namespace "clr-namespace:MaterialDesignDemo.Domain"
+This error occurs when you have copied some of the example [Binding validation rules](https://docs.microsoft.com/en-us/dotnet/framework/wpf/data/how-to-implement-binding-validation) that [exist in the demo app](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/tree/master/MainDemo.Wpf/Domain). These validators are merely one simple way of doing data validation in WPF. These validators are part of the demo app and not part of the Material Design in XAML library. If you would like to use them in your app, you are welcome to copy the code into your project and adjust the namespace to match.
