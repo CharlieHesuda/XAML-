@@ -1,8 +1,8 @@
-Material Design XAML Toolkit comes with Font-awesome icons builted-in and they are very easy to use.
+Material Design XAML Toolkit comes with [material design icons](https://materialdesignicons.com/) built-in and they are very easy to use.
 
 Just create a `PackIcon` and set its `Kind` property to whatever icon you want to use. (All icons type are stored in the `PackIconKind` enum.)
 
-> For an overview of all available icons go to the [material design icons website](https://materialdesignicons.com/) or download the [compiled sample project](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/releases/latest)
+For an overview of all available icons go to the [material design icons website](https://materialdesignicons.com/) or download the [compiled sample project](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/releases/latest)
 
 **You can use XAML**
 
