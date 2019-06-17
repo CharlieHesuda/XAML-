@@ -1,5 +1,3 @@
-## Text Boxes
-
 ### Localization and Spell Checking
 The context menus on the text boxes support [spelling suggestions](https://docs.microsoft.com/en-us/dotnet/framework/wpf/controls/how-to-enable-spell-checking-in-a-text-editing-control). These can be enabled with the [SpellCheck.IsEnabled](https://docs.microsoft.com/en-us/dotnet/api/system.windows.controls.spellcheck.isenabled) attached property. 
 This will cause additional menu items to be included with spelling suggestions as well as options for `Ignore All`, and `(no spelling suggestions)`. Because these are coming directly from this library and not the built-in these strings are not localized. If you need to adjust them you can do the following in your App.xaml
