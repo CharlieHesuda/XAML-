@@ -136,6 +136,11 @@ var result = await DialogHost.Show(viewOrModel, ClosingEventHandler);
 
 The async response from this method returns the parameter provided when DialogHost.CloseDialogCommand was executed.  As part of the Show() signature a DialogClosingEventHandler delegate can be provided to intercept the on-closing event, just prior to the close.
 
+# FAQ
+
+## Dialog content shows border lines
+This problem can occur in WPF when content sizes require sub-pixel rendering. To fix this you want to tell WPF to move elements to pixel boundries using `[FrameworkElement.UseLayoutRounding = true](https://docs.microsoft.com/dotnet/api/system.windows.frameworkelement.uselayoutrounding)`. More details on this can be found [here](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/pull/1199#issuecomment-467562715).
+
 # More Examples
 
 More complete usage examples can be found in MainDemo.Wpf which is part of the Toolkit solution, primarily in MainDemo.Wpf/Dialogs.xaml.
