@@ -9,7 +9,7 @@ This error typically comes when you have a static resource referencing one of th
 ### Project fails to build with error: The command ""...\MaterialDesignInXamlToolkit\.paket\paket.exe" restore --references-file "...\MaterialDesignInXamlToolkit\MainDemo.Wpf\paket.references"" exited with code 1.
 This error typically occurs when changing branches or occasionally on the initial build. Simply restart Visual Studio and rebuild the project.
 
-### When apply a style, the Material Design theme is lost.
+### When custom style is applied, the Material Design theme is lost.
 This occurs when you replace a style rather than extending from it. In the same way that [C# classes can inherit from another class](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/inheritance) a WPF Style can also [extend another Style](https://docs.microsoft.com/en-us/dotnet/framework/wpf/controls/styling-and-templating#extending-styles). In many cases, if you are not explicitly setting the style, you can simply use the default style for the control as the base. For example, this creates a new style for `Button` that extends the default style being applied to `Buttons`.
 ```xaml
 <Style TargetType="Button" BasedOn="{StaticResource {x:Type Button}}">
