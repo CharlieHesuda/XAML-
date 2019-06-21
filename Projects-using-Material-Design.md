@@ -1,4 +1,4 @@
-If your project uses Material Design in XAML feel free to add a link and paragraph describing the project here. When possible please list projects in alphabetical order.
+If your project uses Material Design in XAML feel free to add a link, image/video, and paragraph describing the project here. When possible please list projects in alphabetical order.
 
 ## [Bachup](https://github.com/ChrisStayte/Bachup/)
 Windows Backup Utility
