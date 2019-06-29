@@ -1,24 +1,31 @@
-## Last Updated: 
+
 ## Badged
 - (default style)
 
 ## Button
 - MaterialDesignRaisedButton (default style)
-- MaterialDesignFloatingActionMiniDarkButton
 - MaterialDesignFloatingActionMiniLightButton
+- MaterialDesignFloatingActionMiniDarkButton
 - MaterialDesignFloatingActionButton
-- MaterialDesignFloatingActionMiniAccentButton
-- MaterialDesignFloatingActionAccentButton
-- MaterialDesignFloatingActionDarkButton
-- MaterialDesignFloatingActionLightButton
-- MaterialDesignFloatingActionMiniButton
-- MaterialDesignRaisedAccentButton
-- MaterialDesignRaisedDarkButton
-- MaterialDesignRaisedLightButton
-- MaterialDesignFlatButton
 - MaterialDesignToolForegroundButton
-- MaterialDesignToolButton
+- MaterialDesignFloatingActionMiniButton
+- MaterialDesignFloatingActionMiniAccentButton
+- MaterialDesignIconButton
+- MaterialDesignIconForegroundButton
+- MaterialDesignFloatingActionAccentButton
+- MaterialDesignFloatingActionLightButton
+- MaterialDesignFloatingActionDarkButton
+- MaterialDesignFlatButton
 - MaterialDesignFlatAccentButton
+- MaterialDesignRaisedAccentButton
+- MaterialDesignRaisedLightButton
+- MaterialDesignRaisedDarkButton
+- MaterialDesignFlatAccentBgButton
+- MaterialDesignOutlinedButton
+- MaterialDesignToolButton
+- MaterialDesignFlatDarkBgButton
+- MaterialDesignFlatLightBgButton
+- MaterialDesignFlatMidBgButton
 
 ## Calendar
 - MaterialDesignCalendarPortrait (default style)
@@ -29,8 +36,8 @@
 ## CheckBox
 - MaterialDesignCheckBox (default style)
 - MaterialDesignLightCheckBox
-- MaterialDesignUserForegroundCheckBox
 - MaterialDesignAccentCheckBox
+- MaterialDesignUserForegroundCheckBox
 - MaterialDesignDarkCheckBox
 - MaterialDesignActionLightCheckBox
 - MaterialDesignActionCheckBox
@@ -42,6 +49,9 @@
 
 ## Clock
 - MaterialDesignClock (default style)
+
+## ColorPicker
+- (default style)
 
 ## DataGrid.ComboBox
 - MaterialDesignDataGridComboBox (default style)
@@ -125,15 +135,20 @@
 - MaterialDesignRadioButton (default style)
 - MaterialDesignUserForegroundRadioButton
 - MaterialDesignTabRadioButton
-- MaterialDesignAccentRadioButton
+- MaterialDesignToolRadioButton
 - MaterialDesignLightRadioButton
 - MaterialDesignDarkRadioButton
+- MaterialDesignAccentRadioButton
 
 ## RatingBar
 - (default style)
 
+## RichTextBox
+- MaterialDesignRichTextBox (default style)
+
 ## ScrollBar
 - MaterialDesignScrollBar (default style)
+- MaterialDesignScrollBarMinimal
 
 ## ScrollViewer
 - MaterialDesignScrollViewer (default style)
@@ -164,9 +179,10 @@
 - MaterialDesignSubheadingTextBlock
 
 ## TextBox
-- MaterialDesignTextBox (default style)
-- MaterialDesignOutlinedTextFieldTextBox
+- MaterialDesignTextBoxBase (default style)
 - MaterialDesignFilledTextFieldTextBox
+- MaterialDesignOutlinedTextFieldTextBox
+- MaterialDesignTextBox
 - MaterialDesignFloatingHintTextBox
 
 ## Thumb
