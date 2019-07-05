@@ -13,7 +13,57 @@ We also require to install [ShowMeTheXAML](https://github.com/Keboo/ShowMeTheXAM
 
 ### The basics
 
-Like any other XAML library, the Toolkit needs to be imported and configured through your project's App.xaml to function properly. First of all, you'll need to merge one of the themes (Dark or Light) into your resource dictionary. This can be accomplished by adding the following line inside your Resource Dictionary's Merged Dictionaries:
+Like any other XAML library, the Toolkit needs to be imported and configured through your project's App.xaml to function properly. All of the following changes should be done as merged dictionaries (complete sample below). First you will need to include all of the default styles for the controls. This is required regardless of which of the three styling options you choose.
+
+```XAML
+<ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.Defaults.xaml" /> 
+```
+
+Next you need to select a color theme. The simplest option is to use one of the built-in themes provided by the `BuildedTheme` markup extension.
+
+A final App.xaml should look something like this:
+```XAML
+<Application x:Class="Example.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <materialDesign:BundledTheme BaseTheme="Light" PrimaryColor="DeepPurple" AccentColor="Lime" />
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.Defaults.xaml" /> 
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>
+```
+
+If you would prefer to use your own custom colors for the theme, you can do this with the `CustomColorTheme` markup extension.
+A final App.xaml should look something like this:
+```XAML
+<Application x:Class="Example.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <materialDesign:CustomColorTheme BaseTheme="Light" Primary="Aqua" Accent="DarkGreen" />
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.Defaults.xaml" /> 
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>
+```
+
+Finally you can also choose to use the theme resource dictionaries directly like what was available in versions 2.5.1 and earlier (see below).
+
+### Version 2.5.1 and earlier
+If you are using version 2.5.1 or earlier this is what you need to do.
+
+First of all, you'll need to merge one of the themes (Dark or Light) into your resource dictionary. This can be accomplished by adding the following line inside your Resource Dictionary's Merged Dictionaries:
  
  * For the Light theme:
  ```xml
@@ -24,7 +74,6 @@ Like any other XAML library, the Toolkit needs to be imported and configured thr
  ```xml
  <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.Dark.xaml" />
  ```
-
 
 Then, you'll need to load the ```MaterialDesignTheme.Defaults.xaml``` file, which contains all of the component styles, with the following line:
 
