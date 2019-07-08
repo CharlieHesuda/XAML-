@@ -36,14 +36,14 @@
 
 ## CheckBox
 - MaterialDesignCheckBox (default style)
-- MaterialDesignLightCheckBox
-- MaterialDesignAccentCheckBox
-- MaterialDesignUserForegroundCheckBox
 - MaterialDesignDarkCheckBox
+- MaterialDesignLightCheckBox
+- MaterialDesignUserForegroundCheckBox
+- MaterialDesignAccentCheckBox
+- MaterialDesignActionDarkCheckBox
 - MaterialDesignActionLightCheckBox
 - MaterialDesignActionCheckBox
 - MaterialDesignActionAccentCheckBox
-- MaterialDesignActionDarkCheckBox
 
 ## Chip
 - (default style)
@@ -54,15 +54,33 @@
 ## ColorPicker
 - (default style)
 
-## DataGrid.ComboBox
-- MaterialDesignDataGridComboBox (default style)
+## ColorZone
+- (default style)
 
 ## ComboBox
 - MaterialDesignComboBox (default style)
 - MaterialDesignFloatingHintComboBox
 
+## ContextMenu
+- MaterialDesignContextMenu
+
 ## DataGrid
-- MaterialDesignDataGrid
+- MaterialDesignDataGrid (default style)
+
+## DataGrid.ComboBox
+- MaterialDesignDataGridComboBox
+
+## DataGridCell
+- MaterialDesignDataGridCell
+
+## DataGridColumnHeader
+- MaterialDesignDataGridColumnHeader
+
+## DataGridRow
+- MaterialDesignDataGridRow
+
+## DataGridRowHeader
+- MaterialDesignDataGridRowHeader
 
 ## DatePicker
 - MaterialDesignDatePicker (default style)
@@ -71,6 +89,9 @@
 ## DialogHost
 - (default style)
 - MaterialDesignEmbeddedDialogHost
+
+## DrawerHost
+- (default style)
 
 ## Expander
 - MaterialDesignExpander (default style)
@@ -87,45 +108,63 @@
 - MaterialDesignCardGroupBox
 
 ## Hyperlink
+- MaterialDesignCaptionHyperlink
+- MaterialDesignBody2Hyperlink
 - MaterialDesignDisplay1Hyperlink
-- MaterialDesignHeadlineHyperlink
+- MaterialDesignBody1Hyperlink
 - MaterialDesignDisplay2Hyperlink
+- MaterialDesignTitleHyperlink
+- MaterialDesignHeadlineHyperlink
+- MaterialDesignSubheadingHyperlink
 - MaterialDesignDisplay4Hyperlink
 - MaterialDesignDisplay3Hyperlink
-- MaterialDesignCaptionHyperlink
-- MaterialDesignBody1Hyperlink
-- MaterialDesignBody2Hyperlink
-- MaterialDesignTitleHyperlink
-- MaterialDesignSubheadingHyperlink
 
 ## Label
 - MaterialDesignLabel (default style)
 
 ## ListBox
 - MaterialDesignListBox (default style)
-- MaterialDesignCardsListBox
 - MaterialDesignToolToggleListBox
+- MaterialDesignCardsListBox
 - MaterialDesignToolToggleFlatListBox
+
+## ListBoxItem
+- MaterialDesignListBoxItem
+
+## ListSortDirectionIndicator
+- (default style)
 
 ## ListView
 - MaterialDesignListView (default style)
 
+## ListViewItem
+- MaterialDesignListBoxItem
+
+## MaterialDateDisplay
+- (default style)
+
 ## Menu
 - MaterialDesignMenu (default style)
 
+## MenuItem
+- MaterialDesignMenuItem
+
+## PackIcon
+- (default style)
+
 ## PasswordBox
 - MaterialDesignPasswordBox (default style)
-- MaterialDesignOutlinedPasswordFieldPasswordBox
-- MaterialDesignFilledPasswordFieldPasswordBox
 - MaterialDesignFloatingHintPasswordBox
+- MaterialDesignFilledPasswordFieldPasswordBox
+- MaterialDesignOutlinedPasswordFieldPasswordBox
 
 ## PopupBox
 - MaterialDesignPopupBox (default style)
+- MaterialDesignMultiFloatingActionAccentPopupBox
 - MaterialDesignMultiFloatingActionLightPopupBox
 - MaterialDesignMultiFloatingActionDarkPopupBox
-- MaterialDesignMultiFloatingActionAccentPopupBox
-- MaterialDesignToolPopupBox
 - MaterialDesignToolForegroundPopupBox
+- MaterialDesignToolPopupBox
 - MaterialDesignMultiFloatingActionPopupBox
 
 ## ProgressBar
@@ -134,18 +173,24 @@
 
 ## RadioButton
 - MaterialDesignRadioButton (default style)
-- MaterialDesignUserForegroundRadioButton
-- MaterialDesignTabRadioButton
-- MaterialDesignToolRadioButton
 - MaterialDesignLightRadioButton
 - MaterialDesignDarkRadioButton
 - MaterialDesignAccentRadioButton
+- MaterialDesignUserForegroundRadioButton
+- MaterialDesignToolRadioButton
+- MaterialDesignTabRadioButton
 
 ## RatingBar
 - (default style)
 
+## RepeatButton
+- MaterialDesignRaisedButton
+
 ## RichTextBox
 - MaterialDesignRichTextBox (default style)
+
+## Ripple
+- (default style)
 
 ## ScrollBar
 - MaterialDesignScrollBar (default style)
@@ -154,11 +199,16 @@
 ## ScrollViewer
 - MaterialDesignScrollViewer (default style)
 
+## Separator
+- MaterialDesignLightSeparator
+- {x:Static MenuItem.SeparatorStyleKey}
+- MaterialDesignDarkSeparator
+
 ## Slider
 - MaterialDesignSlider (default style)
-- MaterialDesignDiscreteSlider
-- MaterialDesignDiscreteVerticalSlider
 - MaterialDesignDiscreteHorizontalSlider
+- MaterialDesignDiscreteVerticalSlider
+- MaterialDesignDiscreteSlider
 
 ## SmartHint
 - (default style)
@@ -168,16 +218,16 @@
 
 ## TextBlock
 - MaterialDesignDisplay2TextBlock
-- MaterialDesignDisplay1TextBlock
-- MaterialDesignDisplay3TextBlock
-- MaterialDesignButtonTextBlock
-- MaterialDesignDisplay4TextBlock
-- MaterialDesignHeadlineTextBlock
 - MaterialDesignBody1TextBlock
 - MaterialDesignCaptionTextBlock
-- MaterialDesignBody2TextBlock
-- MaterialDesignTitleTextBlock
 - MaterialDesignSubheadingTextBlock
+- MaterialDesignDisplay4TextBlock
+- MaterialDesignHeadlineTextBlock
+- MaterialDesignTitleTextBlock
+- MaterialDesignBody2TextBlock
+- MaterialDesignButtonTextBlock
+- MaterialDesignDisplay1TextBlock
+- MaterialDesignDisplay3TextBlock
 
 ## TextBox
 - MaterialDesignTextBoxBase (default style)
@@ -197,16 +247,16 @@
 
 ## ToggleButton
 - MaterialDesignSwitchToggleButton (default style)
-- MaterialDesignSwitchLightToggleButton
-- MaterialDesignHamburgerToggleButton
 - MaterialDesignSwitchAccentToggleButton
 - MaterialDesignSwitchDarkToggleButton
-- MaterialDesignFlatPrimaryToggleButton
 - MaterialDesignActionLightToggleButton
 - MaterialDesignActionToggleButton
-- MaterialDesignActionDarkToggleButton
 - MaterialDesignFlatToggleButton
 - MaterialDesignActionAccentToggleButton
+- MaterialDesignSwitchLightToggleButton
+- MaterialDesignFlatPrimaryToggleButton
+- MaterialDesignActionDarkToggleButton
+- MaterialDesignHamburgerToggleButton
 
 ## ToolBar
 - MaterialDesignToolBar (default style)
@@ -217,5 +267,21 @@
 ## ToolTip
 - MaterialDesignToolTip (default style)
 
+## Transitioner
+- (default style)
+
+## TransitionerSlide
+- TransitioningContentBase
+
+## TransitioningContent
+- (default style)
+- TransitioningContentBase
+
 ## TreeView
 - MaterialDesignTreeView (default style)
+
+## TreeViewItem
+- MaterialDesignTreeViewItem
+
+## Underline
+- (default style)
