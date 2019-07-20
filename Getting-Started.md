@@ -31,7 +31,7 @@ A final App.xaml should look something like this:
     <Application.Resources>
         <ResourceDictionary>
             <ResourceDictionary.MergedDictionaries>
-                <materialDesign:BundledTheme BaseTheme="Light" PrimaryColor="DeepPurple" AccentColor="Lime" />
+                <materialDesign:BundledTheme BaseTheme="Light" PrimaryColor="DeepPurple" SecondaryColor="Lime" />
                 <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.Defaults.xaml" /> 
             </ResourceDictionary.MergedDictionaries>
         </ResourceDictionary>
@@ -50,7 +50,7 @@ A final App.xaml should look something like this:
     <Application.Resources>
         <ResourceDictionary>
             <ResourceDictionary.MergedDictionaries>
-                <materialDesign:CustomColorTheme BaseTheme="Light" Primary="Aqua" Accent="DarkGreen" />
+                <materialDesign:CustomColorTheme BaseTheme="Light" Primary="Aqua" Secondary="DarkGreen" />
                 <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.Defaults.xaml" /> 
             </ResourceDictionary.MergedDictionaries>
         </ResourceDictionary>
