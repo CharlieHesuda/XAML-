@@ -25,6 +25,7 @@ Controls
 &nbsp;&nbsp;&nbsp;&nbsp;[Icons](Icons) 
   
 Theming  
+&nbsp;&nbsp;&nbsp;&nbsp;[Advanced Theming](Advanced-Theming)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Brush Names](Brush-Names)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Custom Palette Hues](Custom-Palette-Hues)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Overriding Default Styles](Overriding-Default-Styles)  
