@@ -4,7 +4,7 @@
 
 The first step is to set the inital theme. There are two recommended ways to accomplish this:
 1. Use one of the built in [Markup Extensions](https://docs.microsoft.com/en-us/dotnet/framework/wpf/advanced/markup-extensions-and-wpf-xaml) that generates a theme resource dictionary. Use one of the built-in markup extenions (`BundledTheme` or `CustomColorTheme`). These return a new `ResourceDictionary` instance with all of the brushes setup for you.
-2. Create a new `ITheme` object and use `ResourceDictionaryExtensions.SetTheme(Application.Current.Resources)`. You can create a new Theme object using:
+2. Create a new `ITheme` object and use `ResourceDictionaryExtensions.SetTheme(Application.Current.Resources)`. You can create a new `Theme` object using:
 ```C#
 using MaterialDesignColors;
 using MaterialDesignThemes.Wpf;
