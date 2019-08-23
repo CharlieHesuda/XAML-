@@ -29,6 +29,7 @@ Or you could manage this with more granularity on individual controls.
 
 - [x] DialogHost
 - [x] Drawer
-- [ ] Clock
-- [ ] Underline
+- [x] ProgressBar
+- [x] Clock
+- [x] Underline
 
