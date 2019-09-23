@@ -58,6 +58,30 @@ A final App.xaml should look something like this:
 </Application>
 ```
 
+## Configuring your Window(s)
+We're almost there! Now, all we need to do is configure our window to have Material Designs's look. There are no secrets here, you just need to add a few parameters to your Window's opening tag. The basic ones are:
+
+```xml
+<Window [...]
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+        Background="{DynamicResource MaterialDesignBackground}"
+        [...] >
+```
+
+These will ensure the window uses Material Design colors, blending in nicely with the Toolkit's styles and components. However, for the full Material Design experience, you should use:
+
+```xml
+<Window [...]
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+        Background="{DynamicResource MaterialDesignBackground}"
+        TextElement.FontWeight="Medium"
+        TextElement.FontSize="14"
+        FontFamily="pack://application:,,,/MaterialDesignThemes.Wpf;component/Resources/Roboto/#Roboto"
+        [...] >
+```
+
+Now your window's text will also blend in nicely with Material Design.
+
 Finally you can also choose to use the theme resource dictionaries directly like what was available in versions 2.5.1 and earlier (see below).
 
 ### Version 2.5.1 and earlier
