@@ -41,8 +41,9 @@ Prior to version 2.6.0 the `PaletteHelper` class provided methods for modifying 
 using MaterialDesignColors;
 using MaterialDesignThemes.Wpf;
 ...
+var paletteHeleper = new PaletteHelper();
 //Retrieve the app's existing theme
-ITheme theme = PaletteHelper.GetTheme();
+ITheme theme = paletteHelper.GetTheme();
 
 //Change the base theme to Dark
 theme.SetBaseTheme(Theme.Dark);
@@ -58,5 +59,5 @@ theme.SetSecondaryColor(Colors.Blue);
 theme.PrimaryMid = new ColorPair(Colors.Brown, Colors.White);
 
 //Change the app's current theme
-PaletteHelper.SetTheme(theme);
+paletteHelper.SetTheme(theme);
 ```
