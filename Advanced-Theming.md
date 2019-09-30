@@ -41,7 +41,7 @@ Prior to version 2.6.0 the `PaletteHelper` class provided methods for modifying 
 using MaterialDesignColors;
 using MaterialDesignThemes.Wpf;
 ...
-var paletteHeleper = new PaletteHelper();
+var paletteHelper = new PaletteHelper();
 //Retrieve the app's existing theme
 ITheme theme = paletteHelper.GetTheme();
 
