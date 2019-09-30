@@ -36,14 +36,14 @@
 
 ## CheckBox
 - MaterialDesignCheckBox (default style)
-- MaterialDesignDarkCheckBox
 - MaterialDesignLightCheckBox
-- MaterialDesignUserForegroundCheckBox
 - MaterialDesignAccentCheckBox
-- MaterialDesignActionDarkCheckBox
+- MaterialDesignUserForegroundCheckBox
+- MaterialDesignDarkCheckBox
 - MaterialDesignActionLightCheckBox
 - MaterialDesignActionCheckBox
 - MaterialDesignActionAccentCheckBox
+- MaterialDesignActionDarkCheckBox
 
 ## Chip
 - (default style)
@@ -108,16 +108,16 @@
 - MaterialDesignCardGroupBox
 
 ## Hyperlink
+- MaterialDesignBody1Hyperlink
 - MaterialDesignCaptionHyperlink
+- MaterialDesignDisplay4Hyperlink
+- MaterialDesignHeadlineHyperlink
+- MaterialDesignTitleHyperlink
+- MaterialDesignSubheadingHyperlink
 - MaterialDesignBody2Hyperlink
 - MaterialDesignDisplay1Hyperlink
-- MaterialDesignBody1Hyperlink
-- MaterialDesignDisplay2Hyperlink
-- MaterialDesignTitleHyperlink
-- MaterialDesignHeadlineHyperlink
-- MaterialDesignSubheadingHyperlink
-- MaterialDesignDisplay4Hyperlink
 - MaterialDesignDisplay3Hyperlink
+- MaterialDesignDisplay2Hyperlink
 
 ## Label
 - MaterialDesignLabel (default style)
@@ -125,8 +125,8 @@
 ## ListBox
 - MaterialDesignListBox (default style)
 - MaterialDesignToolToggleListBox
-- MaterialDesignCardsListBox
 - MaterialDesignToolToggleFlatListBox
+- MaterialDesignCardsListBox
 
 ## ListBoxItem
 - MaterialDesignListBoxItem
@@ -154,17 +154,17 @@
 
 ## PasswordBox
 - MaterialDesignPasswordBox (default style)
-- MaterialDesignFloatingHintPasswordBox
-- MaterialDesignFilledPasswordFieldPasswordBox
 - MaterialDesignOutlinedPasswordFieldPasswordBox
+- MaterialDesignFilledPasswordFieldPasswordBox
+- MaterialDesignFloatingHintPasswordBox
 
 ## PopupBox
 - MaterialDesignPopupBox (default style)
-- MaterialDesignMultiFloatingActionAccentPopupBox
 - MaterialDesignMultiFloatingActionLightPopupBox
+- MaterialDesignMultiFloatingActionAccentPopupBox
 - MaterialDesignMultiFloatingActionDarkPopupBox
-- MaterialDesignToolForegroundPopupBox
 - MaterialDesignToolPopupBox
+- MaterialDesignToolForegroundPopupBox
 - MaterialDesignMultiFloatingActionPopupBox
 
 ## ProgressBar
@@ -173,12 +173,12 @@
 
 ## RadioButton
 - MaterialDesignRadioButton (default style)
-- MaterialDesignLightRadioButton
-- MaterialDesignDarkRadioButton
-- MaterialDesignAccentRadioButton
-- MaterialDesignUserForegroundRadioButton
 - MaterialDesignToolRadioButton
 - MaterialDesignTabRadioButton
+- MaterialDesignUserForegroundRadioButton
+- MaterialDesignDarkRadioButton
+- MaterialDesignLightRadioButton
+- MaterialDesignAccentRadioButton
 
 ## RatingBar
 - (default style)
@@ -201,13 +201,13 @@
 
 ## Separator
 - MaterialDesignLightSeparator
-- {x:Static MenuItem.SeparatorStyleKey}
 - MaterialDesignDarkSeparator
+- {x:Static MenuItem.SeparatorStyleKey}
 
 ## Slider
 - MaterialDesignSlider (default style)
-- MaterialDesignDiscreteHorizontalSlider
 - MaterialDesignDiscreteVerticalSlider
+- MaterialDesignDiscreteHorizontalSlider
 - MaterialDesignDiscreteSlider
 
 ## SmartHint
@@ -217,17 +217,18 @@
 - (default style)
 
 ## TextBlock
-- MaterialDesignDisplay2TextBlock
-- MaterialDesignBody1TextBlock
-- MaterialDesignCaptionTextBlock
-- MaterialDesignSubheadingTextBlock
-- MaterialDesignDisplay4TextBlock
-- MaterialDesignHeadlineTextBlock
-- MaterialDesignTitleTextBlock
-- MaterialDesignBody2TextBlock
-- MaterialDesignButtonTextBlock
-- MaterialDesignDisplay1TextBlock
+- MaterialDesignTextBlock
 - MaterialDesignDisplay3TextBlock
+- MaterialDesignCaptionTextBlock
+- MaterialDesignHeadlineTextBlock
+- MaterialDesignDisplay4TextBlock
+- MaterialDesignDisplay1TextBlock
+- MaterialDesignTitleTextBlock
+- MaterialDesignBody1TextBlock
+- MaterialDesignBody2TextBlock
+- MaterialDesignSubheadingTextBlock
+- MaterialDesignDisplay2TextBlock
+- MaterialDesignButtonTextBlock
 
 ## TextBox
 - MaterialDesignTextBoxBase (default style)
@@ -251,11 +252,11 @@
 - MaterialDesignSwitchDarkToggleButton
 - MaterialDesignActionLightToggleButton
 - MaterialDesignActionToggleButton
-- MaterialDesignFlatToggleButton
 - MaterialDesignActionAccentToggleButton
+- MaterialDesignActionDarkToggleButton
 - MaterialDesignSwitchLightToggleButton
 - MaterialDesignFlatPrimaryToggleButton
-- MaterialDesignActionDarkToggleButton
+- MaterialDesignFlatToggleButton
 - MaterialDesignHamburgerToggleButton
 
 ## ToolBar
