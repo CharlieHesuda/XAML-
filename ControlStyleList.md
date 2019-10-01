@@ -108,25 +108,27 @@
 - MaterialDesignCardGroupBox
 
 ## Hyperlink
-- MaterialDesignBody1Hyperlink
-- MaterialDesignCaptionHyperlink
-- MaterialDesignDisplay4Hyperlink
-- MaterialDesignHeadlineHyperlink
-- MaterialDesignTitleHyperlink
-- MaterialDesignSubheadingHyperlink
 - MaterialDesignBody2Hyperlink
-- MaterialDesignDisplay1Hyperlink
-- MaterialDesignDisplay3Hyperlink
-- MaterialDesignDisplay2Hyperlink
+- MaterialDesignHeadline1Hyperlink
+- MaterialDesignCaptionHyperlink
+- MaterialDesignBody1Hyperlink
+- MaterialDesignHeadline6Hyperlink
+- MaterialDesignHeadline5Hyperlink
+- MaterialDesignSubtitle1Hyperlink
+- MaterialDesignSubtitle2Hyperlink
+- MaterialDesignOverlineHyperlink
+- MaterialDesignHeadline2Hyperlink
+- MaterialDesignHeadline3Hyperlink
+- MaterialDesignHeadline4Hyperlink
 
 ## Label
 - MaterialDesignLabel (default style)
 
 ## ListBox
 - MaterialDesignListBox (default style)
+- MaterialDesignCardsListBox
 - MaterialDesignToolToggleListBox
 - MaterialDesignToolToggleFlatListBox
-- MaterialDesignCardsListBox
 
 ## ListBoxItem
 - MaterialDesignListBoxItem
@@ -217,25 +219,27 @@
 - (default style)
 
 ## TextBlock
-- MaterialDesignTextBlock
-- MaterialDesignDisplay3TextBlock
 - MaterialDesignCaptionTextBlock
-- MaterialDesignHeadlineTextBlock
-- MaterialDesignDisplay4TextBlock
-- MaterialDesignDisplay1TextBlock
-- MaterialDesignTitleTextBlock
-- MaterialDesignBody1TextBlock
+- MaterialDesignTextBlock
+- MaterialDesignHeadline5TextBlock
+- MaterialDesignHeadline3TextBlock
+- MaterialDesignSubtitle2TextBlock
+- MaterialDesignHeadline4TextBlock
+- MaterialDesignHeadline6TextBlock
 - MaterialDesignBody2TextBlock
-- MaterialDesignSubheadingTextBlock
-- MaterialDesignDisplay2TextBlock
+- MaterialDesignBody1TextBlock
+- MaterialDesignSubtitle1TextBlock
+- MaterialDesignOverlineTextBlock
+- MaterialDesignHeadline1TextBlock
 - MaterialDesignButtonTextBlock
+- MaterialDesignHeadline2TextBlock
 
 ## TextBox
 - MaterialDesignTextBoxBase (default style)
+- MaterialDesignFloatingHintTextBox
 - MaterialDesignFilledTextFieldTextBox
 - MaterialDesignOutlinedTextFieldTextBox
 - MaterialDesignTextBox
-- MaterialDesignFloatingHintTextBox
 
 ## Thumb
 - MaterialDesignThumb (default style)
@@ -248,16 +252,16 @@
 
 ## ToggleButton
 - MaterialDesignSwitchToggleButton (default style)
-- MaterialDesignSwitchAccentToggleButton
-- MaterialDesignSwitchDarkToggleButton
-- MaterialDesignActionLightToggleButton
-- MaterialDesignActionToggleButton
-- MaterialDesignActionAccentToggleButton
-- MaterialDesignActionDarkToggleButton
-- MaterialDesignSwitchLightToggleButton
 - MaterialDesignFlatPrimaryToggleButton
 - MaterialDesignFlatToggleButton
+- MaterialDesignSwitchLightToggleButton
+- MaterialDesignSwitchDarkToggleButton
+- MaterialDesignSwitchAccentToggleButton
 - MaterialDesignHamburgerToggleButton
+- MaterialDesignActionAccentToggleButton
+- MaterialDesignActionToggleButton
+- MaterialDesignActionDarkToggleButton
+- MaterialDesignActionLightToggleButton
 
 ## ToolBar
 - MaterialDesignToolBar (default style)
