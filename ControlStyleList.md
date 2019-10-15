@@ -1,292 +1,292 @@
 [//]: <> (AUTO GENERATED FILE; DO NOT EDIT)
 
 ## Badged
-- (default style)
+- [](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.Badged.xaml) (default style)
 
 ## Button
-- MaterialDesignRaisedButton (default style)
-- MaterialDesignFloatingActionMiniLightButton
-- MaterialDesignFloatingActionMiniDarkButton
-- MaterialDesignFloatingActionButton
-- MaterialDesignToolForegroundButton
-- MaterialDesignFloatingActionMiniButton
-- MaterialDesignFloatingActionMiniAccentButton
-- MaterialDesignIconButton
-- MaterialDesignIconForegroundButton
-- MaterialDesignFloatingActionAccentButton
-- MaterialDesignFloatingActionLightButton
-- MaterialDesignFloatingActionDarkButton
-- MaterialDesignFlatButton
-- MaterialDesignFlatAccentButton
-- MaterialDesignRaisedAccentButton
-- MaterialDesignRaisedLightButton
-- MaterialDesignRaisedDarkButton
-- MaterialDesignFlatAccentBgButton
-- MaterialDesignOutlinedButton
-- MaterialDesignToolButton
-- MaterialDesignFlatDarkBgButton
-- MaterialDesignFlatLightBgButton
-- MaterialDesignFlatMidBgButton
+- [MaterialDesignRaisedButton](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.Button.xaml) (default style)
+- [MaterialDesignFloatingActionMiniLightButton](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.Button.xaml)
+- [MaterialDesignFloatingActionMiniDarkButton](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.Button.xaml)
+- [MaterialDesignFloatingActionButton](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.Button.xaml)
+- [MaterialDesignToolForegroundButton](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.Button.xaml)
+- [MaterialDesignFloatingActionMiniButton](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.Button.xaml)
+- [MaterialDesignFloatingActionMiniAccentButton](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.Button.xaml)
+- [MaterialDesignIconButton](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.Button.xaml)
+- [MaterialDesignIconForegroundButton](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.Button.xaml)
+- [MaterialDesignFloatingActionAccentButton](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.Button.xaml)
+- [MaterialDesignFloatingActionLightButton](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.Button.xaml)
+- [MaterialDesignFloatingActionDarkButton](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.Button.xaml)
+- [MaterialDesignFlatButton](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.Button.xaml)
+- [MaterialDesignFlatAccentButton](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.Button.xaml)
+- [MaterialDesignRaisedAccentButton](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.Button.xaml)
+- [MaterialDesignRaisedLightButton](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.Button.xaml)
+- [MaterialDesignRaisedDarkButton](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.Button.xaml)
+- [MaterialDesignFlatAccentBgButton](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.Button.xaml)
+- [MaterialDesignOutlinedButton](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.Button.xaml)
+- [MaterialDesignToolButton](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.Button.xaml)
+- [MaterialDesignFlatDarkBgButton](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.Button.xaml)
+- [MaterialDesignFlatLightBgButton](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.Button.xaml)
+- [MaterialDesignFlatMidBgButton](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.Button.xaml)
 
 ## Calendar
-- MaterialDesignCalendarPortrait (default style)
+- [MaterialDesignCalendarPortrait](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.Calendar.xaml) (default style)
 
 ## Card
-- (default style)
+- [](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.Card.xaml) (default style)
 
 ## CheckBox
-- MaterialDesignCheckBox (default style)
-- MaterialDesignLightCheckBox
-- MaterialDesignAccentCheckBox
-- MaterialDesignUserForegroundCheckBox
-- MaterialDesignDarkCheckBox
-- MaterialDesignActionLightCheckBox
-- MaterialDesignActionCheckBox
-- MaterialDesignActionAccentCheckBox
-- MaterialDesignActionDarkCheckBox
+- [MaterialDesignCheckBox](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.CheckBox.xaml) (default style)
+- [MaterialDesignLightCheckBox](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.CheckBox.xaml)
+- [MaterialDesignAccentCheckBox](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.CheckBox.xaml)
+- [MaterialDesignUserForegroundCheckBox](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.CheckBox.xaml)
+- [MaterialDesignDarkCheckBox](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.CheckBox.xaml)
+- [MaterialDesignActionLightCheckBox](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.CheckBox.xaml)
+- [MaterialDesignActionCheckBox](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.CheckBox.xaml)
+- [MaterialDesignActionAccentCheckBox](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.CheckBox.xaml)
+- [MaterialDesignActionDarkCheckBox](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.CheckBox.xaml)
 
 ## Chip
-- (default style)
+- [](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.Chip.xaml) (default style)
 
 ## Clock
-- MaterialDesignClock (default style)
+- [MaterialDesignClock](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.Clock.xaml) (default style)
 
 ## ColorPicker
-- (default style)
+- [](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.ColorPicker.xaml) (default style)
 
 ## ColorZone
-- (default style)
+- [](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.ColorZone.xaml) (default style)
 
 ## ComboBox
-- MaterialDesignComboBox (default style)
-- MaterialDesignFloatingHintComboBox
+- [MaterialDesignComboBox](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.ComboBox.xaml) (default style)
+- [MaterialDesignFloatingHintComboBox](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.ComboBox.xaml)
 
 ## ContextMenu
-- MaterialDesignContextMenu
+- [MaterialDesignContextMenu](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.ContextMenu.xaml)
 
 ## DataGrid
-- MaterialDesignDataGrid (default style)
+- [MaterialDesignDataGrid](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.DataGrid.xaml) (default style)
 
 ## DataGrid.ComboBox
-- MaterialDesignDataGridComboBox
+- [MaterialDesignDataGridComboBox](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.DataGrid.ComboBox.xaml)
 
 ## DataGridCell
-- MaterialDesignDataGridCell
+- [MaterialDesignDataGridCell](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.DataGridCell.xaml)
 
 ## DataGridColumnHeader
-- MaterialDesignDataGridColumnHeader
+- [MaterialDesignDataGridColumnHeader](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.DataGridColumnHeader.xaml)
 
 ## DataGridRow
-- MaterialDesignDataGridRow
+- [MaterialDesignDataGridRow](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.DataGridRow.xaml)
 
 ## DataGridRowHeader
-- MaterialDesignDataGridRowHeader
+- [MaterialDesignDataGridRowHeader](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.DataGridRowHeader.xaml)
 
 ## DatePicker
-- MaterialDesignDatePicker (default style)
-- MaterialDesignFloatingHintDatePicker
+- [MaterialDesignDatePicker](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.DatePicker.xaml) (default style)
+- [MaterialDesignFloatingHintDatePicker](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.DatePicker.xaml)
 
 ## DialogHost
-- (default style)
-- MaterialDesignEmbeddedDialogHost
+- [](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.DialogHost.xaml) (default style)
+- [MaterialDesignEmbeddedDialogHost](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.DialogHost.xaml)
 
 ## DrawerHost
-- (default style)
+- [](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.DrawerHost.xaml) (default style)
 
 ## Expander
-- MaterialDesignExpander (default style)
+- [MaterialDesignExpander](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.Expander.xaml) (default style)
 
 ## Flipper
-- (default style)
-- MaterialDesignCardFlipper
+- [](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.Flipper.xaml) (default style)
+- [MaterialDesignCardFlipper](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.Flipper.xaml)
 
 ## GridSplitter
-- MaterialDesignGridSplitter (default style)
+- [MaterialDesignGridSplitter](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.GridSplitter.xaml) (default style)
 
 ## GroupBox
-- MaterialDesignGroupBox (default style)
-- MaterialDesignCardGroupBox
+- [MaterialDesignGroupBox](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.GroupBox.xaml) (default style)
+- [MaterialDesignCardGroupBox](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.GroupBox.xaml)
 
 ## Hyperlink
-- MaterialDesignBody2Hyperlink
-- MaterialDesignHeadline1Hyperlink
-- MaterialDesignCaptionHyperlink
-- MaterialDesignBody1Hyperlink
-- MaterialDesignHeadline6Hyperlink
-- MaterialDesignHeadline5Hyperlink
-- MaterialDesignSubtitle1Hyperlink
-- MaterialDesignSubtitle2Hyperlink
-- MaterialDesignOverlineHyperlink
-- MaterialDesignHeadline2Hyperlink
-- MaterialDesignHeadline3Hyperlink
-- MaterialDesignHeadline4Hyperlink
+- [MaterialDesignBody2Hyperlink](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.Hyperlink.xaml)
+- [MaterialDesignHeadline1Hyperlink](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.Hyperlink.xaml)
+- [MaterialDesignCaptionHyperlink](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.Hyperlink.xaml)
+- [MaterialDesignBody1Hyperlink](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.Hyperlink.xaml)
+- [MaterialDesignHeadline6Hyperlink](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.Hyperlink.xaml)
+- [MaterialDesignHeadline5Hyperlink](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.Hyperlink.xaml)
+- [MaterialDesignSubtitle1Hyperlink](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.Hyperlink.xaml)
+- [MaterialDesignSubtitle2Hyperlink](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.Hyperlink.xaml)
+- [MaterialDesignOverlineHyperlink](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.Hyperlink.xaml)
+- [MaterialDesignHeadline2Hyperlink](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.Hyperlink.xaml)
+- [MaterialDesignHeadline3Hyperlink](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.Hyperlink.xaml)
+- [MaterialDesignHeadline4Hyperlink](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.Hyperlink.xaml)
 
 ## Label
-- MaterialDesignLabel (default style)
+- [MaterialDesignLabel](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.Label.xaml) (default style)
 
 ## ListBox
-- MaterialDesignListBox (default style)
-- MaterialDesignCardsListBox
-- MaterialDesignToolToggleListBox
-- MaterialDesignToolToggleFlatListBox
+- [MaterialDesignListBox](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.ListBox.xaml) (default style)
+- [MaterialDesignCardsListBox](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.ListBox.xaml)
+- [MaterialDesignToolToggleListBox](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.ListBox.xaml)
+- [MaterialDesignToolToggleFlatListBox](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.ListBox.xaml)
 
 ## ListBoxItem
-- MaterialDesignListBoxItem
+- [MaterialDesignListBoxItem](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.ListBoxItem.xaml)
 
 ## ListSortDirectionIndicator
-- (default style)
+- [](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.ListSortDirectionIndicator.xaml) (default style)
 
 ## ListView
-- MaterialDesignListView (default style)
+- [MaterialDesignListView](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.ListView.xaml) (default style)
 
 ## ListViewItem
-- MaterialDesignListBoxItem
+- [MaterialDesignListBoxItem](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.ListViewItem.xaml)
 
 ## MaterialDateDisplay
-- (default style)
+- [](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.MaterialDateDisplay.xaml) (default style)
 
 ## Menu
-- MaterialDesignMenu (default style)
+- [MaterialDesignMenu](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.Menu.xaml) (default style)
 
 ## MenuItem
-- MaterialDesignMenuItem
+- [MaterialDesignMenuItem](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.MenuItem.xaml)
 
 ## PackIcon
-- (default style)
+- [](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.PackIcon.xaml) (default style)
 
 ## PasswordBox
-- MaterialDesignPasswordBox (default style)
-- MaterialDesignOutlinedPasswordFieldPasswordBox
-- MaterialDesignFilledPasswordFieldPasswordBox
-- MaterialDesignFloatingHintPasswordBox
+- [MaterialDesignPasswordBox](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.PasswordBox.xaml) (default style)
+- [MaterialDesignOutlinedPasswordFieldPasswordBox](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.PasswordBox.xaml)
+- [MaterialDesignFilledPasswordFieldPasswordBox](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.PasswordBox.xaml)
+- [MaterialDesignFloatingHintPasswordBox](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.PasswordBox.xaml)
 
 ## PopupBox
-- MaterialDesignPopupBox (default style)
-- MaterialDesignMultiFloatingActionLightPopupBox
-- MaterialDesignMultiFloatingActionAccentPopupBox
-- MaterialDesignMultiFloatingActionDarkPopupBox
-- MaterialDesignToolPopupBox
-- MaterialDesignToolForegroundPopupBox
-- MaterialDesignMultiFloatingActionPopupBox
+- [MaterialDesignPopupBox](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.PopupBox.xaml) (default style)
+- [MaterialDesignMultiFloatingActionLightPopupBox](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.PopupBox.xaml)
+- [MaterialDesignMultiFloatingActionAccentPopupBox](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.PopupBox.xaml)
+- [MaterialDesignMultiFloatingActionDarkPopupBox](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.PopupBox.xaml)
+- [MaterialDesignToolPopupBox](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.PopupBox.xaml)
+- [MaterialDesignToolForegroundPopupBox](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.PopupBox.xaml)
+- [MaterialDesignMultiFloatingActionPopupBox](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.PopupBox.xaml)
 
 ## ProgressBar
-- MaterialDesignLinearProgressBar (default style)
-- MaterialDesignCircularProgressBar
+- [MaterialDesignLinearProgressBar](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.ProgressBar.xaml) (default style)
+- [MaterialDesignCircularProgressBar](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.ProgressBar.xaml)
 
 ## RadioButton
-- MaterialDesignRadioButton (default style)
-- MaterialDesignToolRadioButton
-- MaterialDesignTabRadioButton
-- MaterialDesignUserForegroundRadioButton
-- MaterialDesignDarkRadioButton
-- MaterialDesignLightRadioButton
-- MaterialDesignAccentRadioButton
+- [MaterialDesignRadioButton](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.RadioButton.xaml) (default style)
+- [MaterialDesignToolRadioButton](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.RadioButton.xaml)
+- [MaterialDesignTabRadioButton](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.RadioButton.xaml)
+- [MaterialDesignUserForegroundRadioButton](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.RadioButton.xaml)
+- [MaterialDesignDarkRadioButton](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.RadioButton.xaml)
+- [MaterialDesignLightRadioButton](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.RadioButton.xaml)
+- [MaterialDesignAccentRadioButton](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.RadioButton.xaml)
 
 ## RatingBar
-- (default style)
+- [](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.RatingBar.xaml) (default style)
 
 ## RepeatButton
-- MaterialDesignRaisedButton
+- [MaterialDesignRaisedButton](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.RepeatButton.xaml)
 
 ## RichTextBox
-- MaterialDesignRichTextBox (default style)
+- [MaterialDesignRichTextBox](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.RichTextBox.xaml) (default style)
 
 ## Ripple
-- (default style)
+- [](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.Ripple.xaml) (default style)
 
 ## ScrollBar
-- MaterialDesignScrollBar (default style)
-- MaterialDesignScrollBarMinimal
+- [MaterialDesignScrollBar](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.ScrollBar.xaml) (default style)
+- [MaterialDesignScrollBarMinimal](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.ScrollBar.xaml)
 
 ## ScrollViewer
-- MaterialDesignScrollViewer (default style)
+- [MaterialDesignScrollViewer](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.ScrollViewer.xaml) (default style)
 
 ## Separator
-- MaterialDesignLightSeparator
-- MaterialDesignDarkSeparator
-- {x:Static MenuItem.SeparatorStyleKey}
+- [MaterialDesignLightSeparator](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.Separator.xaml)
+- [MaterialDesignDarkSeparator](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.Separator.xaml)
+- [{x:Static MenuItem.SeparatorStyleKey}](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.Separator.xaml)
 
 ## Slider
-- MaterialDesignSlider (default style)
-- MaterialDesignDiscreteVerticalSlider
-- MaterialDesignDiscreteHorizontalSlider
-- MaterialDesignDiscreteSlider
+- [MaterialDesignSlider](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.Slider.xaml) (default style)
+- [MaterialDesignDiscreteVerticalSlider](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.Slider.xaml)
+- [MaterialDesignDiscreteHorizontalSlider](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.Slider.xaml)
+- [MaterialDesignDiscreteSlider](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.Slider.xaml)
 
 ## SmartHint
-- (default style)
+- [](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.SmartHint.xaml) (default style)
 
 ## Snackbar
-- (default style)
+- [](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.Snackbar.xaml) (default style)
 
 ## TextBlock
-- MaterialDesignCaptionTextBlock
-- MaterialDesignTextBlock
-- MaterialDesignHeadline5TextBlock
-- MaterialDesignHeadline3TextBlock
-- MaterialDesignSubtitle2TextBlock
-- MaterialDesignHeadline4TextBlock
-- MaterialDesignHeadline6TextBlock
-- MaterialDesignBody2TextBlock
-- MaterialDesignBody1TextBlock
-- MaterialDesignSubtitle1TextBlock
-- MaterialDesignOverlineTextBlock
-- MaterialDesignHeadline1TextBlock
-- MaterialDesignButtonTextBlock
-- MaterialDesignHeadline2TextBlock
+- [MaterialDesignCaptionTextBlock](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.TextBlock.xaml)
+- [MaterialDesignTextBlock](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.TextBlock.xaml)
+- [MaterialDesignHeadline5TextBlock](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.TextBlock.xaml)
+- [MaterialDesignHeadline3TextBlock](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.TextBlock.xaml)
+- [MaterialDesignSubtitle2TextBlock](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.TextBlock.xaml)
+- [MaterialDesignHeadline4TextBlock](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.TextBlock.xaml)
+- [MaterialDesignHeadline6TextBlock](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.TextBlock.xaml)
+- [MaterialDesignBody2TextBlock](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.TextBlock.xaml)
+- [MaterialDesignBody1TextBlock](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.TextBlock.xaml)
+- [MaterialDesignSubtitle1TextBlock](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.TextBlock.xaml)
+- [MaterialDesignOverlineTextBlock](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.TextBlock.xaml)
+- [MaterialDesignHeadline1TextBlock](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.TextBlock.xaml)
+- [MaterialDesignButtonTextBlock](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.TextBlock.xaml)
+- [MaterialDesignHeadline2TextBlock](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.TextBlock.xaml)
 
 ## TextBox
-- MaterialDesignTextBoxBase (default style)
-- MaterialDesignFloatingHintTextBox
-- MaterialDesignFilledTextFieldTextBox
-- MaterialDesignOutlinedTextFieldTextBox
-- MaterialDesignTextBox
+- [MaterialDesignTextBoxBase](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.TextBox.xaml) (default style)
+- [MaterialDesignFloatingHintTextBox](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.TextBox.xaml)
+- [MaterialDesignFilledTextFieldTextBox](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.TextBox.xaml)
+- [MaterialDesignOutlinedTextFieldTextBox](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.TextBox.xaml)
+- [MaterialDesignTextBox](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.TextBox.xaml)
 
 ## Thumb
-- MaterialDesignThumb (default style)
-- MaterialDesignGridColumnHeaderGripper
-- MaterialDesignGridRowHeaderGripper
+- [MaterialDesignThumb](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.Thumb.xaml) (default style)
+- [MaterialDesignGridColumnHeaderGripper](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.Thumb.xaml)
+- [MaterialDesignGridRowHeaderGripper](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.Thumb.xaml)
 
 ## TimePicker
-- MaterialDesignTimePicker (default style)
-- MaterialDesignFloatingHintTimePicker
+- [MaterialDesignTimePicker](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.TimePicker.xaml) (default style)
+- [MaterialDesignFloatingHintTimePicker](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.TimePicker.xaml)
 
 ## ToggleButton
-- MaterialDesignSwitchToggleButton (default style)
-- MaterialDesignFlatPrimaryToggleButton
-- MaterialDesignFlatToggleButton
-- MaterialDesignSwitchLightToggleButton
-- MaterialDesignSwitchDarkToggleButton
-- MaterialDesignSwitchAccentToggleButton
-- MaterialDesignHamburgerToggleButton
-- MaterialDesignActionAccentToggleButton
-- MaterialDesignActionToggleButton
-- MaterialDesignActionDarkToggleButton
-- MaterialDesignActionLightToggleButton
+- [MaterialDesignSwitchToggleButton](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.ToggleButton.xaml) (default style)
+- [MaterialDesignFlatPrimaryToggleButton](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.ToggleButton.xaml)
+- [MaterialDesignFlatToggleButton](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.ToggleButton.xaml)
+- [MaterialDesignSwitchLightToggleButton](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.ToggleButton.xaml)
+- [MaterialDesignSwitchDarkToggleButton](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.ToggleButton.xaml)
+- [MaterialDesignSwitchAccentToggleButton](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.ToggleButton.xaml)
+- [MaterialDesignHamburgerToggleButton](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.ToggleButton.xaml)
+- [MaterialDesignActionAccentToggleButton](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.ToggleButton.xaml)
+- [MaterialDesignActionToggleButton](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.ToggleButton.xaml)
+- [MaterialDesignActionDarkToggleButton](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.ToggleButton.xaml)
+- [MaterialDesignActionLightToggleButton](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.ToggleButton.xaml)
 
 ## ToolBar
-- MaterialDesignToolBar (default style)
+- [MaterialDesignToolBar](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.ToolBar.xaml) (default style)
 
 ## ToolBarTray
-- MaterialDesignToolBarTray (default style)
+- [MaterialDesignToolBarTray](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.ToolBarTray.xaml) (default style)
 
 ## ToolTip
-- MaterialDesignToolTip (default style)
+- [MaterialDesignToolTip](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.ToolTip.xaml) (default style)
 
 ## Transitioner
-- (default style)
+- [](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.Transitioner.xaml) (default style)
 
 ## TransitionerSlide
-- TransitioningContentBase
+- [TransitioningContentBase](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.TransitionerSlide.xaml)
 
 ## TransitioningContent
-- (default style)
-- TransitioningContentBase
+- [](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.TransitioningContent.xaml) (default style)
+- [TransitioningContentBase](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.TransitioningContent.xaml)
 
 ## TreeView
-- MaterialDesignTreeView (default style)
+- [MaterialDesignTreeView](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.TreeView.xaml) (default style)
 
 ## TreeViewItem
-- MaterialDesignTreeViewItem
+- [MaterialDesignTreeViewItem](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.TreeViewItem.xaml)
 
 ## Underline
-- (default style)
+- [](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/2dc9a8c921921b9b7d2a27103718f0ef7b190088/MaterialDesignThemes.Wpf/Themes/MaterialDesignTheme.Underline.xaml) (default style)
