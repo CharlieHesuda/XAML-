@@ -21,6 +21,30 @@ Like any other XAML library, the Toolkit needs to be imported and configured thr
 
 Next you need to select a color theme. The simplest option is to use one of the built-in themes provided by the `BuildedTheme` markup extension.
 
+**For version 2.6.0 use this:**
+
+```XAML
+<Application x:Class="Example.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.Light.xaml"/>
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.Defaults.xaml"/>
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignColors;component/Themes/Recommended/Primary/MaterialDesignColor.Blue.xaml"/>
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignColors;component/Themes/Recommended/Accent/MaterialDesignColor.Purple.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>
+```
+
+
+**For the version 3.0 (preview) use this:**
+
 A final App.xaml should look something like this:
 ```XAML
 <Application x:Class="Example.App"
@@ -38,6 +62,7 @@ A final App.xaml should look something like this:
     </Application.Resources>
 </Application>
 ```
+
 
 If you would prefer to use your own custom colors for the theme, you can do this with the `CustomColorTheme` markup extension.
 A final App.xaml should look something like this:
@@ -57,6 +82,8 @@ A final App.xaml should look something like this:
     </Application.Resources>
 </Application>
 ```
+
+
 
 ## Configuring your Window(s)
 We're almost there! Now, all we need to do is configure our window to have Material Designs's look. There are no secrets here, you just need to add a few parameters to your Window's opening tag. The basic ones are:
