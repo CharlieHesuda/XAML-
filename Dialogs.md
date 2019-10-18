@@ -14,9 +14,9 @@ The cornerstone of dialogs the DialogHost control.  It’s a content control, me
 ```
 <md:DialogHost>
     <md:DialogHost.DialogContent>
-        <dialogContent />
+        <!-- put your dialog content here-->
     </md:DialogHost.DialogContent>
-    <mainContent />
+    <!-- put the content over which the dialog is shown here (e.g. your main window grid)-->
 </md:DialogHost>
 ```
 
