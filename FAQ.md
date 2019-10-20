@@ -31,3 +31,10 @@ This error occurs when you have copied some of the example [Binding validation r
 
 ### XamlDisplay control issues
 You should not need this control inside of your application. This control was designed to make it easy for people to be able to see the corresponding XAML at run-time inside of the demo application. So when you copy the code out of the demo application, you can omit this control. 
+
+### How can I set the *Assist.SomeProperty in code?
+In WPF there exists the concept of an [Attached Property](https://docs.microsoft.com/en-us/dotnet/framework/wpf/advanced/attached-properties-overview). These properties can be specified on _any_ object. Common ones you have likely uses are `DockPanel.Dock`, `Grid.Row`, or `Grid.Column`. To see these in C# code you simply invoke them as static methods. For example if you want to set `materialDesign:ShadowAssist.ShadowDepth="Depth1"` in C# you should do:
+```C#
+FrameworkElement myControl = ...;
+ShadowAssist.SetShadowDepth(myControl, ShadowDepth.Depth1);
+```
