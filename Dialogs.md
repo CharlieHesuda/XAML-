@@ -126,7 +126,7 @@ Attached property, which accepts a DialogClosingEventHandler which makes it easy
 <md:DialogHost DialogClosingCallback="{Binding DialogClosingHandler}" />
 ```
 
-Standard dependency property which enables the a DialogClosingEventHandler implementation to be bound in, typically from a view model.
+Standard dependency property which enables the a [DialogClosingEventHandler](https://github.com/Keboo/MaterialDesignInXaml.Examples/tree/master/DialogHost/DialogHost.AttachedPropertyClosing) implementation to be bound in, typically from a view model.
 
 ## DialogHost.Show
 
