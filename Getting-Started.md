@@ -75,7 +75,7 @@ A final App.xaml should look something like this:
     <Application.Resources>
         <ResourceDictionary>
             <ResourceDictionary.MergedDictionaries>
-                <materialDesign:CustomColorTheme BaseTheme="Light" Primary="Aqua" Secondary="DarkGreen" />
+                <materialDesign:CustomColorTheme BaseTheme="Light" PrimaryColor="Aqua" SecondaryColor="DarkGreen" />
                 <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.Defaults.xaml" /> 
             </ResourceDictionary.MergedDictionaries>
         </ResourceDictionary>
