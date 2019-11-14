@@ -91,7 +91,7 @@ We're almost there! Now, all we need to do is configure our window to have Mater
 ```xml
 <Window [...]
         TextElement.Foreground="{DynamicResource MaterialDesignBody}"
-        Background="{DynamicResource MaterialDesignBackground}"
+        Background="{DynamicResource MaterialDesignPaper}"
         [...] >
 ```
 
@@ -100,7 +100,7 @@ These will ensure the window uses Material Design colors, blending in nicely wit
 ```xml
 <Window [...]
         TextElement.Foreground="{DynamicResource MaterialDesignBody}"
-        Background="{DynamicResource MaterialDesignBackground}"
+        Background="{DynamicResource MaterialDesignPaper}"
         TextElement.FontWeight="Medium"
         TextElement.FontSize="14"
         FontFamily="pack://application:,,,/MaterialDesignThemes.Wpf;component/Resources/Roboto/#Roboto"
@@ -189,29 +189,6 @@ So, if you wanted to use Deep Purple as your primary color and Lime as your seco
 </Application>
 ```
 
-## Configuring your Window(s)
-We're almost there! Now, all we need to do is configure our window to have Material Designs's look. There are no secrets here, you just need to add a few parameters to your Window's opening tag. The basic ones are:
-
-```xml
-<Window [...]
-        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
-        Background="{DynamicResource MaterialDesignPaper}"
-        [...] >
-```
-
-These will ensure the window uses Material Design colors, blending in nicely with the Toolkit's styles and components. However, for the full Material Design experience, you should use:
-
-```xml
-<Window [...]
-        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
-        Background="{DynamicResource MaterialDesignPaper}"
-        TextElement.FontWeight="Medium"
-        TextElement.FontSize="14"
-        FontFamily="pack://application:,,,/MaterialDesignThemes.Wpf;component/Resources/Roboto/#Roboto"
-        [...] >
-```
-
-Now your window's text will also blend in nicely with Material Design.
 
 ## Summary
 To use Material Design in XAML Toolkit, you'll need to install the package manually or through NuGet, import either the Light or Dark theme, import the Default file that contains all of the component's themes, choose Primary and Accent colors of your preference, and configure your window to use Material Design's looks.
