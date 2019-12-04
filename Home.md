@@ -1,6 +1,6 @@
 # Welcome to the Material Design In XAML Toolkit Wiki!
 
-Comience con la documentación:
+Start at one of these places:
 
 * [[Super Quick Start]]
 
