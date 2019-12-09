@@ -20,6 +20,6 @@ First edit your csproj file and add place the following ***inside*** of the `<Pr
   <IncludeMaterialDesignFont>True</IncludeMaterialDesignFont>
   <MaterialDesignFontDirectory>Resources\Roboto\</MaterialDesignFontDirectory>
 </PropertyGroup>
-```xml
+```
 
 Then rebuild your project. In your output directory, you will see the font font show up under a Resources\Roboto directory. Depending on which version of the csproj you are using, you may also see the files show up in the folder inside of your solution explorer.
