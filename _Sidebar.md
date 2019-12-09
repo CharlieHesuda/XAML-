@@ -28,6 +28,7 @@ Theming
 &nbsp;&nbsp;&nbsp;&nbsp;[Advanced Theming](Advanced-Theming)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Brush Names](Brush-Names)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Custom Palette Hues](Custom-Palette-Hues)  
+&nbsp;&nbsp;&nbsp;&nbsp;[Fonts](Fonts)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Overriding Default Styles](Overriding-Default-Styles)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Swatches and Recommended Colors](Swatches-and-Recommended-Colors)  
   

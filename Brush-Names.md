@@ -1,4 +1,4 @@
-Sometimes you may want to use the toolkit's brush names directly in your XAML.  Typically you'll use them as dynamic resources, so the update with the current material palette.
+Sometimes you may want to use the toolkit's brushs directly in your XAML. Typically you'll use them as dynamic resources, so they update with the current material palette.
 
 # Palette Brush Names
 
@@ -11,10 +11,21 @@ Sometimes you may want to use the toolkit's brush names directly in your XAML.  
 * PrimaryHueDarkBrush
 * PrimaryHueDarkForegroundBrush
 
-NB.  *[Light/Mid/Dark]Brush brushes define the different hues of the primary colour, and the *[Light/Mid/Dark]ForegroundBrush define a foreground colour which will show up clearly on that hue.
+NB `[Light/Mid/Dark]Brush` define the different hues of the colour, and the `[Light/Mid/Dark]ForegroundBrush` define a foreground colour which will show up clearly on that hue.
+
 
 ## Accent Colour
 
+* SecondaryHueLightBrush
+* SecondaryHueLightForegroundBrush
+* SecondaryHueMidBrush
+* SecondaryHueMidForegroundBrush
+* SecondaryHueDarkBrush
+* SecondaryHueDarkForegroundBrush
+
+NB `[Light/Mid/Dark]Brush` define the different hues of the colour, and the `[Light/Mid/Dark]ForegroundBrush` define a foreground colour which will show up clearly on that hue.
+
+Prior to version 2.6.0 there was only these accent brushes. Though these still exist in version 3.0.0, they should be considered obsolete and will be removed in a future version.
 * SecondaryAccentBrush
 * SecondaryAccentForegroundBrush
 
@@ -26,6 +37,8 @@ NB.  *[Light/Mid/Dark]Brush brushes define the different hues of the primary col
 
 * MaterialDesignBackground
 * MaterialDesignPaper
+* MaterialDesignCardBackground
+* MaterialDesignToolBarBackground
 * MaterialDesignBody
 * MaterialDesignBodyLight
 * MaterialDesignColumnHeader
@@ -38,5 +51,12 @@ NB.  *[Light/Mid/Dark]Brush brushes define the different hues of the primary col
 * MaterialDesignFlatButtonRipple
 * MaterialDesignToolTipBackground
 * MaterialDesignChipBackground
-* MaterialDesignCardBackground
+* MaterialDesignSnackbarBackground
+* MaterialDesignSnackbarMouseOver
+* MaterialDesignSnackbarRipple
+* MaterialDesignTextFieldBoxBackground
+* MaterialDesignTextFieldBoxHoverBackground
+* MaterialDesignTextFieldBoxDisabledBackground
+* MaterialDesignTextAreaBorder
+* MaterialDesignTextAreaInactiveBorder
 

@@ -1,52 +1,30 @@
 **Material Design in XAML Toolkit** consists of Material styles for existing components and completly new components that follow the Material Design logic. This article will guide you through the steps necessary to set-up Material Design in XAML Toolkit in your project.
 
 There is also an [introductory video](https://youtu.be/-n5yeEOsbCk).
- 
+
+The setup of the toolkit can vary from version to version. Please note which version of the toolkit you are usine.
+
 ## Installing the Toolkit
 
 Before anything else, you must install the Toolkit. This can be done either manually or through the [NuGet package](https://www.nuget.org/packages/MaterialDesignThemes/) (```Install-Package MaterialDesignThemes```).
 
 
 We also require to install [ShowMeTheXAML](https://github.com/Keboo/ShowMeTheXAML) using nuget or manually  `PM> Install-Package ShowMeTheXAML.MSBuild`
- 
-## Configuring your App.xaml
 
-### The basics
+## Version 3.0.0 and later
+
+### Configuring your App.xaml
 
 Like any other XAML library, the Toolkit needs to be imported and configured through your project's App.xaml to function properly. All of the following changes should be done as merged dictionaries (complete sample below). First you will need to include all of the default styles for the controls. This is required regardless of which of the three styling options you choose.
 
-```XAML
+```xml
 <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.Defaults.xaml" /> 
 ```
 
 Next you need to select a color theme. The simplest option is to use one of the built-in themes provided by the `BuildedTheme` markup extension.
 
-**For version 2.6.0 use this:**
-
-```XAML
-<Application x:Class="Example.App"
-             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
-             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
-             StartupUri="MainWindow.xaml">
-    <Application.Resources>
-        <ResourceDictionary>
-            <ResourceDictionary.MergedDictionaries>
-                <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.Light.xaml"/>
-                <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.Defaults.xaml"/>
-                <ResourceDictionary Source="pack://application:,,,/MaterialDesignColors;component/Themes/Recommended/Primary/MaterialDesignColor.Blue.xaml"/>
-                <ResourceDictionary Source="pack://application:,,,/MaterialDesignColors;component/Themes/Recommended/Accent/MaterialDesignColor.Purple.xaml"/>
-            </ResourceDictionary.MergedDictionaries>
-        </ResourceDictionary>
-    </Application.Resources>
-</Application>
-```
-
-
-**For the version 3.0 (preview) use this:**
-
 A final App.xaml should look something like this:
-```XAML
+```xml
 <Application x:Class="Example.App"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
@@ -63,10 +41,9 @@ A final App.xaml should look something like this:
 </Application>
 ```
 
-
 If you would prefer to use your own custom colors for the theme, you can do this with the `CustomColorTheme` markup extension.
 A final App.xaml should look something like this:
-```XAML
+```xml
 <Application x:Class="Example.App"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
@@ -83,9 +60,7 @@ A final App.xaml should look something like this:
 </Application>
 ```
 
-
-
-## Configuring your Window(s)
+### Configuring your Window(s)
 We're almost there! Now, all we need to do is configure our window to have Material Designs's look. There are no secrets here, you just need to add a few parameters to your Window's opening tag. The basic ones are:
 
 ```xml
@@ -95,38 +70,41 @@ We're almost there! Now, all we need to do is configure our window to have Mater
         [...] >
 ```
 
-These will ensure the window uses Material Design colors, blending in nicely with the Toolkit's styles and components. However, for the full Material Design experience, you should use:
+These will ensure the window uses Material Design colors, blending in nicely with the Toolkit's styles and components. However, for the full Material Design experience, you should setup the font like this:
 
 ```xml
 <Window [...]
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
         TextElement.Foreground="{DynamicResource MaterialDesignBody}"
         Background="{DynamicResource MaterialDesignPaper}"
         TextElement.FontWeight="Medium"
         TextElement.FontSize="14"
-        FontFamily="pack://application:,,,/MaterialDesignThemes.Wpf;component/Resources/Roboto/#Roboto"
+        FontFamily="{materialDesign:MaterialDesignFont}"
         [...] >
 ```
 
 Now your window's text will also blend in nicely with Material Design.
 
-Finally you can also choose to use the theme resource dictionaries directly like what was available in versions 2.5.1 and earlier (see below).
 
-### Version 2.5.1 and earlier
-If you are using version 2.5.1 or earlier this is what you need to do.
+## Version 2.6.0 and earlier
+
+### Configuring your App.xaml
+
+Like any other XAML library, the Toolkit needs to be imported and configured through your project's App.xaml to function properly. All of the following changes should be done as merged dictionaries (complete sample below). First you will need to include all of the default styles for the controls. This is required regardless of which of the three styling options you choose.
 
 First of all, you'll need to merge one of the themes (Dark or Light) into your resource dictionary. This can be accomplished by adding the following line inside your Resource Dictionary's Merged Dictionaries:
- 
- * For the Light theme:
- ```xml
- <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.Light.xaml" />
- ```
- 
- * For the Dark theme:
- ```xml
- <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.Dark.xaml" />
- ```
 
-Then, you'll need to load the ```MaterialDesignTheme.Defaults.xaml``` file, which contains all of the component styles, with the following line:
+* For the Light theme:
+```xml
+<ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.Light.xaml" />
+```
+
+* For the Dark theme:
+```xml
+<ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.Dark.xaml" />
+```
+
+Then, you'll need to load the `MaterialDesignTheme.Defaults.xaml` file, which contains all of the component styles, with the following line:
 
 ```xml
 <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.Defaults.xaml" /> 
@@ -143,14 +121,12 @@ Your App.xaml should be looking something like this for now:
         <ResourceDictionary>
             <ResourceDictionary.MergedDictionaries>
                 <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.Light.xaml" />
-                <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.Defaults.xaml" />                
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.Defaults.xaml" />
             </ResourceDictionary.MergedDictionaries>
         </ResourceDictionary>
     </Application.Resources>
 </Application>
 ```
-
-If you open your project now, you'll notice the components work but lack color. This will be remedied in the next section,
 
 ### The Colors
 
@@ -189,6 +165,30 @@ So, if you wanted to use Deep Purple as your primary color and Lime as your seco
 </Application>
 ```
 
+### Configuring your Window(s)
+
+We're almost there! Now, all we need to do is configure our window to have Material Designs's look. There are no secrets here, you just need to add a few parameters to your Window's opening tag. The basic ones are:
+
+```xml
+<Window [...]
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+        Background="{DynamicResource MaterialDesignPaper}"
+        [...] >
+```
+
+These will ensure the window uses Material Design colors, blending in nicely with the Toolkit's styles and components. However, for the full Material Design experience, you should use:
+
+```xml
+<Window [...]
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+        Background="{DynamicResource MaterialDesignPaper}"
+        TextElement.FontWeight="Medium"
+        TextElement.FontSize="14"
+        FontFamily="pack://application:,,,/MaterialDesignThemes.Wpf;component/Resources/Roboto/#Roboto"
+        [...] >
+```
+
+Now your window's text will also blend in nicely with Material Design.
 
 ## Summary
 To use Material Design in XAML Toolkit, you'll need to install the package manually or through NuGet, import either the Light or Dark theme, import the Default file that contains all of the component's themes, choose Primary and Accent colors of your preference, and configure your window to use Material Design's looks.
