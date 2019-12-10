@@ -9,13 +9,13 @@ This tool was created to make it easier to bachup data.
 ## [DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter)
 Tool for for exporting Discord chat logs to a file.
 
+![](https://github.com/Tyrrrz/DiscordChatExporter/blob/master/.screenshots/list.png)
+
 ## [LightBulb](https://github.com/Tyrrrz/LightBulb)
 
 Background app that gradually reduces blue light
 
-https://github.com/Tyrrrz/LightBulb/blob/master/.screenshots/dashboard.png
-
-![](https://github.com/Tyrrrz/DiscordChatExporter/blob/master/.screenshots/list.png)
+![](https://github.com/Tyrrrz/LightBulb/blob/master/.screenshots/dashboard.png)
 
 ## [TrafficGrapher](https://github.com/oMaN-Rod/TrafficGrapher)
 This tool was inspired by [MRTG](https://oss.oetiker.ch/mrtg/index.en.html) and [STG](http://leonidvm.chat.ru/), it allows quickly monitoring network traffic via SNMP.
