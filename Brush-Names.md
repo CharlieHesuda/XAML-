@@ -14,7 +14,7 @@ Sometimes you may want to use the toolkit's brushs directly in your XAML. Typica
 NB `[Light/Mid/Dark]Brush` define the different hues of the colour, and the `[Light/Mid/Dark]ForegroundBrush` define a foreground colour which will show up clearly on that hue.
 
 
-## Accent Colour
+## Secondary Colour
 
 * SecondaryHueLightBrush
 * SecondaryHueLightForegroundBrush
