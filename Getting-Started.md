@@ -2,7 +2,7 @@
 
 There is also an [introductory video](https://youtu.be/-n5yeEOsbCk).
 
-The setup of the toolkit can vary from version to version. Please note which version of the toolkit you are usine.
+The setup of the toolkit can vary from version to version. Please note which version of the toolkit you are using.
 
 ## Installing the Toolkit
 
