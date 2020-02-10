@@ -34,6 +34,15 @@ This tool was inspired by [MRTG](https://oss.oetiker.ch/mrtg/index.en.html) and 
 
 ![Menu](https://github.com/oMaN-Rod/TrafficGrapher/raw/master/web/images/menu.png "Menu")
 
+## [WPF Theme Manager](https://github.com/JM2K69/MaterialDesign_WPF_Creator)
+
+With this apps you can create many WPF application with PowerShell, with two principal theme MaterialDesign and Mahapps.
+
+![](https://github.com/JM2K69/MaterialDesign_WPF_Creator/blob/master/Gif.gif)
+
+![](https://github.com/JM2K69/MaterialDesign_WPF_Creator/blob/master/Gif2.gif)
+
+
 ## [YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader)
 
 Downloads videos and playlists from YouTube.
