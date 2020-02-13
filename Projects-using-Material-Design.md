@@ -6,6 +6,12 @@ This tool was created to make it easier to bachup data.
 
 ![](https://raw.githubusercontent.com/ChrisStayte/Bachup/master/Images/RunningBachup.gif)
 
+## [Binary Decimal Hexadecimal Converter](https://github.com/Taschenbuch/Binary-decimal-hexadecimal-converter)
+Convert between multiple binary, decimal and hexadecimal values. Add a comment to them, to remember what the value was for. Add and delete rows.
+
+![grafik](https://user-images.githubusercontent.com/43114787/74468900-e65d6800-4e9b-11ea-9ac5-bf53b21d4353.png)
+
+
 ## [DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter)
 Tool for for exporting Discord chat logs to a file.
 
