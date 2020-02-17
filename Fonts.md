@@ -23,3 +23,5 @@ First edit your csproj file and add place the following ***inside*** of the `<Pr
 ```
 
 Then rebuild your project. In your output directory, you will see the font font show up under a Resources\Roboto directory. Depending on which version of the csproj you are using, you may also see the files show up in the folder inside of your solution explorer.
+
+More details and discussion on this can be found on [Issue 746](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/issues/746)
