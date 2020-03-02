@@ -3,5 +3,5 @@ The resource MaterialDesignTitleTextBlock need to replace on MaterialDesignCapti
 Error string:
 `<TextBlock Style="{DynamicResource MaterialDesignTitleTextBlock}">My First Material Design App</TextBlock>`
 
-Right string:
+Correct string:
 `<TextBlock Style="{DynamicResource MaterialDesignCaptionTextBlock}">My First Material Design App</TextBlock>`
