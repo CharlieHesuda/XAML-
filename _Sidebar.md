@@ -11,6 +11,7 @@ Getting Started with MDIX
 &nbsp;&nbsp;&nbsp;&nbsp;[Examples Repository](https://github.com/Keboo/MaterialDesignInXaml.Examples)  
   
 Release Notes  
+&nbsp;&nbsp;&nbsp;&nbsp;[Pack Icon Changes](PackIcon-ReleaseNotes)  
 &nbsp;&nbsp;&nbsp;&nbsp;[2.0.0 Breaking Changes](Version-200---Breaking-Changes)
   
 Controls  
