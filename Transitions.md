@@ -118,7 +118,7 @@ Effects can be delayed.  Using an items control, a great cascading effect can ac
 
 ## Additional
 
-* Custom wipes can be create be implementing ```ITransitionWipe```
+* Custom wipes can be create by implementing ```ITransitionWipe```
 * Custom effects can be created by implementing ```ITransitionEffect```
 
 ## Validation (Adorners)
