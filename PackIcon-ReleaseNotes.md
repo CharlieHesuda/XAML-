@@ -1,6 +1,6 @@
 # Pack Icon Release Note
 
-## Pack Icon Changes 3.1.0 => 3.1.1 (preview)
+## Pack Icon Changes 3.1.0 => 3.1.1
 ### New icons (27)
 - AxisArrowInfo
 - Bucket
