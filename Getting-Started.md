@@ -21,7 +21,7 @@ Like any other XAML library, the Toolkit needs to be imported and configured thr
 <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.Defaults.xaml" /> 
 ```
 
-Next you need to select a color theme. The simplest option is to use one of the built-in themes provided by the `BuildedTheme` markup extension.
+Next you need to select a color theme. The simplest option is to use one of the built-in themes provided by the `BundledTheme` resource dictionary.
 
 A final App.xaml should look something like this:
 ```xml
@@ -41,7 +41,7 @@ A final App.xaml should look something like this:
 </Application>
 ```
 
-If you would prefer to use your own custom colors for the theme, you can do this with the `CustomColorTheme` markup extension.
+If you would prefer to use your own custom colors for the theme, you can do this with the `CustomColorTheme` resource dictionary.
 A final App.xaml should look something like this:
 ```xml
 <Application x:Class="Example.App"
