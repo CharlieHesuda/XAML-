@@ -3,7 +3,8 @@
 - Edit App.xaml to following:
 
 ```
-<Application . . . >
+<Application . . .
+    xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes">
     <Application.Resources>
         <ResourceDictionary>
             <ResourceDictionary.MergedDictionaries>
