@@ -1,4 +1,4 @@
-If you are not happy with the default styles you can easily override them. Just create a resource dictionary with a new style using the **same key** as the style you want to override. Make sure you put the original style in the `BaseOn` attribute. 
+If you are not happy with the default styles you can easily override them. Just create a resource dictionary with a new style using the **same key** as the style you want to override. Make sure you put the original style in the `BasedOn` attribute. 
 
 Example of `MaterialDesignThemes.Overrides.xaml`:
 
