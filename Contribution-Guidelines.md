@@ -35,3 +35,10 @@ Things people can do to help with triaging issues
 ## Source Code
 The main solution file for this project is `MaterialDesignToolkit.Full.sln`. It contains reference to all of the projects. Loading this project and running all of the tests will require having a few additional dependencies installed (see Tests below). If you would prefer to load a smaller subset of the projects you can use the `MaterialDesignToolkit.Wpf.slnf` solution filter. This will load up the projects that are needed for WPF. 
 
+### Tests
+This library contains several layers of tests. When making pull requests, consider if adding additional tests may be helpful. Not all code can be reasonably tested in this library (for example most of the XAML code cannot be reasonably tested). If you are unfamiliar with writing tests; simply leave a comment in the pull request asking for help.
+
+Unit tests are all located in *.Tests projects. These are simple validation tests that run against the C# code in this library. These are run on every pull request.
+
+If you load the full solution (`MaterialDesignToolkit.Full.sln`) you will also notice that there are UI tests for the library as well. If you want to run these, you will need to install the latest stable version of [WinAppDrive](https://github.com/microsoft/WinAppDriver). If you install it to the default location, the tests will detect it and automatically start it for you (this is the recommended configuration). If you install it to a custom location, you will need to ensure that WinAppDriver is running, prior to running any of the UI tests. Because these tests take significantly longer to run, these test are only run _after_ a pull request is merged.
+ 
