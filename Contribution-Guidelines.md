@@ -31,3 +31,7 @@ Things people can do to help with triaging issues
 - Attempt to reproduce to the bug. If you are able to reproduce the issue please leave a comment indicating that you were also able to reproduce the bug along with the version of the library that you used. 
 - If the original issue did not contain a reproduction solution consider adding one.
 - If possible add additional notes or debugging information. For example, if you found the section of code that is causing the issue leave a comment. This can be very helpful for anyone looking to fix the issue.
+
+## Source Code
+The main solution file for this project is `MaterialDesignToolkit.Full.sln`. It contains reference to all of the projects. Loading this project and running all of the tests will require having a few additional dependencies installed (see Tests below). If you would prefer to load a smaller subset of the projects you can use the `MaterialDesignToolkit.Wpf.slnf` solution filter. This will load up the projects that are needed for WPF. 
+
