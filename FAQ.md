@@ -38,3 +38,34 @@ In WPF there exists the concept of an [Attached Property](https://docs.microsoft
 FrameworkElement myControl = ...;
 ShadowAssist.SetShadowDepth(myControl, ShadowDepth.Depth1);
 ```
+
+### When Using MahApps, attempting to reference PopupEx has the error "The type 'PopupEx' exists in both 'MaterialDesignThemes.Wpf' and 'ControlzEx`".
+This occurs because we include the same PopupEx code file in the MaterialDesginTemes.Wpf project that is also included in ControlzEx (which is referenced by MahApps). In most cases, types can be identified by simply specifying their full type name (namespace and type name), however in this case those match, and the types must be delimited by their assembly. In C# this is done using the [extern alias](https://docs.microsoft.com/dotnet/csharp/language-reference/keywords/extern-alias). This allows you to give an alias to one of the assemblies so that you can specify which class you intend to use. Though support for applying `extern alias` is coming soon to NuGet [see issue 4989](https://github.com/NuGet/Home/issues/4989), at present the simplest solution is to include an MSBuild target that will apply the alias to one of the assemblies. This target can be included anywhere inside of the `<Project>` element of your `.csproj` file.
+```xml
+<Target Name="ChangeAliasesOfNugetRefs" BeforeTargets="FindReferenceAssembliesForReferences;ResolveReferences">
+  <ItemGroup>
+    <ReferencePath Condition="'%(FileName)' == 'ControlzEx'">
+      <Aliases>controlzEx</Aliases>
+    </ReferencePath>
+  </ItemGroup>
+</Target>
+```
+Then in your C# files:
+```c#
+//extern alias must come before any using statements
+extern alias controlzEx;
+...
+//A reference to the PopupEx class inside of ControlzEx
+controlzEx::ControlzEx.PopupEx popup = ...
+            
+//Because no alias is specified on MaterialDesignThemes this reference now refers to the type in that assembly
+ControlzEx.PopupEx popup2 = ...
+```
+Or in XAML
+```xaml
+xmlns:mdix="clr-namespace:ControlzEx;assembly=MaterialDesignThemes.Wpf"
+xmlns:controlzEx="clr-namespace:ControlzEx;assembly=ControlzEx"
+...
+<mdix:PopupEx />
+<controlzEx:PopupEx />
+```
