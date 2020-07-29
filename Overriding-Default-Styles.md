@@ -30,7 +30,7 @@ As you are overriding default styles you probably want to merge your new default
                 <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.Light.xaml" />
                 <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.Defaults.xaml" /> 
 
-                <ResourceDictionary Source="pack://application:,,,/Your.Assembly;component/Themes/MaterialDesignThemes.Overrides.xaml" />
+                <ResourceDictionary Source="Your/Path/To/MaterialDesignThemes.Overrides.xaml" />
                                 
             </ResourceDictionary.MergedDictionaries>
         </ResourceDictionary>
