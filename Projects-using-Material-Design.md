@@ -55,3 +55,9 @@ Downloads videos and playlists from YouTube.
 
 ![](https://github.com/Tyrrrz/YoutubeDownloader/blob/master/.screenshots/list.png)
 ![](https://github.com/Tyrrrz/YoutubeDownloader/blob/master/.screenshots/single.png)
+
+## [Artemis](https://github.com/Artemis-RGB/Artemis)
+
+Provides advanced unified lighting across many different brands RGB peripherals
+
+![Keyframes](http://artemis-rgb.com/github/sSEvdAXeTQ.gif)
