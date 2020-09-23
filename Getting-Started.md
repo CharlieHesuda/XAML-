@@ -65,8 +65,8 @@ We're almost there! Now, all we need to do is configure our window to have Mater
 
 ```xml
 <Window [...]
-        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
-        Background="{DynamicResource MaterialDesignPaper}"
+        TextElement.Foreground="{DynamicResource MaterialDesignLightForeground}"
+        Background="{DynamicResource MaterialDesignLightBackground}"
         [...] >
 ```
 
@@ -75,8 +75,8 @@ These will ensure the window uses Material Design colors, blending in nicely wit
 ```xml
 <Window [...]
         xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
-        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
-        Background="{DynamicResource MaterialDesignPaper}"
+        TextElement.Foreground="{DynamicResource MaterialDesignLightForeground}"
+        Background="{DynamicResource MaterialDesignLightBackground}"
         TextElement.FontWeight="Medium"
         TextElement.FontSize="14"
         FontFamily="{materialDesign:MaterialDesignFont}"
