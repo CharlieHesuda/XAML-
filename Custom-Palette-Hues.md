@@ -13,7 +13,7 @@ Illustration of advanced configuration of App.xaml which allows individual palet
                 <ResourceDictionary>
                     <!-- include your primary palette -->
                     <ResourceDictionary.MergedDictionaries>
-                        <ResourceDictionary Source="pack://application:,,,/MaterialDesignColors;component/Themes/MaterialDesignColor.Indigo.Named.xaml" />
+                        <ResourceDictionary Source="pack://application:,,,/MaterialDesignColors;component/Themes/Recommended/Primary/MaterialDesignColor.Indigo.xaml" />
                     </ResourceDictionary.MergedDictionaries>
                     <!--
                             include three hues from the primary palette (and the associated forecolours).
@@ -31,12 +31,12 @@ Illustration of advanced configuration of App.xaml which allows individual palet
                 <ResourceDictionary>
                     <!-- include your secondary pallette -->
                     <ResourceDictionary.MergedDictionaries>
-                        <ResourceDictionary Source="pack://application:,,,/MaterialDesignColors;component/Themes/MaterialDesignColor.Yellow.Named.xaml" />
+                        <ResourceDictionary Source="pack://application:,,,/MaterialDesignColors;component/Themes/Recommended/Accent/MaterialDesignColor.Yellow.xaml" />
                     </ResourceDictionary.MergedDictionaries>
 
                     <!-- include a single secondary accent color (and the associated forecolour) -->
-                    <SolidColorBrush x:Key="SecondaryAccentBrush" Color="{StaticResource Accent200}"/>
-                    <SolidColorBrush x:Key="SecondaryAccentForegroundBrush" Color="{StaticResource Accent200Foreground}"/>
+                    <SolidColorBrush x:Key="SecondaryHueMidBrush" Color="{StaticResource Accent200}"/>
+                    <SolidColorBrush x:Key="SecondaryHueMidForegroundBrush" Color="{StaticResource Accent200Foreground}"/>
                 </ResourceDictionary>
             </ResourceDictionary.MergedDictionaries>
         </ResourceDictionary>
@@ -64,8 +64,8 @@ If you want to use completely non-standard brushes, just define them manually:
             <SolidColorBrush x:Key="PrimaryHueDarkBrush" Color="#4D1DCF"/>
             <SolidColorBrush x:Key="PrimaryHueDarkForegroundBrush" Color="#FFFFFF"/>
             <!-- accent -->
-            <SolidColorBrush x:Key="SecondaryAccentBrush" Color="#5C5B5E"/>
-            <SolidColorBrush x:Key="SecondaryAccentForegroundBrush" Color="#FFFFFF"/>
+            <SolidColorBrush x:Key="SecondaryHueMidBrush" Color="#5C5B5E"/>
+            <SolidColorBrush x:Key="SecondaryHueMidForegroundBrush" Color="#FFFFFF"/>
         </ResourceDictionary>
     </Application.Resources>
 </Application>
