@@ -1,6 +1,6 @@
 [Home](Home)  
 [Contributing](Contribution-Guidelines)  
-[Building From Source](Compiling-From-Source)  
+[Compiling From Source](Compiling-From-Source)  
 [Glossary](Glossary)
   
 Getting Started with MDIX  
