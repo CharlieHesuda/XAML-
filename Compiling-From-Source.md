@@ -2,7 +2,7 @@
 
 The NuGet package are backwards compatibile and can be used in any WPF application (targetting .NET 4.5 or later) with any version of Visual Studio. If you wish to **compile the library from source it will REQUIRE Visual Studio 2019 (v16.3 or later) with .NET Core 3.1 SDK installed**. This is because the source code leverages the latest features, such as expression bodied members, which cannot be compiled in earlier versions of Visual Studio. 
   
-The main project is contained within the `MaterialDesignToolkit.Wpf.sln` file located at the root of the repository. This is the file you want to open in Visual Studio.  
+The main project is contained within the `MaterialDesignToolkit.Wpf.slnf` file located at the root of the repository. This is the file you want to open in Visual Studio.  
   
 Set the startup project to be `Demos\MaterialDesignDemo`, compile and run (or simply press F5).  
   
