@@ -71,3 +71,10 @@ xmlns:controlzEx="clr-namespace:ControlzEx;assembly=ControlzEx"
 <mdix:PopupEx />
 <controlzEx:PopupEx />
 ```
+
+### When attaching routed command (such as `DialogHost.OpenDialogCommand`) my button shows as disabled.
+This is normal WPF commanding behavior. When you attached a command to a button, the command can indicate if it is able to execute. If it is not able to be executed, the button is then disabled. Within WPF there are two common types of commands that get used. 
+1. The first type is a simple `ICommand` implementation that is provided via a view model (or similar). These command often simply invoke a method when they are executed. Though WPF does not provide a native implementation for this, many popular MVVM libraries do have some implementation of the `ICommand` interface that is designed to make method invocation simple.
+2. Routed commands, are setup to explicitly cause a separation between the element invoking the command, and the element handling the execution of the command. When a routed command is invoked, WPF looks up through the visual tree (starting with element that invoked the command) for an element that can handle the command. If no handler is found, then the command will cause the button to be disabled. In the case with the `DialogHost.OpenDialogCommand` this often occurs because no `DialogHost` instance is found in the visual tree. You can also specify and alternate command target to use to find the handler for the RoutedCommand by using the [CommandTarget property](https://docs.microsoft.com/dotnet/api/system.windows.input.inputbinding.commandtarget?view=netcore-3.1).
+
+You can find more information in the [docs](https://docs.microsoft.com/en-us/dotnet/desktop/wpf/advanced/commanding-overview?view=netframeworkdesktop-4.8)
