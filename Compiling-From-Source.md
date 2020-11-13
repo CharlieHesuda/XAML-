@@ -1,18 +1,10 @@
 # Compiling From Source
 
-The NuGet package are backwards compatibile and can be used in any WPF application (targetting .NET 4.5 or later) with any version of Visual Studio. If you wish to **compile the library from source it will REQUIRE Visual Studio 2019 (v16.3 or later) with .NET Core 3.1 SDK installed**. This is because the source code leverages the latest features, such as expression bodied members, which cannot be compiled in earlier versions of Visual Studio. 
-  
+The NuGet package are backwards compatible and can be used in any WPF application (targeting .NET 4.5 or later) with any version of Visual Studio. If you wish to **compile the library from source it will REQUIRE Visual Studio 2019 (v16.8 or later; C# 9 compiler is required) with .NET 5.0.100 SDK or later installed**. This is because the source code leverages the latest features, such as expression bodied members, which cannot be compiled in earlier versions of Visual Studio. You will need to ensure that you have enabled the .NET desktop development workflow from the Visual Studio Installer.
+
 The main project is contained within the `MaterialDesignToolkit.Wpf.slnf` file located at the root of the repository. This is the file you want to open in Visual Studio.  
-After cloning the repository there are two commands that need to be run to restore dependency. Open a terminal at the root directory of the repository. The two commands to run are: 
-```
-> dotnet tool restore
-> dotnet paket restore 
-```
-Launch visual studio and set the startup project to be `Demos\MaterialDesignDemo`, compile and run (or simply press F5).  
+
+Launch Visual Studio and set the startup project to be `Demos\MaterialDesignDemo`, compile and run (or simply press F5).  
 
 
-### Old instructions for 3.x
-The first time you compile the project you may likely get the error `ShowMeTheXAML was added to the MaterialDesignDemo project. Please rebuild the project.`. This is expected and should only occur the very first time you compile the library. Simply re-build the solution (from the top menu Build>>Rebuild Solution). You must **rebuild**, not just a normal incremental build. If you continue to get this error, you may need to restart Visual Studio. For more details see [this comment](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/issues/1187#issuecomment-462640254).
-  
-This library uses [paket](https://fsprojects.github.io/Paket/) to install its dependencies. Typically these should be downloaded automatically for you when you first compile the solution.
 
