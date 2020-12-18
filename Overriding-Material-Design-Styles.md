@@ -1,4 +1,4 @@
-If you are not happy with the default styles you can easily override them. Just create a resource dictionary with a new style using the **same key** as the style you want to override. Make sure you put the original style in the `BasedOn` attribute. 
+If you are not happy with the styles provided by this library, then you can easily override them. Just create a resource dictionary with a new style using the **same key** as the style you want to override (or omit the key if you want to override the default style for the target type). Make sure you put the original style in the `BasedOn` attribute. 
 
 Example of `MaterialDesignThemes.Overrides.xaml`:
 
@@ -11,6 +11,10 @@ Example of `MaterialDesignThemes.Overrides.xaml`:
         <Setter Property="FontSize" Value="24" />
         <Setter Property="materialDesign:HintAssist.FloatingScale" Value="0.6" />
         <Setter Property="materialDesign:HintAssist.FloatingOffset" Value="1,-20" />
+    </Style>
+
+    <Style BasedOn="{StaticResource MaterialDesignButtonTextBlock}" TargetType="{x:Type TextBlock}">
+        <Setter Property="FontSize" Value="24" />
     </Style>
 
 </ResourceDictionary>     
