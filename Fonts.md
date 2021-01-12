@@ -1,6 +1,6 @@
 ## Fonts (v3.0.0 and later)
 
-In versions prior to 3.0.0 the only wany to reference the bundled Roboto font was as a packd resource using: 
+In versions prior to 3.0.0 the only wany to reference the bundled Roboto font was as a packed resource using: 
 ```xml
 FontFamily="pack://application:,,,/MaterialDesignThemes.Wpf;component/Resources/Roboto/#Roboto"
 ```
@@ -12,9 +12,9 @@ FontFamily="{materialDesign:MaterialDesignFont}"
 ```
 
 ## Include font files (v3.0.0 and later)
-If you would prefer to have the Roboto font files included in your project rather than just as an embedded resources inside of the material design library you can add a new property to your project.
+If you would prefer to have the Roboto font files included in your project rather than just as embedded resources inside of the material design library you can add a new property to your project.
 
-First edit your csproj file and add place the following ***inside*** of the `<Project>` element.
+First edit your csproj file and add the following ***inside*** of the `<Project>` element.
 ```xml
 <PropertyGroup>
   <IncludeMaterialDesignFont>True</IncludeMaterialDesignFont>
@@ -24,4 +24,4 @@ First edit your csproj file and add place the following ***inside*** of the `<Pr
 
 Then rebuild your project. In your output directory, you will see the font font show up under a Resources\Roboto directory. Depending on which version of the csproj you are using, you may also see the files show up in the folder inside of your solution explorer.
 
-More details and discussion on this can be found on [Issue 746](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/issues/746)
+More details and discussion on this can be found in [Issue 746](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/issues/746)
