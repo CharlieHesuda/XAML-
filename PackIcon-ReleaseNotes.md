@@ -1,7 +1,7 @@
 # Pack Icon Release Note
 
 ## Pack Icon Changes 3.2.0 => 4.0.0
-### New icons (1319)
+### New icons (1321)
 - Abacus
 - AccountFavorite
 - AccountFilter, AccountFunnel, Leads
@@ -611,6 +611,8 @@
 - PokerSpade
 - PostItNote, StickyNote
 - PostItNoteOutline, StickyNoteOutline
+- ProgressPencil
+- ProgressStar
 - ProjectorScreenOutline
 - PuzzleFavorite
 - PuzzleFavoriteOutline
