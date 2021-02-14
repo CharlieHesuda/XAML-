@@ -1,6 +1,6 @@
 ***
 
-**Please Note:** *The MaterialDesignThemes.MahApps project is contained in [its own NuGet package](https://www.nuget.org/packages/MaterialDesignThemes.MahApps), which must be downloaded separatedly. (```Install-Package MaterialDesignThemes.MahApps```)*
+**Please Note:** *The MaterialDesignThemes.MahApps project is contained in [its own NuGet package](https://www.nuget.org/packages/MaterialDesignThemes.MahApps), which must be downloaded separately. (```Install-Package MaterialDesignThemes.MahApps```)*
 
 
 ***
