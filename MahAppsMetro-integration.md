@@ -64,6 +64,29 @@ Here's what the substitution looks like:
 <SolidColorBrush x:Key="MahApps.Metro.Brushes.ToggleSwitchButton.ThumbIndicatorCheckedBrush.Win10" Color="{DynamicResource Primary500Foreground}" />
 ```
 
+For MahApps 2.0
+```xml
+<SolidColorBrush x:Key="MahApps.Brushes.Highlight" Color="{DynamicResource Primary700}"/>
+<SolidColorBrush x:Key="MahApps.Brushes.AccentBase" Color="{DynamicResource Primary600}" />
+<SolidColorBrush x:Key="MahApps.Brushes.Accent" Color="{DynamicResource Primary500}"/>
+<SolidColorBrush x:Key="MahApps.Brushes.Accent2" Color="{DynamicResource Primary400}"/>
+<SolidColorBrush x:Key="MahApps.Brushes.Accent3" Color="{DynamicResource Primary300}"/>
+<SolidColorBrush x:Key="MahApps.Brushes.Accent4" Color="{DynamicResource Primary200}"/>
+<SolidColorBrush x:Key="MahApps.Brushes.WindowTitle" Color="{DynamicResource Primary700}"/>
+<SolidColorBrush x:Key="MahApps.Brushes.Selected.Foreground" Color="{DynamicResource Primary500Foreground}"/>
+<LinearGradientBrush x:Key="MahApps.Brushes.Progress" EndPoint="0.001,0.5" StartPoint="1.002,0.5">
+	<GradientStop Color="{DynamicResource Primary700}" Offset="0"/>
+	<GradientStop Color="{DynamicResource Primary300}" Offset="1"/>
+</LinearGradientBrush>
+<SolidColorBrush x:Key="MahApps.Brushes.CheckmarkFill" Color="{DynamicResource Primary500}"/>
+<SolidColorBrush x:Key="MahApps.Brushes.RightArrowFill" Color="{DynamicResource Primary500}"/>
+<SolidColorBrush x:Key="MahApps.Brushes.IdealForeground" Color="{DynamicResource Primary500Foreground}"/>
+<SolidColorBrush x:Key="MahApps.Brushes.IdealForegroundDisabled" Color="{DynamicResource Primary500}" Opacity="0.4"/>
+<SolidColorBrush x:Key="MahApps.Metro.Brushes.ToggleSwitchButton.OnSwitchBrush.Win10" Color="{DynamicResource Primary500}" />
+<SolidColorBrush x:Key="MahApps.Metro.Brushes.ToggleSwitchButton.OnSwitchMouseOverBrush.Win10" Color="{DynamicResource Primary400}" />
+<SolidColorBrush x:Key="MahApps.Metro.Brushes.ToggleSwitchButton.ThumbIndicatorCheckedBrush.Win10" Color="{DynamicResource Primary500Foreground}" />
+```
+
 ## The Fonts
 Metro uses Segoe UI, Material uses Roboto. To override MahApps' fonts with Roboto, import the following file:
 
