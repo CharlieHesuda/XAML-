@@ -16,7 +16,7 @@
 </Application>
 ```
 
-- Edit MainWindow.xaml to following:
+- Edit MainWindow.xaml to the following:
 ```
 <Window . . .
         xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
