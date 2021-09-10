@@ -1,4 +1,4 @@
-**Material Design in XAML Toolkit** consists of Material styles for existing components and completely new components that follow the Material Design logic. This article will guide you through the steps necessary to set-up Material Design in XAML Toolkit in your project.
+**Material Design in XAML Toolkit** consists of Material styles for existing components and completely new components that follow the Material Design logic. This article will guide you through the steps necessary to set up Material Design in XAML Toolkit in your project.
 
 There is also an [introductory video](https://youtu.be/-n5yeEOsbCk).
 
@@ -15,13 +15,13 @@ We also require to install [ShowMeTheXAML](https://github.com/Keboo/ShowMeTheXAM
 
 ### Configuring your App.xaml
 
-Like any other XAML library, the Toolkit needs to be imported and configured through your project's App.xaml to function properly. All of the following changes should be done as merged dictionaries (complete sample below). First you will need to include all of the default styles for the controls. This is required regardless of which of the three styling options you choose.
+Like any other XAML library, the Toolkit needs to be imported and configured through your project's App.xaml to function properly. All of the following changes should be done as merged dictionaries (complete sample below). First, you will need to include all of the default styles for the controls. This is required regardless of which of the three styling options you choose.
 
 ```xml
 <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.Defaults.xaml" /> 
 ```
 
-Next you need to select a color theme. The simplest option is to use one of the built-in themes provided by the `BundledTheme` resource dictionary.
+Next, you need to select a color theme. The simplest option is to use one of the built-in themes provided by the `BundledTheme` resource dictionary.
 
 A final App.xaml should look something like this:
 ```xml
@@ -70,7 +70,7 @@ We're almost there! Now, all we need to do is configure our window to have Mater
         [...] >
 ```
 
-These will ensure the window uses Material Design colors, blending in nicely with the Toolkit's styles and components. However, for the full Material Design experience, you should setup the font like this:
+These will ensure the window uses Material Design colors, blending in nicely with the Toolkit's styles and components. However, for the full Material Design experience, you should set up the font like this:
 
 ```xml
 <Window [...]
@@ -90,7 +90,7 @@ Now your window's text will also blend in nicely with Material Design.
 
 ### Configuring your App.xaml
 
-Like any other XAML library, the Toolkit needs to be imported and configured through your project's App.xaml to function properly. All of the following changes should be done as merged dictionaries (complete sample below). First you will need to include all of the default styles for the controls. This is required regardless of which of the three styling options you choose.
+Like any other XAML library, the Toolkit needs to be imported and configured through your project's App.xaml to function properly. All of the following changes should be done as merged dictionaries (complete sample below). First, you will need to include all of the default styles for the controls. This is required regardless of which of the three styling options you choose.
 
 First of all, you'll need to merge one of the themes (Dark or Light) into your resource dictionary. This can be accomplished by adding the following line inside your Resource Dictionary's Merged Dictionaries:
 
@@ -130,7 +130,7 @@ Your App.xaml should be looking something like this for now:
 
 ### The Colors
 
-In Material Design, two 'palettes' need to be defined: Primary and Accent. To make your life easier, the Toolkit includes all of [Google's swatches](https://www.google.com/design/spec/style/color.html#color-color-palette) and their recommended palettes built in and ready to be used! They are contained in the MaterialDesignColors project, which is imported automatically as a dependency when you install the main NuGet package. 
+In Material Design, two 'palettes' need to be defined: Primary and Accent. To make your life easier, the Toolkit includes all of [Google's swatches](https://www.google.com/design/spec/style/color.html#color-color-palette) and their recommended palettes built-in and ready to be used! They are contained in the MaterialDesignColors project, which is imported automatically as a dependency when you install the main NuGet package. 
 
 In this section, we'll use the recommended palettes to define our application's colors, since they're the easiest way to do it and also the most common. If you'd like to learn more, see the [[Swatches and Recommended Colors]] page.
 
@@ -167,7 +167,7 @@ So, if you wanted to use Deep Purple as your primary color and Lime as your seco
 
 ### Configuring your Window(s)
 
-We're almost there! Now, all we need to do is configure our window to have Material Designs's look. There are no secrets here, you just need to add a few parameters to your Window's opening tag. The basic ones are:
+We're almost there! Now, all we need to do is configure our window to have Material Designs' look. There are no secrets here, you just need to add a few parameters to your Window's opening tag. The basic ones are:
 
 ```xml
 <Window [...]
@@ -191,7 +191,7 @@ These will ensure the window uses Material Design colors, blending in nicely wit
 Now your window's text will also blend in nicely with Material Design.
 
 ## Summary
-To use Material Design in XAML Toolkit, you'll need to install the package manually or through NuGet, import either the Light or Dark theme, import the Default file that contains all of the component's themes, choose Primary and Accent colors of your preference, and configure your window to use Material Design's looks.
+To use Material Design in the XAML Toolkit, you'll need to install the package manually or through NuGet, import either the Light or Dark theme, import the Default file that contains all of the component's themes, choose Primary and Accent colors of your preference and configure your window to use Material Design's looks.
 
 # Using the Toolkit with MahApps
 If you also want to use MahApps.Metro in your project, check out the [[MahApps.Metro integration]] page.
