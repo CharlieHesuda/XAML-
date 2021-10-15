@@ -11,7 +11,7 @@ using MaterialDesignThemes.Wpf;
 using System.Windows.Media;
 ...
 PrimaryColor primary = PrimaryColor.DeepPurple;
-Color primaryColor = SwatchHelper.Lookup[(MaterialDesignColor)PrimaryColor];
+Color primaryColor = SwatchHelper.Lookup[(MaterialDesignColor)primary];
 
 SecondaryColor secondary = SecondaryColor.Teal;
 Color secondaryColor = SwatchHelper.Lookup[(MaterialDesignColor) SecondaryColor];
