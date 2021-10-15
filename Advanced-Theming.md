@@ -14,7 +14,7 @@ PrimaryColor primary = PrimaryColor.DeepPurple;
 Color primaryColor = SwatchHelper.Lookup[(MaterialDesignColor)primary];
 
 SecondaryColor secondary = SecondaryColor.Teal;
-Color secondaryColor = SwatchHelper.Lookup[(MaterialDesignColor) SecondaryColor];
+Color secondaryColor = SwatchHelper.Lookup[(MaterialDesignColor)secondary];
 
 IBaseTheme baseTheme = Theme.Light;
 //If you want a dark theme you can use IBaseTheme baseTheme = Theme.Dark;
