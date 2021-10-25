@@ -1,6 +1,6 @@
 ## Fonts (v3.0.0 and later)
 
-In versions prior to 3.0.0 the only wany to reference the bundled Roboto font was as a packed resource using: 
+In versions prior to 3.0.0 the only way to reference the bundled Roboto font was as a packed resource using: 
 ```xml
 FontFamily="pack://application:,,,/MaterialDesignThemes.Wpf;component/Resources/Roboto/#Roboto"
 ```
