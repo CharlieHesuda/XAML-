@@ -1,4 +1,4 @@
-# Welcome to the Material Design In XAML Toolkit Wiki!
+# Welcome to the Material Design In XAML Wiki!
 
 Start at one of these places:
 
@@ -6,11 +6,9 @@ Start at one of these places:
 
 * Or, the more comprehensive [[Getting Started|Getting Started]] guide.
 
-* Quick start guide for using icons: [[Using Icons]]
-
 ## Download
 
-You can install/download it via Nuget
+You can install/download it via NuGet
 
 * [Material Design Themes](https://www.nuget.org/packages/MaterialDesignThemes/)
 
