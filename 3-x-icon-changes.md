@@ -436,6 +436,88 @@
 ### Removed icons (2)
 - MicrosoftMixer, Mixer
 
+## Pack Icon Changes 3.1.1 => 3.1.2
+### New icons (86)
+- AnonymousCircle, IncognitoCircle, SpyCircle
+- AnonymousCircleOff, IncognitoCircleOff, SpyCircleOff
+- AnonymousOff, SpyOff
+- BucketMinus, PailMinus
+- BucketMinusOutline, PailMinusOutline
+- BucketOff, PailOff
+- BucketOffOutline, PailOffOutline
+- BucketPlus, PailPlus
+- BucketPlusOutline, PailPlusOutline
+- BucketRemove, PailRemove
+- BucketRemoveOutline, PailRemoveOutline
+- ChickenLeg, FoodDrumstick, TurkeyLeg
+- ChickenLegOutline, FoodDrumstickOutline, TurkeyLegOutline
+- CigarOff
+- ClockTimeEight
+- ClockTimeEightOutline
+- ClockTimeEleven
+- ClockTimeElevenOutline
+- ClockTimeFive
+- ClockTimeFiveOutline
+- ClockTimeFour
+- ClockTimeFourOutline
+- ClockTimeNine
+- ClockTimeNineOutline
+- ClockTimeOne
+- ClockTimeOneOutline
+- ClockTimeSeven
+- ClockTimeSevenOutline
+- ClockTimeSix
+- ClockTimeSixOutline
+- ClockTimeTen
+- ClockTimeTenOutline
+- ClockTimeThree
+- ClockTimeThreeOutline
+- ClockTimeTwelve
+- ClockTimeTwelveOutline
+- ClockTimeTwo
+- ClockTimeTwoOutline
+- CubeOff
+- CubeOffOutline, SugarCubeOff, SugarFree, SugarOff
+- FuseAlert
+- FuseOff
+- HeartMinus
+- HeartMinusOutline
+- HeartOffOutline
+- HeartPlus
+- HeartPlusOutline
+- HeartRemove
+- HeartRemoveOutline
+- Journal, Planner
+- JournalMultiple, PlannerMultiple
+- JournalOutline, PlannerOutline
+- MicrowaveOff
+- MotionSensorOff
+- PailOutline
+- PowerPlugOffOutline
+- PowerPlugOutline
+- SmokingPipeOff
+- SpoonSugar
+- Spy
+- Sugar, SugarCube
+- TableSplitCell
+### Icons with visual changes (39)
+- AccountAlert, AccountWarning, PersonAlert, PersonWarning, UserAlert, UserWarning
+- AccountAlertOutline, AccountWarningOutline, PersonAlertOutline, PersonWarningOutline, UserAlertOutline, UserWarningOutline
+- AccountBadgeWarning, BadgeAccountAlert, PersonBadgeAlert, PersonBadgeWarning, UserBadgeAlert, UserBadgeWarning
+- AccountBadgeWarningOutline, BadgeAccountAlertOutline, PersonBadgeAlertOutline, PersonBadgeWarningOutline, UserBadgeAlertOutline, UserBadgeWarningOutline
+- AlertOctagon, Report, WarningOctagon
+- Anonymous, Incognito
+- BatteryAlertVariant
+- BatteryAlertVariantOutline
+- BeakerAlert
+- BeakerAlertOutline
+- BellAlert, BellWarning
+- BellAlertOutline
+- IncognitoOff
+- PowerPlugOff
+- SmokingPipe
+### Removed icons (0)
+
 ## Pack Icon Changes 3.1.0 => 3.1.1
 ### New icons (27)
 - AxisArrowInfo
