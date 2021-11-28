@@ -1,0 +1,61 @@
+## Pack Icon Changes 4.0.0 => 4.1.0
+### New icons (52)
+- AccountEye, AccountView
+- AccountEyeOutline, AccountViewOutline
+- ArrowHorizontalCollapse
+- ArrowLeftBottom
+- ArrowLeftBottomBold
+- ArrowLeftTop, TurnLeft
+- ArrowLeftTopBold, TurnLeftBold
+- ArrowRightBottom
+- ArrowRightBottomBold
+- ArrowRightTop, TurnRight
+- ArrowRightTopBold, TurnRightBold
+- ArrowUDownLeft, UTurnLeft
+- ArrowUDownLeftBold, UTurnLeftBold
+- ArrowUDownRight, UTurnRight
+- ArrowUDownRightBold, UTurnRightBold
+- ArrowULeftBottom
+- ArrowULeftBottomBold
+- ArrowULeftTop
+- ArrowULeftTopBold
+- ArrowURightBottom
+- ArrowURightBottomBold
+- ArrowURightTop
+- ArrowURightTopBold
+- ArrowUUpLeft
+- ArrowUUpLeftBold
+- ArrowUUpRight
+- ArrowUUpRightBold
+- ArrowVerticalCollapse
+- CheckboxMultipleOutline
+- CheckboxOutline
+- Diary
+- Dot
+- FolderEye
+- FolderEyeOutline
+- Goal
+- InformationOff
+- InformationOffOutline
+- PrinterOffOutline
+- PrinterOutline
+- SausageOff
+- StickerText
+- StickerTextOutline
+### Icons with visual changes (13)
+- ArrowDownLeft
+- ArrowDownLeftBold
+- ArrowDownRight
+- ArrowDownRightBold
+- ArrowUpLeft
+- ArrowUpLeftBold
+- ArrowUpRight
+- ArrowUpRightBold
+- Asterisk
+- ChartBoxOutline, PollBoxOutline
+- PollBox
+- Sausage
+### Removed icons (4)
+- Assessment, InsertChart
+- CheckBoxMultipleOutline
+- CheckBoxOutline

@@ -1,0 +1,738 @@
+## Pack Icon Changes 3.0.1 => 3.1.0
+### New icons (625)
+- AbjadArabic, WritingSystemArabic
+- AbjadHebrew, WritingSystemHebrew
+- AbugidaDevanagari, WritingSystemDevanagari
+- AbugidaThai, WritingSystemThai
+- AccountCog
+- AccountCogOutline
+- AccountConvertOutline
+- AccountCowboyHat
+- AccountDetailsOutline, PersonDetailsOutline, UserDetailsOutline
+- AccountHardHat, Construction
+- AccountMusic
+- AccountMusicOutline
+- AccountSwitchOutline
+- AccountTieVoice
+- AccountTieVoiceOff
+- AccountTieVoiceOffOutline
+- AccountTieVoiceOutline
+- AccountVoice
+- AirConditioning, Heating, Hvac, Ventilation
+- AlphabetAurebesh, WritingSystemAurebesh
+- AlphabetCyrillic, WritingSystemCyrillic
+- AlphabetGreek, WritingSystemGreek
+- AlphabetLatin, WritingSystemLatin
+- AlphabetPiqad, WritingSystemPiqad
+- AlphabetTengwar, WritingSystemTengwar
+- Antivirus, ShieldBug
+- AntivirusOutline, ShieldBugOutline
+- AppleAirplay
+- AudioBook, BookMusic
+- AutoDownload
+- BabyBuggy, Carriage
+- BadgeAccount
+- BadgeAccountAlert
+- BadgeAccountAlertOutline
+- BadgeAccountHorizontal
+- BadgeAccountHorizontalOutline
+- BadgeAccountOutline
+- BedOutline, HotelOutline
+- BeehiveOffOutline
+- BeerOutline
+- BellCancel
+- BellCancelOutline
+- BellMinus
+- BellMinusOutline
+- BellRemove
+- BellRemoveOutline
+- BirthdayCake
+- BloodOff, TransFatOff
+- BookAccount
+- BookAccountOutline
+- BookAlphabet
+- BookCross
+- BookmarkCheckOutline
+- BookmarkMusicOutline
+- BookmarkRemoveOutline
+- BookMinusMultipleOutline
+- BookMultipleOutline
+- BookPlusMultipleOutline
+- BookRemoveMultipleOutline
+- BottleSodaClassicOutline
+- BottleWineOutline
+- BowlMix, MixingBowl
+- BowlMixOutline, MixingBowlOutline
+- BowlOutline
+- BoxCutterOff
+- BrainFreeze, HeadFreeze, HeadSnowflake
+- BrainFreezeOutline, HeadFreezeOutline, HeadSnowflakeOutline
+- BriefcaseCheckOutline
+- Buffet
+- BulbCfl
+- BulbCflOff
+- BulbCflSpiral
+- BulbCflSpiralOff
+- BulbGroup
+- BulbGroupOff
+- BulbGroupOffOutline
+- BulbGroupOutline
+- BulbMultiple, Bulbs, Lightbulbs
+- BulbMultipleOff, BulbsOff, LightbulbsOff
+- BulbMultipleOffOutline, BulbsOffOutline, LightbulbsOffOutline
+- BulbMultipleOutline, BulbsOutline, LightbulbsOutline
+- BulbOff
+- BulbOffOutline
+- Bulma
+- BunkBed
+- BunkBedOutline
+- Cab
+- CableData
+- CalendarRefresh
+- CalendarRefreshOutline
+- CameraSwitchOutline
+- CarArrowLeft
+- CarArrowRight
+- CarbonMonoxide, MoleculeCo
+- CarCog
+- CardAccountDetails
+- CardAccountDetailsOutline
+- CardAccountDetailsStar
+- CardAccountDetailsStarOutline
+- CardAccountMail
+- CardAccountMailOutline
+- CardAccountPhone
+- CardAccountPhoneOutline
+- CarSettings
+- CellphoneCharging
+- CellphoneCog
+- ChartPpf, ChartProductionPossibilityFrontier
+- ChartSankey
+- ChartSankeyVariant
+- CheckboxBlankOff
+- CheckboxBlankOffOutline
+- CheeseOff
+- CircleHalf
+- CircleHalfFull
+- CircleMultiple
+- CircleMultipleOutline, CoinsOutline
+- ClipboardPlusOutline
+- CloseCircleMultiple, CoinsClose, CoinsRemove, RemoveCircleMultiple
+- CloseCircleMultipleOutline, CoinsCloseOutline, CoinsRemoveOutline, RemoveCircleMultipleOutline
+- CloseThick
+- CloudRefresh
+- CodeJson
+- CoffeeToGoOutline
+- CogOff, SettingsOff
+- CogOffOutline, SettingsOffOutline
+- CogTransfer
+- CogTransferOutline
+- CoinsMinus, MinusCircleMultiple
+- CoinsMinusOutline, MinusCircleMultipleOutline
+- CoinsPlus, PlusCircleMultiple
+- CoinsPlusOutline
+- CompassRose
+- ConfirmationNumberOutline, TicketConfirmationOutline
+- ContactlessPaymentCircle
+- ContactlessPaymentCircleOutline
+- ContactsOutline
+- CornOff
+- CreditCardCheck
+- CreditCardCheckOutline
+- CreditCardWirelessOff
+- CreditCardWirelessOffOutline
+- CupOffOutline
+- CurrencyEurOff
+- CurrencyUsdCircle
+- DatabaseMarker
+- Design, PencilRuler
+- DinnerBell
+- DinosaurPixel, GoogleDownasaur, TRex, TyrannosaurusRex
+- Doorbell
+- DownloadLock
+- DownloadLockOutline
+- DragHorizontalVariant
+- DragVerticalVariant
+- EarthArrowRight
+- EarthBoxMinus
+- EarthBoxPlus
+- EarthBoxRemove
+- EarthMinus
+- EarthPlus
+- EarthRemove
+- EggOff
+- EggOffOutline
+- EggOutline
+- ElevatorPassenger
+- EmailAlertOutline
+- EmailOff
+- EmailOffOutline
+- EscalatorBox
+- EyedropperMinus
+- EyedropperOff
+- EyedropperPlus
+- EyedropperRemove
+- FileCog
+- FileCogOutline
+- FileRefresh
+- FileRefreshOutline
+- FileTreeOutline
+- FilmstripBox
+- FilmstripBoxMultiple
+- FishOff
+- FlaskEmptyOff
+- FlaskEmptyOffOutline
+- FlaskOff
+- FlaskOffOutline
+- FleurDeLis
+- FolderMusic
+- FolderMusicOutline
+- FolderRefresh
+- FolderRefreshOutline
+- FolderStarMultiple
+- FolderStarMultipleOutline
+- FontSize
+- FoodVariantOff
+- FormatColorMarkerCancel, FormatColorRedact
+- FormDropdown
+- FormSelect
+- FruitCherriesOff
+- FruitCitrusOff
+- GasStationOff
+- GasStationOffOutline
+- Github, MicrosoftGithub
+- GlassPintOutline
+- Gluten
+- GoogleAds
+- HailCab, HailTaxi
+- HammerScrewdriver
+- HammerWrench
+- HandWash, HandWater
+- Head
+- HeadAche, HeadFlash
+- HeadAcheOutline, HeadFlashOutline
+- HeadAlert
+- HeadAlertOutline
+- HeadBulb, HeadIdea, HeadLightbulb
+- HeadBulbOutline, HeadIdeaOutline, HeadLightbulbOutline
+- HeadCheck
+- HeadCheckOutline
+- HeadCog, Psychology
+- HeadCogOutline, PsychologyOutline
+- HeadDotsHorizontal, HeadThinking
+- HeadDotsHorizontalOutline, HeadThinkingOutline
+- HeadHeart, HeadLove
+- HeadHeartOutline, HeadLoveOutline
+- HeadMinus
+- HeadMinusOutline
+- HeadOutline
+- HeadPlus
+- HeadPlusOutline
+- HeadQuestion
+- HeadQuestionOutline
+- HeadRefresh, HeadReload, HeadSync
+- HeadRefreshOutline, HeadReloadOutline, HeadSyncOutline
+- HeadRemove
+- HeadRemoveOutline
+- HomeBulb
+- HomeBulbOutline
+- HomeMinusOutline
+- HomePlusOutline
+- HomeRemoveOutline
+- HomeSearch
+- HomeSearchOutline
+- HoneyOutline
+- HumanBabyChangingTable
+- HumanMaleBoard
+- HumanMaleChild
+- HumanWheelchair
+- HydraulicOilLevel
+- HydraulicOilTemperature
+- IceCreamOff
+- IdeogramChineseJapaneseKorean, IdeogramCjk, WritingSystemCjk
+- IdeogramChineseJapaneseKoreanVariant, IdeogramCjkVariant, WritingSystemCjkVariant
+- IncognitoOff
+- Iobroker
+- JumpRope
+- KettleAlert, KettleFullAlert, TeaKettleAlert, TeaKettleFullAlert
+- KettleAlertOutline, KettleEmptyAlert, TeaKettleAlertOutline, TeaKettleEmptyAlert
+- Kettlebell
+- KettleEmptyOff, KettleOffOutline, TeaKettleEmptyOff, TeaKettleOffOutline
+- KettleEmptySteam, KettleSteamOutline, TeaKettleEmptySteam, TeaKettleSteamOutline
+- KettleFullOff, KettleOff, TeaKettleFullOff, TeaKettleOff
+- KettleFullSteam, KettleSteam, TeaKettleFullSteam, TeaKettleSteam
+- KeyArrowRight
+- Klingon
+- LabelMultiple
+- LabelMultipleOutline
+- LabelPercent
+- LabelPercentOutline
+- LanguageKotlin
+- LanguageMarkdown
+- LanguageMarkdownOutline
+- LanguageRuby
+- LanguageXaml, MicrosoftXaml
+- Lipstick
+- LockCheck
+- LockOpenAlert
+- LockOpenCheck
+- MapMarkerCheckOutline
+- MapMarkerMinusOutline
+- MapMarkerOffOutline
+- MapMarkerPlusOutline
+- MapMarkerRadiusOutline
+- MapMarkerRemoveOutline
+- Marijuana, Weed
+- MedalOutline
+- MessageArrowLeft
+- MessageArrowLeftOutline
+- MessageArrowRight
+- MessageArrowRightOutline
+- MessageCog
+- MessageCogOutline
+- MicrosoftAccess
+- MicrosoftAzure
+- MicrosoftAzureDevops
+- MicrosoftBing
+- MicrosoftDotNet
+- MicrosoftDynamics365
+- MicrosoftEdgeLegacy
+- MicrosoftExcel
+- MicrosoftInternetExplorer
+- MicrosoftMinecraft
+- MicrosoftMixer
+- MicrosoftOnedrive
+- MicrosoftPowerpoint
+- MicrosoftSharepoint
+- MicrosoftSkype
+- MicrosoftTeams
+- MicrosoftVisualStudio, Visualstudio
+- MicrosoftVisualStudioCode
+- MicrosoftWord
+- MicrosoftXbox
+- MicrosoftXboxController
+- MicrosoftXboxControllerBatteryAlert
+- MicrosoftXboxControllerBatteryCharging
+- MicrosoftXboxControllerBatteryEmpty
+- MicrosoftXboxControllerBatteryFull
+- MicrosoftXboxControllerBatteryLow
+- MicrosoftXboxControllerBatteryMedium
+- MicrosoftXboxControllerBatteryUnknown
+- MicrosoftXboxControllerMenu
+- MicrosoftXboxControllerOff
+- MicrosoftXboxControllerView
+- MicrosoftYammer
+- MoleculeCo2
+- MonitorEye
+- MotherHeart
+- MushroomOff
+- MushroomOffOutline
+- MusicBoxMultiple
+- MusicBoxMultipleOutline
+- NintendoGameBoy
+- None
+- Oci, OpenContainerInitiative
+- OrderAlphabeticalAscending
+- OrderAlphabeticalDescending
+- OrderBoolAscending
+- OrderBoolAscendingVariant, OrderCheckboxAscending
+- OrderBoolDescending, OrderCheckboxDescending
+- OrderBoolDescendingVariant
+- OrderNumericAscending
+- OrderNumericDescending
+- PaletteSwatchOutline, StyleOutline
+- PaperAirplaneOutline, PaperPlaneOutline
+- PaperPlane
+- Partnership
+- PartyBalloon
+- PipeWrench
+- PlayBoxMultiple
+- PlayBoxMultipleOutline
+- PotMixOutline
+- PotOutline
+- PotSteam
+- PotSteamOutline
+- Powerline, Pylon
+- PropaneTank
+- PropaneTankOutline
+- Pump
+- Rat, Rodent
+- Rdf, ResourceDescriptionFramework, SemanticWeb, W3c, WebOntologyLanguage
+- RecycleVariant
+- RefreshCircle
+- RocketOutline
+- RollerbladeOff
+- RollerSkateOff
+- RouterNetwork
+- SailBoat
+- ScanHelper
+- SeedOff
+- SeedOffOutline
+- ShieldHalf
+- ShieldSync
+- ShieldSyncOutline
+- ShopOutline, StoreMallDirectoryOutline, StoreOutline
+- Shuriken
+- SimpleIcons
+- SizeExtraExtraLarge, SizeXxl
+- SizeExtraExtraSmall, SizeXxs
+- SizeExtraLarge, SizeXl
+- SizeExtraSmall, SizeXs
+- SizeL, SizeLarge
+- SizeM, SizeMedium
+- SizeS, SizeSmall
+- SizeXxxl
+- Ski
+- SkiCrossCountry
+- SkiWater
+- SmokingPipe
+- Snowboard
+- SortAlphabeticalAscendingVariant
+- SortAlphabeticalDescendingVariant
+- SortAlphabeticalVariant
+- SortBoolAscending
+- SortBoolAscendingVariant, SortCheckboxAscending
+- SortBoolDescending
+- SortBoolDescendingVariant, SortCheckboxDescending
+- SortNumericAscending
+- SortNumericAscendingVariant
+- SortNumericDescending
+- SortNumericDescendingVariant
+- SortNumericVariant
+- SortReverseVariant
+- SoySauceOff
+- SpaceStation
+- SquareOff
+- SquareOffOutline
+- StairsBox
+- StarHalfFull
+- StickerAlert
+- StickerAlertOutline
+- StickerCheck
+- StickerCheckOutline
+- StickerCircleOutline
+- StickerMinus
+- StickerMinusOutline
+- StickerOutline
+- StickerPlus
+- StickerPlusOutline
+- StickerRemove
+- StickerRemoveOutline
+- StopwatchOffOutline, TimerOffOutline
+- StopwatchOutline, TimerOutline
+- Storage
+- StorefrontOutline
+- SyllabaryHangul, WritingSystemHangul
+- SyllabaryHiragana, WritingSystemHiragana
+- SyllabaryKatakana, WritingSystemKatakana
+- SyllabaryKatakanaHalfWidth, WritingSystemKatakanaHalfWidth
+- SyncCircle
+- TableAccount, TableUser
+- TableAlert
+- TableArrowDown, TableDownload
+- TableArrowLeft, TableImport
+- TableArrowRight, TableExport, TableShare
+- TableArrowUp, TableUpload
+- TableCancel
+- TableCheck
+- TableClock
+- TableCog
+- TableEyeOff
+- TableFavorite, TableHeart
+- TableFurniture
+- TableKey
+- TableLock
+- TableMinus
+- TableMultiple
+- TableNetwork
+- TableOff
+- TableRefresh
+- TableStar
+- TableSync
+- TagMultipleOutline
+- Tailwind
+- TelevisionAmbientLight
+- TextBox
+- TextBoxCheck
+- TextBoxCheckOutline
+- TextboxLock
+- TextBoxMinus
+- TextBoxMinusOutline
+- TextBoxMultiple
+- TextBoxMultipleOutline
+- TextBoxOutline
+- TextBoxPlus
+- TextBoxPlusOutline
+- TextBoxRemove
+- TextBoxRemoveOutline
+- TextBoxSearch
+- TextBoxSearchOutline
+- TextSearch
+- TowTruck
+- TrafficCone
+- TransFat
+- UmbrellaClosedOutline
+- UmbrellaClosedVariant
+- UploadLock
+- UploadLockOutline
+- Video3dOff
+- VideoBox
+- VideoBoxOff
+- VideoMinusOutline
+- VideoPlusOutline
+- VideoSwitchOutline
+- Virus
+- VirusOutline
+- WallSconceFlatVariant
+- WallSconceRound
+- WallSconceRoundVariant
+- WidgetsOutline
+- YCombinator
+- YoutubeStudio
+- Zhuyin
+### Icons with visual changes (151)
+- AccountConvert, PersonConvert, UserConvert
+- AccountDetails, PersonDetails, UserDetails
+- AccountsSwitch, AccountSwitch, PeopleSwitch, PersonSwitch, UsersSwitch, UserSwitch
+- Achievement, Trophy
+- AchievementAward, TrophyAward
+- AchievementOutline, TrophyOutline
+- AchievementVariant, TrophyVariant
+- AchievementVariantOutline, TrophyVariantOutline
+- AddAlert, BellAdd, BellPlus
+- AddAlertOutline, BellAddOutline, BellPlusOutline
+- AppleIos
+- Awning, Storefront
+- Babel
+- BellAlert, BellWarning
+- BellAlertOutline
+- Bitbucket
+- Bitcoin
+- Blogger
+- BookMinusMultiple, BooksMinus
+- BookMultipleAdd, BookPlusMultiple, BooksAdd, BooksPlus
+- BookRemoveMultiple, BooksRemove
+- Bootstrap
+- Bowl
+- CalendarRepeat
+- CalendarRepeatOutline
+- Camcorder
+- CamcorderOff
+- CircleSlice1
+- CircleSlice2
+- CircleSlice3
+- CircleSlice4
+- CircleSlice5
+- CircleSlice6
+- CircleSlice7
+- CircleSlice8
+- ClothesHanger, CoatHanger, Hanger
+- Codepen
+- Coins
+- CommentArrowLeft, CommentPrevious
+- CommentArrowLeftOutline, CommentPreviousOutline
+- CommentArrowRight, CommentNext
+- CommentArrowRightOutline, CommentNextOutline
+- CupOutline
+- DatabaseRefresh
+- DevTo
+- Docker
+- DoorbellVideo
+- Dropbox
+- FileCsv, FileDelimited
+- FileCsvOutline, FileDelimitedOutline
+- FontAwesome
+- FormatSize
+- Gitlab
+- GoogleAdwords
+- GoogleAnalytics
+- GoogleGlass
+- GoogleKeep
+- Hammer
+- HomeClimateOutline, HomeTemperatureOutline, HomeThermometerOutline
+- HomeExportOutline
+- HomeImportOutline
+- HomeLightbulbOutline
+- IceCream
+- Jsfiddle
+- Kabaddi, Wrestling
+- Kickstarter
+- LightningBolt
+- LightningBoltOutline
+- Linkedin
+- LockAlert, LockWarning
+- MicrosoftEdge
+- MicrosoftOffice
+- MicrosoftOnenote
+- MicrosoftOutlook
+- Midi
+- NearFieldCommunication, Nfc
+- Patreon
+- Pot
+- PotMix
+- Pram, Stroller
+- Reddit
+- Redhat
+- Rocket
+- Settings
+- ShieldRefresh
+- ShieldRefreshOutline
+- Snapchat
+- Sort
+- SortAlphabeticalAscending
+- SortAlphabeticalDescending
+- SortAscending
+- SortDescending
+- StackExchange
+- StarHalf
+- Sticker
+- Stopwatch, Timer
+- StopwatchOff, TimerOff
+- Teamviewer
+- TrophyBroken
+- Twitch
+- UmbrellaClosed
+- Unicode
+- Vk, Vkontakte
+- Webpack
+- Whatsapp
+- Xaml
+- Xing
+- Yahoo
+- YoutubeGaming
+### Removed icons (139)
+- AccountBadge
+- AccountBadgeAlert
+- AccountBadgeAlertOutline
+- AccountBadgeHorizontal
+- AccountBadgeHorizontalOutline
+- AccountBadgeOutline
+- AccountCardDetails
+- AccountCardDetailsOutline
+- Accusoft
+- Adchoices
+- Airplay
+- AmazonClouddrive, AmazonDrive
+- AndroidHead
+- Audiobook
+- Azure
+- AzureDevops
+- Basecamp
+- Beats
+- Behance
+- Bing
+- Blackberry
+- CamcorderBox
+- CamcorderBoxOff
+- CellphoneSettingsVariant
+- CiscoWebex
+- Cowboy
+- DisqusOutline
+- Dribbble
+- DribbbleBox
+- Edge
+- EdgeLegacy
+- Etsy
+- Eventbrite
+- FacebookBox
+- FileSettingsVariant
+- FileSettingsVariantOutline
+- Flattr
+- Flickr
+- FolderSettingsVariant
+- FolderSettingsVariantOutline
+- Foursquare
+- GithubBox
+- GithubCircle
+- GithubFace
+- Glassdoor
+- GooglePages
+- GooglePhysicalWeb
+- GooglePlusBox
+- Houzz
+- HouzzBox
+- Instapaper
+- InternetExplorer
+- Itunes
+- Json
+- Kotlin
+- LanguagePythonText
+- Lastfm
+- LibraryBooks
+- LibraryVideo
+- LinkedinBox
+- LocalHotel
+- Lyft
+- MailRu
+- Markdown
+- MarkdownOutline
+- MastodonVariant
+- Medium
+- Meetup
+- MessageSettingsVariant
+- MessageSettingsVariantOutline
+- MicrosoftDynamics
+- Mixcloud
+- NetworkRouter
+- NfcOff
+- NpmVariant
+- NpmVariantOutline
+- Office
+- Onedrive
+- Onenote
+- Outlook
+- Paypal
+- PeriodicTableCo2
+- Periscope
+- PinterestBox
+- Playstation
+- Pocket
+- Quicktime
+- Rename, Textbox
+- Ruby
+- Sailing
+- Shopify
+- Slackware
+- SortAlphabetical
+- SortNumeric
+- SquareInc
+- SquareIncCash
+- SteamBox
+- Strava
+- Tor
+- Towing
+- Tumblr
+- TumblrBox
+- TumblrReblog
+- TwitterBox
+- TwitterCircle
+- Uber
+- Venmo
+- VisualStudio
+- VisualStudioCode
+- VkBox, VkontakteBox
+- VkCircle, VkontakteCircle
+- Voice
+- WallSconceVariant
+- Wii
+- Wiiu
+- Windows
+- WindowsClassic
+- Wunderlist
+- Xbox
+- XboxController
+- XboxControllerBatteryAlert
+- XboxControllerBatteryCharging
+- XboxControllerBatteryEmpty
+- XboxControllerBatteryFull
+- XboxControllerBatteryLow
+- XboxControllerBatteryMedium
+- XboxControllerBatteryUnknown
+- XboxControllerMenu
+- XboxControllerOff
+- XboxControllerView
+- Xda
+- XingBox
+- XingCircle
+- Yammer
+- Yelp

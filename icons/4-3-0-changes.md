@@ -1,0 +1,866 @@
+## Pack Icon Changes 4.1.0 => 4.3.0
+### New icons (1374)
+- AccountArrowDown, AccountDownload
+- AccountArrowDownOutline, AccountDownloadOutline
+- AccountArrowUp, AccountUpload
+- AccountArrowUpOutline, AccountUploadOutline
+- AccountCache, AccountSync
+- AccountCacheOutline, AccountSyncOutline
+- AccountCowboyHatOutline, RancherOutline
+- AccountDisability, AccountInjury
+- AccountDisabilityOutline, AccountInjuryOutline
+- AccountLockOpen, AccountUnlocked, UserLockOpen, UserUnlocked
+- AccountLockOpenOutline, AccountUnlockedOutline, UserLockOpenOutline, UserUnlockedOutline
+- AccountPilot, AccountTieHat
+- AccountPilotOutline, AccountTieHatOutline
+- AccountService, AccountWrench
+- AccountServiceOutline, AccountWrenchOutline
+- Acid, Base, Ph, PotentialOfHydrogen, PowerOfHydrogen
+- Administrator, ShieldCrown
+- AdministratorOutline, ShieldCrownOutline
+- AdobeAcrobat
+- Ads, Advertisements
+- AdsOff, AdvertisementsOff
+- AirplaneAlert
+- AirplaneCheck
+- AirplaneClock, AirplaneDate, AirplaneSchedule, AirplaneTime
+- AirplaneCog
+- AirplaneEdit
+- AirplaneFind, AirplaneSearch
+- AirplaneGps, AirplaneLocation, AirplaneMarker
+- AirplaneMinus
+- AirplanePlus
+- AirplaneRemove
+- AirplaneSettings
+- AlarmArmAway
+- AlarmArmAwayOutline, SecurityLockOutline
+- AlarmArmHome
+- AlarmArmHomeOutline
+- AlarmArmNight, ShieldMoon
+- AlarmArmNightOutline, ShieldMoonOutline
+- AlignHorizontalDistribute
+- AlignVerticalDistribute
+- AllergyOutline, FlowerPollenOutline
+- AllInclusiveBox, ForeverBox, InfinityBox
+- AllInclusiveBoxOutline, ForeverBoxOutline, InfinityBoxOutline
+- Amplitude, Frequency
+- Analytics, Performance
+- Applause, HandClap
+- ApplicationArray
+- ApplicationArrayOutline
+- ApplicationBraces
+- ApplicationBracesOutline
+- ApplicationBrackets, IframeBrackets
+- ApplicationBracketsOutline, IframeBracketsOutline
+- ApplicationCogOutline, IframeCogOutline
+- ApplicationEdit, IframeEdit
+- ApplicationEditOutline, IframeEditOutline
+- ApplicationOutline
+- ApplicationParentheses
+- ApplicationParenthesesOutline
+- ApplicationSettingsOutline, IframeSettingsOutline
+- ApplicationVariable
+- ApplicationVariableOutline
+- Aroma, Fragrance, Odor, Scent, Smell
+- AromaOff, FragranceOff, OdorOff, ScentOff, SmellOff
+- ArrowBottomLeftBoldBox
+- ArrowBottomLeftBoldBoxOutline
+- ArrowBottomLeftThin
+- ArrowBottomRightBoldBox
+- ArrowBottomRightBoldBoxOutline
+- ArrowBottomRightThin
+- ArrowDownThin
+- ArrowLeftThin
+- ArrowProjectile
+- ArrowProjectileMultiple
+- ArrowRightThin
+- ArrowTopLeftBoldBox
+- ArrowTopLeftBoldBoxOutline
+- ArrowTopLeftThin
+- ArrowTopRightBoldBox
+- ArrowTopRightBoldBoxOutline
+- ArrowTopRightThin
+- ArrowUpThin
+- AttachmentLock
+- AudioInputRca
+- AudioInputStereoMinijack
+- AudioInputXlr
+- Automatic, AutomaticStart, AutomaticStop, AutoStart, AutoStop, RefreshAuto, RefreshAutomatic
+- AxeBattle
+- Balcony, Patio, Terrace, Veranda
+- BasketCheck
+- BasketCheckOutline
+- Bassinet, Cradle, Crib
+- Bathtub
+- BathtubOutline
+- BatteryArrowDown
+- BatteryArrowDownOutline
+- BatteryArrowUp
+- BatteryArrowUpOutline
+- BatteryCheck
+- BatteryCheckOutline
+- BatteryEco, BatteryRecycle, BatterySync
+- BatteryEcoOutline, BatteryRecycleOutline, BatterySaverOutline, BatterySyncOutline
+- BatteryLock
+- BatteryLockOpen
+- BatteryMinusOutline
+- BatteryMinusVariant
+- BatteryPlusOutline
+- BatteryPlusVariant
+- BatteryRemove
+- BatteryRemoveOutline
+- Beverages, Booze, Liquor, Rum, Spirits, Tequila, Whiskey, Wine
+- BicycleCargo, BikeCargo
+- BirthdayCakeOutline, CakeVariantOutline
+- BlenderOutline, FoodProcessorOutline
+- BloodCircle, DropCircle, InkCircle, WaterCircle
+- BloodSaver, BloodTransparent, DropSaver, DropTransparent, OilSaver, OilTransparent, WaterOpacity, WaterSaver, WaterTransparent
+- BoneOff
+- BookmarkBoxMultiple, CollectionsBookmark, LibraryBookmark
+- BookmarkBoxMultipleOutline, CollectionsBookmarkOutline, LibraryBookmarkOutline
+- BoomGateArrowDown
+- BoomGateArrowDownOutline
+- BoomGateArrowUp
+- BoomGateArrowUpOutline
+- BowArrow
+- BoxVariantAdd, BoxVariantPlus, PackageVariantAdd, PackageVariantPlus
+- BoxVariantClosedAdd, BoxVariantClosedPlus, PackageVariantClosedAdd, PackageVariantClosedPlus
+- BoxVariantClosedMinus, BoxVariantClosedSubtract, PackageVariantClosedMinus, PackageVariantClosedSubtract
+- BoxVariantClosedRemove, PackageVariantClosedRemove
+- BoxVariantMinus, BoxVariantSubtract, PackageVariantMinus, PackageVariantSubtract
+- BoxVariantRemove, PackageVariantRemove
+- BriefcaseEye, BriefcaseView
+- BriefcaseEyeOutline, BriefcaseViewOutline
+- BrushVariant
+- BullhornVariant
+- BullhornVariantOutline
+- BusElectric
+- CabinAFrame
+- CalendarCollapseHorizontal
+- CalendarExpandHorizontal
+- CameraDocument, OverheadProjector
+- CameraDocumentOff, OverheadProjectorOff
+- CameraLocation, CameraMarker
+- CameraLocationOutline, CameraMarkerOutline
+- CameraOffOutline
+- Candelabra, Candelabrum
+- CandelabraFire, CandelabraFlame, CandelabrumFire, CandelabrumFlame, CandleFire, CandleFlame
+- CandelabraLamp, Chandelier, Girandole, SuspendedLight
+- Candy, Chocolate, Treat
+- CandyOff, ChocolateOff, TreatOff
+- CandyOffOutline, ChocolateOffOutline, NaviOff, TreatOffOutline
+- CandyOutline, ChocolateOutline, Fairy, HeyListen, Navi, TreatOutline
+- CanLight, Downlight, HighHatLight, HiHatLight, LightRecessed, PotLight
+- CarAutonomous, CarSelfDriving, CarSmart, CarWireless
+- CarBrakeFluidLevel
+- CarBrakeLowPressure
+- CarBrakeTemperature
+- CarBrakeWornLinings
+- CarClock
+- CardMultiple
+- CardMultipleOutline
+- CardsClubOutline
+- CardsHeartOutline
+- CardsPlaying
+- CardsPlayingClub
+- CardsPlayingClubMultiple
+- CardsPlayingClubMultipleOutline
+- CardsPlayingClubOutline
+- CardsPlayingDiamond
+- CardsPlayingDiamondMultiple
+- CardsPlayingDiamondMultipleOutline
+- CardsPlayingDiamondOutline
+- CardsPlayingHeart
+- CardsPlayingHeartMultiple
+- CardsPlayingHeartMultipleOutline
+- CardsPlayingHeartOutline
+- CardsPlayingSpade
+- CardsPlayingSpadeMultiple
+- CardsPlayingSpadeMultipleOutline
+- CardsPlayingSpadeOutline
+- CardsSpadeOutline
+- CarLightAlert
+- CarLocation, CarSelect
+- CarRepair, CarWrench, Mechanic
+- CarSpeedLimiter
+- CartFavorite, CartHeart, ShoppingFavorite
+- CashChargeback, CashReturn
+- CashFast, InstantCash, InstantDeposit, InstantTransfer
+- CctvOff, ClosedCircuitTelevisionOff, SecurityCameraOff
+- CeilingFan
+- CeilingFanLight, CeilingFanOn
+- CeilingLampMultiple, CeilingLightMultiple
+- CeilingLampMultipleOutline, CeilingLightMultipleOutline
+- CeilingLightOutline
+- CellphoneArrowDownVariant, CellphoneDownload
+- CellphoneCheck
+- CellphoneGps, CellphoneLocation, CellphoneMap, CellphoneMarker, FindMyPhone
+- CellphoneRemove
+- CharityOutline, DonationOutline, HandCoinOutline
+- ChartWaterfall
+- CheckboxMarkedCirclePlusOutline, TaskAdd, TaskPlus, TodoAdd, TodoPlus
+- Checkers, CrownCircle
+- CheckersOutline, CrownCircleOutline
+- ChildrenToy, ChildToy, TeddyBear
+- ChiliAlert
+- ChiliAlertOutline
+- ChiliHotOutline
+- ChiliMediumOutline
+- ChiliMildOutline
+- ChiliOffOutline
+- Chips, FingerChips, FrenchFries, FrenchFry, FriedPotatoes, Fries, Frites
+- ChristmasStar
+- ChristmasStarOutline
+- CircleOpacity, CircleTransparent
+- ClimateChange, OceanLevelRise, SeaLevelRise, WaterEvaporation, WavesArrowUp
+- ClipboardTextClock, ClipboardTextDate, ClipboardTextHistory, ClipboardTextTime
+- ClipboardTextClockOutline, ClipboardTextDateOutline, ClipboardTextHistoryOutline, ClipboardTextTimeOutline
+- ClockEdit
+- ClockEditOutline
+- ClockMinus
+- ClockMinusOutline
+- ClockPlus
+- ClockPlusOutline
+- ClockRemove
+- ClockRemoveOutline
+- CoffeeMakerCheck, CoffeeMakerComplete, CoffeeMakerDone
+- CoffeeMakerCheckOutline, CoffeeMakerCompleteOutline, CoffeeMakerDoneOutline
+- CoffeeMakerOutline
+- CogPause, GearPause, SettingsPause
+- CogPauseOutline, GearPauseOutline, SettingsPauseOutline
+- CogPlay, GearPlay, SettingsPlay
+- CogPlayOutline, GearPlayOutline, SettingsPlayOutline
+- CogStop, GearStop, SettingsStop
+- CogStopOutline, GearStopOutline, SettingsStopOutline
+- Communism, HammerSickle
+- CompareRemove
+- Cone
+- ConeOff
+- ContentSaveCheck
+- ContentSaveCheckOutline
+- ContractSign, DocumentSign, FileSign
+- ControllerOutline, GamepadOutline, GamesOutline
+- Copyleft
+- Countertop, KitchenCounter, Sink
+- CountertopOutline, KitchenCounterOutline, SinkOutline
+- CowOff, DairyFree, DairyOff
+- CradleOutline
+- CreditCardChip, CreditCardIccChip
+- CreditCardChipOutline, CreditCardIccChipOutline
+- CreditCardEdit
+- CreditCardEditOutline
+- CreditCardFast, CreditCardSwipe
+- CreditCardFastOutline, CreditCardSwipeOutline
+- CreditCardLock
+- CreditCardLockOutline
+- CrossBolnisi
+- CrossCeltic
+- Crowd, Crowdsource
+- CurrencyLkr, CurrencyNpr, CurrencyPkr, CurrencyRupee
+- Curtains, Drapes
+- CurtainsClosed, DrapesClosed
+- Cutlery
+- CutleryClean
+- CutleryFork
+- CutleryForkKnife, PlaceSetting
+- CutleryKnife, SilverwareKnife
+- CutlerySpoon
+- CutleryVariant
+- Cylinder
+- CylinderOff
+- DatabaseEye, DatabaseView
+- DatabaseEyeOff, DatabaseViewOff
+- DatabaseEyeOffOutline, DatabaseViewOffOutline
+- DatabaseEyeOutline, DatabaseViewOutline
+- DataSettings, NetworkStrength4Cog, NetworkStrength4Settings
+- Dead, Death
+- Dirty, InkSpot, LiquidSpot, Puddle, Spill
+- Diversify
+- Diving, SwimDive
+- Dolphin, Porpoise
+- Donation, HandCoin
+- DoorSliding, FrenchDoor, PatioDoor
+- DoorSlidingLock, FrenchDoorLock, PatioDoorLock
+- DoorSlidingOpen, FrenchDoorOpen, PatioDoorOpen
+- DotsCircle
+- DrawPen
+- Earbuds
+- EarbudsOff
+- EarbudsOffOutline, HeadphonesOffOutline
+- EarbudsOutline, HeadphonesOutline
+- EggFried
+- ElectricityCircle, EnergyCircle, StormCircle, ThunderCircle
+- ElectricityFromGrid, EnergyFromGrid, PowerFromGrid, TransmissionTowerExport
+- ElectricityOutline, EnergyOutline, StormOutline, ThunderOutline
+- ElectricityToGrid, EnergyToGrid, PowerToGrid, ReturnToGrid, TransmissionTowerImport
+- ElectricWaterBoiler, ElectricWaterHeater, GasWaterBoiler, GasWaterHeater
+- ElevatorPassengerOff
+- ElevatorPassengerOffOutline
+- ElevatorPassengerOutline
+- EmailCertified, EmailSeal, EmailVerified, MailCertified, MailSeal, MailVerified
+- EmailCertifiedOutline, EmailSealOutline, EmailVerifiedOutline, MailCertifiedOutline, MailSealOutline, MailVerifiedOutline
+- EmailFast, EmailQuick, EmailSent, EnvelopeFast
+- EmailFastOutline, EmailQuickOutline, EmailSentOutline, EnvelopeFastOutline
+- Energy, Storm, Thunder
+- Exchange
+- ExternalTemperature, OutsideTemperature, SunThermometerOutline
+- EyeArrowLeft, ViewArrowLeft
+- EyeArrowLeftOutline, ViewArrowLeftOutline
+- EyeArrowRight, ViewArrowRight
+- EyeArrowRightOutline, ViewArrowRightOutline
+- EyeRefresh, ViewRefresh
+- EyeRefreshOutline, ViewRefreshOutline
+- Farewell, Greeting, HandWave
+- FarewellOutline, GreetingOutline, HandWaveOutline
+- FastForward15
+- Fence, Railway, TrainTrack
+- FenceElectric, RailwayElectric, TrainTrackElectric
+- FileChartCheck
+- FileChartCheckOutline
+- FileGifBox
+- FileGraph
+- FileGraphOutline, FileReportOutline
+- FileImageAdd, FileImagePlus
+- FileImageAddOutline, FileImagePlusOutline
+- FileImageMinus
+- FileImageMinusOutline
+- FileImageRemove
+- FileImageRemoveOutline
+- FileJpegBox, FileJpgBox, ImageJpegBox, ImageJpgBox
+- FileLockOpen
+- FileLockOpenOutline
+- FilePngBox
+- FilterCheck, FunnelCheck
+- FilterCheckOutline, FunnelCheckOutline
+- FireCircle, FlameCircle, GasCircle, HotCircle, NaturalGasCircle
+- Firewire
+- Fishing, Spear, Staff
+- FitToScreen
+- FitToScreenOutline
+- FlagOff
+- FlagOffOutline
+- Flatiron, Iron, SmoothingIron
+- FlatironOutline, IronOutline, SmoothingIronOutline
+- FloodlightDown, LightFloodDown
+- FloodlightUp, LightFloodUp
+- FloorLampDualOutline, FloorLightDualOutline
+- FloorLampOutline, FloorLightOutline
+- FloorLampTorchiereOutline
+- FloorLampTorchiereVariantOutline, FloorLightTorchiereVariantOutline
+- FloorLightTorchiereVariant
+- FloppyDisk
+- FlowchartOutline, SitemapOutline, WorkflowOutline
+- FlowerPollen
+- FolderCheck
+- FolderCheckOutline
+- FolderHelp, FolderQuestion
+- FolderHelpOutline, FolderQuestionOutline
+- FolderHidden
+- FoodFrankfurter, FoodHotDog, FoodWeiner
+- FoodOffOutline
+- FoodOutline
+- FoodProcessor
+- FoodTakeoutBox
+- FoodTakeoutBoxOutline
+- Forever
+- FormatHeading1
+- FormatHeading2
+- FormatHeading3
+- FormatHeading4
+- FormatHeading5
+- FormatHeading6
+- FormatHeadingDecease
+- FormatHeadingEqual
+- FormatHeadingHash, FormatHeadingMarkdown, FormatHeadingPound
+- FormatHeadingIncrease
+- FormatKerning, FormatLetterSpacing
+- FormatListGroup
+- FormatPageSplit
+- FormatUnderlineWavy
+- FractionOneHalf
+- FuelCell
+- GarageLock
+- GarageVariantLock
+- Gas, Hot, NaturalGas
+- GateAlert
+- GateArrowLeft
+- GlassBroken, GlassFragile
+- Glasshouse, Greenhouse, Hothouse
+- GlobalSearch, InternetSearch, SearchGlobe
+- GlobeArrowRight, PlanetArrowRight, WorldArrowRight
+- GlobeBox, PlanetBox, WorldBox
+- GlobeBoxMinus, PlanetBoxMinus, WorldBoxMinus
+- GlobeBoxOff, PlanetBoxOff, WorldBoxOff
+- GlobeBoxPlus, PlanetBoxPlus, WorldBoxPlus
+- GlobeBoxRemove, PlanetBoxRemove, WorldBoxRemove
+- GlobeMinus, PlanetMinus, WorldMinus
+- GlobeOff, PlanetOff, WorldOff
+- GlobePlus, PlanetPlus, WorldPlus
+- GlobeRemove, PlanetRemove, WorldRemove
+- GraphAreaspline, ReportAreaspline, WidgetAreaspline
+- GraphAreasplineVariant, ReportAreasplineVariant, WidgetAreasplineVariant
+- GraphBar, ReportBar, WidgetBar
+- GraphBarStacked, ReportBarStacked, WidgetBarStacked
+- GraphBellCurve, ReportBellCurve, WidgetBellCurve
+- GraphBellCurveCumulative, ReportBellCurveCumulative, WidgetBellCurveCumulative
+- GraphBox, ReportBox, WidgetBox
+- GraphBoxOutline, ReportBoxOutline, WidgetBoxOutline
+- GraphBoxPlusOutline, ReportBoxPlusOutline, WidgetBoxPlusOutline
+- GraphHistogram, ReportHistogram, WidgetHistogram
+- GraphLine, ReportLine, WidgetLine
+- GraphLineShimmer, GraphTimelineVariantShimmer, ReportLineShimmer, ReportTimelineVariantShimmer, WidgetLineShimmer, WidgetTimelineVariantShimmer
+- GraphLineStacked, ReportLineStacked, WidgetLineStacked
+- GraphLineVariant, ReportLineVariant, WidgetLineVariant
+- GraphMultiline, ReportMultiline, WidgetMultiline
+- GraphMultiple, ReportMultiple, WidgetMultiple
+- GraphPie, ReportPie, WidgetPie
+- GraphPpf, ReportPpf, WidgetPpf
+- GraphSankey, ReportSankey, WidgetSankey
+- GraphSankeyVariant, ReportSankeyVariant, WidgetSankeyVariant
+- GraphScatterPlot, ReportScatterPlot, WidgetScatterPlot
+- GraphScatterPlotHexbin, ReportScatterPlotHexbin, WidgetScatterPlotHexbin
+- GraphTimeline, ReportTimeline, WidgetTimeline
+- GraphTimelineVariant, ReportTimelineVariant, WidgetTimelineVariant
+- GreenCircle, LeafCircle
+- GreenCircleOutline, LeafCircleOutline
+- HandBackLeft
+- HandBackLeftOff
+- HandBackLeftOffOutline
+- HandBackLeftOutline
+- HandBackRight
+- HandBackRightOff
+- HandBackRightOffOutline
+- HandBackRightOutline
+- HandExtended, HandOpen, HandPalm
+- HandExtendedOutline, HandOpenOutline, HandPalmOutline
+- HandFrontLeft
+- HandFrontLeftOutline
+- HandFrontRight
+- HandFrontRightOutline
+- HandsPray
+- HeatCool, HotCold, SunSnowflake
+- HomeBattery, HomeElectricity, HomeEnergy, HomePower
+- HomeBatteryOutline, HomeElectricityOutline, HomeEnergyOutline, HomePowerOutline
+- HomeFlash, HomeLightningBolt
+- HomeGroupMinus
+- HomeGroupPlus
+- HomeGroupRemove
+- HomeLightningBoltOutline
+- HomeReport
+- HomeSwap, HomeSwitch
+- HomeSwapOutline, HomeSwitchOutline
+- HoopHouse
+- HorseVariantFast
+- HourglassComplete, TimerSandComplete
+- HourglassPaused, TimerSandPaused
+- HumanBlind, HumanWhiteCane
+- HumanDolly, HumanHandTruck, HumanTrolley
+- HumanGenderless, HumanNonBinary, HumanTransgender
+- HumanGreetingVariant, HumanHelloVariant
+- HumanHello, HumanWelcome
+- HumanMaleBoardPoll, TeachPoll
+- HumanMaleFemaleChild, MomDadChild
+- HydrogenStation
+- Icc, IntegratedCircuitChip
+- IframeCog
+- IframeExportOutline
+- IframeImportOutline
+- IframeSettings
+- Ignition, Induction
+- Illuminance, SunWireless, Ultraviolet, UvRay, WeatherSunWireless
+- IlluminanceOutline, SunWirelessOutline, UltravioletOutline, UvRayOutline, WeatherSunWirelessOutline
+- Image360, ImageVr, PanoramaVariant, PanoramaVr, Picture360, PictureVr
+- Image360Outline, ImageVrOutline, PanoramaVariantOutline, PanoramaVrOutline, Picture360Outline, PictureVrOutline
+- Internet, WorldWideWeb
+- InternetBox
+- InternetProtocol
+- InternetProtocolOutline, IpOutline
+- InvoiceOutline, ReceiptOutline
+- IronBoard
+- Jaws, Shark
+- JawsOff, SharkOff
+- Justice, Legal
+- KeyAlert
+- KeyAlertOutline
+- Kite
+- KiteOutline
+- LampOutline
+- LampsOutline, LightsOutline
+- LayersEdit
+- LightbulbAlert
+- LightbulbAlertOutline
+- LightbulbAuto, LightbulbAutomatic, LightbulbMotion
+- LightbulbAutomaticOutline, LightbulbAutoOutline, LightbulbMotionOutline
+- LightbulbEdison, LightbulbFilament, LightbulbVariant
+- LightbulbEdisonOutline, LightbulbFilamentOutline, LightbulbVariantOutline
+- LightbulbFluorescentTube
+- LightbulbFluorescentTubeOutline
+- LightbulbGu10, LightbulbHalogen, LightbulbSpot
+- LightbulbGu10Off, LightbulbHalogenOff, LightbulbSpotOff
+- LightbulbQuestion
+- LightbulbQuestionOutline
+- Lights
+- LikeDislikeOutline, ThumbsUpDownOutline
+- LineScan
+- Loudspeaker
+- LoudspeakerOutline
+- Mace
+- MagicStaff, MagicWand, StaffShimmer
+- MagnifyExpand, SearchExpand
+- MapMarkerAccount
+- MapMarkerAccountOutline
+- Marble
+- Material
+- Menorah
+- MenorahFire, MenorahFlame
+- MessageBadge, MessageUnread
+- MessageBadgeOutline, MessageUnreadOutline
+- MessageFast
+- MessageFastOutline
+- MessageStar
+- MessageStarOutline
+- MessageTextFast
+- MessageTextFastOutline
+- MicrophoneHelp, MicrophoneQuestion
+- MicrophoneHelpOutline, MicrophoneQuestionOutline
+- MirrorRectangle
+- MirrorVariant
+- Mister, SprinklerFire, SprinklerHead, SprinklerMist
+- Moderator, ShieldSword
+- ModeratorOutline, ShieldSwordOutline
+- MonitorArrowDown, MonitorDownload
+- MonitorArrowDownVariant
+- MonitorCrt, MonitorSmall
+- Mosque, Muslim
+- Multicast, Multiplex
+- NavigationVariant
+- NavigationVariantOutline
+- NearFieldCommunicationOff
+- NeedleOff
+- NewspaperCheck
+- NewspaperRemove
+- NumbersOff, NumericOff, OneTwoThreeOff
+- Octahedron
+- OctahedronOff
+- OfficeBuildingCog, OfficeBuildingSettings
+- OfficeBuildingCogOutline, OfficeBuildingSettingsOutline
+- OfficeChair
+- PaletteSwatchVariant
+- Panorama360, PanoramaSphere
+- Panorama360Outline, PanoramaSphereOutline
+- PanoramaHorizontalOutline
+- PanoramaOutline
+- PanoramaVerticalOutline
+- PanoramaWideAngleOutline
+- PaperclipLock
+- PhoneClock, PhoneSchedule, PhoneTime
+- PhoneRedial, PhoneRefresh
+- PhoneRedialOutline, PhoneRefreshOutline
+- PhoneSync
+- PhoneSyncOutline
+- PipeValve
+- Pliers
+- PlugSocketCh, PlugSocketSwitzerland, PlugSocketTypeJ, PowerSocketCh, PowerSocketSwitzerland, PowerSocketTypeJ
+- PoliceStation
+- PowerlineOff, PylonOff, TransmissionTowerOff
+- Printer3dNozzleHeat
+- Printer3dNozzleHeatOutline
+- ProjectorScreenOff
+- ProjectorScreenOffOutline
+- ProjectorScreenVariant
+- ProjectorScreenVariantOff
+- ProjectorScreenVariantOffOutline
+- ProjectorScreenVariantOutline
+- PublishDisabled, PublishOff
+- PushNotification, SquareRoundedBadge
+- PushNotificationOutline, SquareRoundedBadgeOutline
+- Pyramid
+- PyramidOff
+- RadiationCircle, RadioactiveCircle
+- RadiationCircleOutline, RadioactiveCircleOutline
+- Rancher
+- RazorDoubleEdge
+- RazorSingleEdge
+- ReportArc, WidgetArc
+- ReportBubble, WidgetBubble
+- ReportDonut, WidgetDonut
+- ReportDonutVariant, WidgetDonutVariant
+- ReportFinance
+- ReportGantt, Roadmap, WidgetGantt
+- ReportTree, WidgetTree
+- Rewind15
+- Rotate360
+- RotateClockwise
+- RotateCounterClockwise
+- ScaleUnbalanced
+- ScheduledMaintenance, ToolClock, ToolTime, WrenchClock, WrenchTime
+- SelectionEllipseRemove
+- SelectionRemove
+- SelectRemove
+- ShieldLockOpen, ShieldUnlocked
+- ShieldLockOpenOutline, ShieldUnlockedOutline
+- ShippingPallet
+- ShopAlert, StoreAlert
+- ShopAlertOutline, StoreAlertOutline
+- ShopCheck, ShopComplete, StoreCheck, StoreComplete
+- ShopCheckOutline, StoreCheckOutline, StoreCompleteOutline
+- ShopClock, ShopHours, ShopSchedule, ShopTime, StoreClock, StoreHours, StoreSchedule, StoreTime
+- ShopClockOutline, ShopHoursOutline, ShopScheduleOutline, ShopTimeOutline, StoreClockOutline, StoreHoursOutline, StoreScheduleOutline, StoreTimeOutline
+- ShopCogOutline, ShopSettingsOutline, StoreCogOutline
+- ShopDelete, ShopRemove, StoreDelete
+- ShopDeleteOutline, ShopRemoveOutline, StoreDeleteOutline, StoreRemoveOutline
+- ShopEdit, StoreEdit
+- ShopEditOutline, StoreEditOutline
+- ShopFind, ShopLocator, ShopLookUp, ShopSearch, StoreFind, StoreLocator, StoreLookUp, StoreSearch
+- ShopFindOutline, ShopLocatorOutline, ShopLookUpOutline, ShopSearchOutline, StoreFindOutline, StoreLocatorOutline, StoreLookUpOutline, StoreSearchOutline
+- ShopLocation, ShopMarker, StoreLocation, StoreMarker
+- ShopLocationOutline, ShopMarkerOutline, StoreLocationOutline, StoreMarkerOutline
+- ShopMinus
+- ShopMinusOutline, StoreMinusOutline
+- ShopOff, StoreOff
+- ShopOffOutline, StoreOffOutline
+- ShopPlus
+- ShopPlusOutline, StorePlusOutline
+- ShopSettings, StoreCog
+- Sickle
+- Sideboard
+- SkipFill
+- SkipMinus
+- SkipMinusOutline
+- SkipOff
+- SkipOffOutline
+- SkipOutline
+- SkipPlus
+- SkipPlusOutline
+- SkipRemove
+- SkipRemoveOutline
+- SmartCardOff
+- SmartCardOffOutline
+- Smoke
+- SmokeDetectorAlert
+- SmokeDetectorAlertOutline
+- SmokeDetectorOff
+- SmokeDetectorOffOutline
+- SmokeDetectorOutline
+- SmokeDetectorVariant
+- SmokeDetectorVariantAlert
+- SmokeDetectorVariantOff
+- SolarAsimuth, SolarCompass, SunAzimuth, SunCompass
+- SolarElectricity, SolarEnergy
+- SolarPanelElectricity, SolarPanelEnergy
+- Soundbar, SpeakerBar
+- Sphere
+- SphereOff
+- SquareOpacity, SquareTransparent
+- Stool
+- StoolOutline
+- StopLight, TrafficSignal
+- StopLightOutline, TrafficLightOutline, TrafficSignalOutline
+- StoreSettings
+- StoreSettingsOutline
+- SunThermometer
+- TabFind, TabSearch
+- TablePivot
+- TagFind, TagSearch
+- TagFindOutline, TagSearchOutline
+- TemperatureBluetooth, ThermometerBluetooth
+- TideIn, WaterFlow, WavesArrowLeft
+- TideOut, WavesArrowRight
+- TildeOff
+- TimerCog
+- TimerCogOutline
+- TimerSettings
+- TimerSettingsOutline
+- Tire, Tyre, Wheel
+- TooltipCellphone
+- TownHall
+- TrendingDownVariant, TriangleSmallDown
+- TrendingUpVariant, TriangleSmallUp
+- TruckAdd, TruckPlus
+- TruckAddOutline, TruckPlusOutline
+- TruckAlert
+- TruckAlertOutline
+- TruckCargoContainer, TruckShipping
+- TruckFlatbed, TruckFlatbedTow
+- TruckFreezer, TruckRefrigerator, TruckSnowflake
+- TruckMinus, TruckSubtract
+- TruckMinusOutline, TruckSubtractOutline
+- TruckRemove
+- TruckRemoveOutline
+- Tunnel
+- TunnelOutline
+- UmbrellaBeach
+- UmbrellaBeachOutline
+- Vacuum, VacuumCleaner
+- VacuumCleanerOutline, VacuumOutline
+- VectorPolygonVariant
+- VectorSquareAdd, VectorSquarePlus
+- VectorSquareClose
+- VectorSquareDelete, VectorSquareRemove
+- VectorSquareEdit
+- VectorSquareMinus, VectorSquareSubtract
+- VectorSquareOpen
+- VideoLocation, VideoMarker
+- VideoLocationOutline, VideoMarkerOutline
+- ViewDashboardEdit
+- ViewDashboardEditOutline
+- ViewGallery
+- ViewGalleryOutline
+- VirusOff
+- VirusOffOutline
+- WallSconceFlatOutline
+- WallSconceFlatVariantOutline
+- WallSconceOutline
+- WallSconceRoundOutline
+- WallSconceRoundVariantOutline
+- WasherFluidAlert, WasherFluidLow, WiperFluidAlert, WiperFluidLow, WiperWashAlert
+- WaterBoilerError, WaterHeaterAlert, WaterHeaterError
+- Waterfall
+- WaterHeaterOff
+- WaterRecycle, WaterReuse, WaterSync
+- WeatherCloudyClock, WeatherDate, WeatherHistory, WeatherTime
+- WebCancel
+- WebCheck
+- WebMinus
+- WebOff
+- WebPlus
+- WebRefresh
+- WebRemove
+- WebSync
+- WindElectricity, WindPower
+- WindPowerAlert, WindTurbineAlert, WindTurbineWarning
+- WindPowerCheck, WindPowerSuccess, WindTurbineCheck, WindTurbineSuccess
+- World
+### Icons with visual changes (184)
+- AccountArrowLeft, PersonArrowLeft, UserArrowLeft
+- AccountArrowLeftOutline, PersonArrowLeftOutline, UserArrowLeftOutline
+- AccountArrowRight, PersonArrowRight, UserArrowRight
+- AccountArrowRightOutline, PersonArrowRightOutline, UserArrowRightOutline
+- AccountKey, PersonKey, UserKey
+- AccountKeyOutline, PersonKeyOutline, UserKeyOutline
+- AccountLock, AccountSecure, AccountSecurity, PersonLock, UserLock
+- AccountLockOutline, AccountSecureOutline, AccountSecurityOutline, PersonLockOutline, UserLockOutline
+- Aeroplane, Airplane, AirplanemodeActive, Flight, FlightMode, LocalAirport, Plane
+- AeroplaneOff, AirplanemodeInactive, AirplaneOff, FlightModeOff, PlaneOff
+- AlignHorizontalCenter, AlignHorizontalCentre
+- AlignHorizontalLeft
+- AlignHorizontalRight
+- AlignVerticalBottom
+- AlignVerticalCenter, AlignVerticalCentre
+- AlignVerticalTop
+- Application, Iframe
+- ApplicationCog
+- ApplicationExport
+- ApplicationImport
+- ApplicationSettings
+- BatteryMinus
+- BatteryPlus
+- BellOutline, NotificationsNone
+- Blender
+- Blood
+- BoomGateUp
+- BoomGateUpOutline
+- Burger, FastFood, Food
+- BurgerOff, FastFoodOff, FoodOff
+- CarDoorLock
+- CarKey, CarRental, RentACar
+- Cctv, ClosedCircuitTelevision, SecurityCamera
+- CellphoneErase, MobilePhoneErase, PhonelinkErase, SmartphoneErase
+- CellphoneKey, MobilePhoneKey, SmartphoneKey
+- ChiliHot, ChilliHot, Pepper, Spicy
+- ChiliMedium, ChilliMedium
+- ChiliMild, ChilliMild
+- ChiliOff, ChilliOff, PepperOff, SpicyOff
+- CoffeeMachine, CoffeeMaker, EspressoMachine, EspressoMaker
+- ContentSaveAlert, FloppyDiscAlert
+- ContentSaveAlertOutline, FloppyDiscAlertOutline
+- Copyright
+- CurrencyEur, Euro, EuroSymbol
+- CurrencyEurOff
+- ElevatorPassenger
+- EvChargerCcs1, EvPlugCcs1, EvPlugCcsCombo1
+- EvChargerCcs2, EvPlugCcs2, EvPlugCcsCombo2
+- EvChargerChademo, EvPlugChademo
+- EvChargerType1, EvPlugJ1772, EvPlugType1
+- EvChargerType2, EvPlugMennekes, EvPlugType2
+- Family
+- FileAcrobatBox, FilePdfBox
+- FileKey
+- FileLock
+- FileLockOutline
+- FolderKey
+- FolderKeyNetwork
+- FolderKeyNetworkOutline
+- FolderKeyOutline
+- Football, FootballAmerican
+- ForeignKey, KeyLink, SqlForeignKey
+- Forest
+- Gate
+- GateArrowRight
+- GateOpen
+- Hand
+- HockeySticks
+- HumanGreeting
+- IframeOutline, WebAsset
+- Islam
+- Key, VpnKey
+- KeyAdd, KeyPlus
+- KeyArrowRight
+- KeyChange
+- KeyFavorite, KeyStar, PrimaryKey, SqlPrimaryKey
+- KeyMinus
+- KeyOutline
+- KeyRemove
+- KeyWireless
+- PanoramaHorizontal
+- PanoramaVertical
+- PanoramaWideAngle
+- Perimeter
+- PiggyBank
+- PiggyBankOutline
+- PigVariant
+- PigVariantOutline
+- ScriptTextKey
+- ScriptTextKeyOutline
+- Skip
+- Soccer
+- Stereo, SurroundSound20
+- SurroundSound21
+- SurroundSound31
+- SurroundSound51
+- SurroundSound512
+- SurroundSound71
+- TableKey
+- ToggleSwitchOffOutline
+- ToggleSwitchOutline
+- Volleyball
+### Removed icons (36)
+- Adb, AndroidDebugBridge
+- Amazon
+- AmazonAlexa
+- AndroidAuto
+- Bandcamp
+- Battlenet
+- Blogger
+- BolnisiCross
+- BoomGateDown
+- BoomGateDownOutline
+- Buffer
+- CelticCross
+- ConcourseCi
+- Douban
+- FileAcrobat, FilePdf
+- FileAcrobatBoxOutline, FilePdfBoxOutline
+- FileAcrobatOutline, FilePdfOutline
+- FloorLightVariant
+- Gif
+- Hackernews, YCombinator
+- HandLeft
+- HandRight
+- MicrosoftEdgeLegacy
+- MicrosoftXamarinOutline, XamarinOutline
+- MicrosoftYammer
+- PdfBox
+- Untappd
+- Vk, Vkontakte
+- Xing
