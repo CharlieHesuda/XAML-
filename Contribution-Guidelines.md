@@ -35,6 +35,9 @@ Things people can do to help with triaging issues
 ## Source Code
 The main solution file for this project is `MaterialDesignToolkit.Full.sln`. It contains reference to all of the projects. Loading this project and running all of the tests will require having a few additional dependencies installed (see Tests below). If you would prefer to load a smaller subset of the projects you can use the `MaterialDesignToolkit.Wpf.slnf` solution filter. This will load up the projects that are needed for WPF. 
 
+### Coding style
+[XamlStyler](https://github.com/Xavalon/XamlStyler) is a Visual Studio extension that styles XAML for better readability. It's recommended to install this extension if you're considering sending in PRs.
+
 ### Tests
 This library contains several layers of tests. When making pull requests, consider if adding additional tests may be helpful. Not all code can be reasonably tested in this library (for example most of the XAML code cannot be reasonably tested). If you are unfamiliar with writing tests; simply leave a comment in the pull request asking for help.
 
