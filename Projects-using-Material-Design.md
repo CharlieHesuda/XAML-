@@ -42,7 +42,7 @@ This tool was inspired by [MRTG](https://oss.oetiker.ch/mrtg/index.en.html) and 
 
 ## [WPF Theme Manager](https://github.com/JM2K69/MaterialDesign_WPF_Creator)
 
-With this apps you can create many WPF application with PowerShell, with two principal theme MaterialDesign and Mahapps.
+With this apps you can create many WPF application with PowerShell, with two principal theme MaterialDesign and MathApps.
 
 ![](https://github.com/JM2K69/MaterialDesign_WPF_Creator/blob/master/Gif.gif)
 
