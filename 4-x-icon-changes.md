@@ -1,3 +1,46 @@
+## Pack Icon Changes 4.3.0 => 4.4.0
+### New icons (39)
+- AccountHardHatOutline
+- AccountSchool
+- AccountSchoolOutline
+- AutorenewOff, CircleArrowsOff, CircularArrowsOff, ClockwiseArrowsOff
+- BookHeart
+- BookHeartOutline
+- BrushOutline
+- CameraLock
+- CameraLockOutline
+- FruitPear
+- GasBurner
+- HomeClock
+- HomeClockOutline
+- ImageRefresh
+- ImageRefreshOutline
+- ImageSync
+- ImageSyncOutline
+- MessageNotification
+- MessageNotificationOutline
+- NotebookHeart
+- NotebookHeartOutline
+- PercentBox
+- PercentBoxOutline
+- PercentCircle
+- PercentCircleOutline
+- PlayBoxLock
+- PlayBoxLockOpen
+- PlayBoxLockOpenOutline
+- PlayBoxLockOutline
+- ProjectorOff
+- Raw
+- RawOff
+- RobotIndustrialOutline
+- SaleOutline
+- Video2d
+- WallFire
+### Icons with visual changes (3)
+- BellBadgeOutline, BellNotificationOutline
+- Fedora
+### Removed icons (0)
+
 ## Pack Icon Changes 4.1.0 => 4.3.0
 ### New icons (1374)
 - AccountArrowDown, AccountDownload
