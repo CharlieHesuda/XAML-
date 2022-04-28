@@ -1,3 +1,405 @@
+## Pack Icon Changes 4.4.0 => 4.5.0
+### New icons (653)
+- ABCOff, LettersOff
+- AccountBadge, AccountOnline, UserOnline
+- AccountBadgeOutline, AccountOnlineOutline, UserOnlineOutline
+- AccountGraduation, AccountStudent
+- AccountGraduationOutline, AccountStudentOutline
+- AccountNetworkOff
+- AccountNetworkOffOutline
+- AccountTieWoman, BusinessWoman
+- AirplaneCar, AirportShuttle, AirportTaxi, PlaneCar
+- AirplaneTrain, PlaneTrain
+- ApplauseOff, HandClapOff
+- ArenaOutline, StadiumOutline
+- AsteriskCircleOutline, RequiredCircle
+- AttachmentAdd, AttachmentPlus, PaperclipAdd
+- AttachmentCheck, AttachmentTick, PaperclipTick
+- AttachmentMinus, AttachmentSubtract, PaperclipSubtract
+- AttachmentOff
+- AttachmentRemove
+- AudioInductionLoop, EarHearingLoop, Telecoil
+- AutoPay, CashClock, CashSchedule, PaymentClock, PaymentSchedule
+- Avalanche, Landslide, Mudslide
+- AvalancheOutline, LandslideOutline, MudslideOutline
+- BabyBuggyOff
+- BabyRoom, Nursery
+- BabyRoomOutline, NurseryOutline
+- BagPersonalTag, PropertyTag
+- BagPersonalTagOutline, PropertyTagOutline
+- BarrelOutline, FossilFuelOutline, OilBarrelOutline
+- Bathroom
+- Bedroom
+- BedroomOutline
+- BellCog, BellSettings, NotificationSettings
+- BellCogOutline, BellSettingsOutline, NotificationSettingsOutline
+- Bidet, Lavatory
+- BlindsClosed, RollerShadeClosed
+- BlindsHorizontal, MiniBlinds
+- BlindsHorizontalClosed
+- BlindsVertical, Window
+- BlindsVerticalClosed
+- BoilingPoint, DewPoint, ThermometerWater, WaterTemperature
+- BoilPoint, WaterThermometer
+- BoilPointOutline, DewPointOutline, WaterTemperatureOutline, WaterThermometerOutline
+- BookFavorite, BookLove
+- BookFavoriteOutline, BookLoveOutline
+- BookSchedule, BookTime
+- BookSecureOutline
+- BorderRadius, BorderRoundCorners
+- BottlePlus, Medication, MedicineBottle, PillBottle
+- BottlePlusOutline, MedicationOutline, MedicineBottleOutline, PillBottleOutline
+- BriefcaseArrowLeftRight, BriefcaseExchange, BriefcaseSwap, BriefcaseTransfer
+- BriefcaseArrowLeftRightOutline, BriefcaseExchangeOutline, BriefcaseSwapOutline, BriefcaseTransferOutline
+- BriefcaseArrowUpDown
+- BriefcaseArrowUpDownOutline
+- BrightnessHalf
+- BugPause
+- BugPauseOutline
+- BugPlay, BugStart
+- BugPlayOutline
+- BugStop
+- BugStopOutline
+- BulkheadLight
+- BunnyOutline, CrueltyFreeOutline, EasterOutline, HareOutline, RabbitVariantOutline
+- CalendarDayOutline, CalendarTodayOutline
+- CalendarWeekBeginOutline, EventWeekBeginOutline
+- CalendarWeekEnd, EventWeekEnd
+- CalendarWeekEndOutline, EventWeekEndOutline
+- CalendarWeekOutline, EventWeekOutline
+- CapsuleOff, PillOff
+- CashCycle, CashSync, RecurringPayment, ScheduledPayment
+- ChatAdd, ForumAdd, ForumPlus
+- ChatAddOutline, ForumAddOutline, ForumPlusOutline
+- ChatDelete, ForumDelete, ForumRemove
+- ChatDeleteOutline, ForumDeleteOutline, ForumRemoveOutline
+- ChatSubtract, ForumMinus, ForumSubtract
+- ChatSubtractOutline, ForumMinusOutline, ForumSubtractOutline
+- ChildrensRoom, KidsRoom, PlayRoom
+- ChurchOutline
+- CloudDiscount, CloudPercent, RainChance
+- CloudDiscountOutline, CloudPercentOutline, HumidityOutline, RainChanceOutline
+- CoachLampVariant
+- Compost
+- ConstructionOutline, WorkerOutline
+- CooktopBurner, StoveBurner
+- Counting1, One, TallyMark1
+- Counting2, TallyMark2, Two
+- Counting3, TallyMark3, Three
+- Counting4, Four, TallyMark4
+- Counting5, Five, TallyMark5
+- CovidTest, MedicalCottonSwab
+- CrueltyFree, Easter, RabbitVariant
+- CurrencyFra
+- Cyclone
+- Dais, Lectern, Lecturn, Rostrum
+- DayTemperature, HeatIndex, OutdoorTemperature, SunTemperature
+- DiningRoom
+- DiscountBox, SaleBox
+- DiscountBoxOutline, SaleBoxOutline
+- DiscountCircle, SaleCircle
+- DiscountCircleOutline, SaleCircleOutline
+- DiscountOutline
+- DrugOff, ImmunizationOff, InjectionOff, MedicineOff, PharmaceuticalOff, ShotOff, SyringeOff
+- EditBox
+- EditBoxOutline
+- EditCircle
+- EditCircleOutline
+- EntryRoom, Foyer, Hallway
+- Eruption, Volcano
+- EruptionOutline, VolcanoOutline
+- FamilyRoom, LivingRoom
+- FamilyRoomOutline, LivingRoomOutline
+- FanClock, FanSchedule, FanTimer
+- FastForward45
+- FileArrowLeftRight, FileExchange
+- FileArrowLeftRightOutline, FileExchangeOutline
+- FileArrowUpDown, FileUploadDownload
+- FileArrowUpDownOutline, FileUploadDownloadOutline
+- FileDocumentAdd, FileDocumentPlus
+- FileDocumentAddOutline, FileDocumentPlusOutline
+- FileDocumentAlert, FileDocumentError
+- FileDocumentAlertOutline, FileDocumentErrorOutline
+- FileDocumentCheck, FileDocumentTick
+- FileDocumentCheckOutline, FileDocumentTickOutline
+- FileDocumentDelete, FileDocumentRemove
+- FileDocumentDeleteOutline, FileDocumentRemoveOutline
+- FileDocumentMinus
+- FileDocumentMinusOutline
+- FileMinus
+- FileMinusOutline
+- FileRotateCcw, FileRotateCounterClockwise, FileRotateLeft
+- FileRotateCcwOutline, FileRotateCounterClockwiseOutline, FileRotateLeftOutline
+- FileRotateClockwise, FileRotateRight
+- FileRotateRightOutline
+- FilterCog, FilterGear, FunnelCog, FunnelGear, FunnelSettings
+- FilterCogOutline, FilterGearOutline, FunnelCogOutline, FunnelGearOutline, FunnelSettingsOutline
+- FilterMultiple, FunnelMultiple
+- FilterMultipleOutline, FunnelMultipleOutline
+- FilterSettings
+- FilterSettingsOutline
+- Firewall
+- Flurries
+- FolderLockOpenOutline
+- FolderLockOutline
+- FolderMedia, FolderVideo
+- FolderMediaOutline, FolderVideoOutline
+- FormatLetterSpacingVariant
+- FormatLineHeight
+- FormatParagraphSpacing
+- FossilFuel, OilBarrel
+- FreezingPoint, FrostPoint, SnowflakeTemperature, SnowflakeThermometer
+- GasTank, StorageTank
+- GasTankOutline, StorageTankOutline
+- GateBuffer
+- GuestRoom
+- GuestRoomOutline
+- Gymnastics
+- HeatedFloor, HeatingCoil, RadiatorCoil
+- HeatPump
+- HeatPumpOutline
+- HeatWave, KeepWarm, Warmth
+- HomeAttic
+- HomeOff, HouseOff
+- HomeOffOutline, HouseOffOutline
+- HomeSchedule, HomeTime
+- HomeScheduleOutline, HomeTimeOutline
+- HomeTheater, HomeTheatre
+- HumanAccessible
+- HumanBiathlon
+- HumanDanceBallroom
+- HumanDancePole
+- HumanDiving
+- HumanHandball
+- HumanHiking
+- HumanKabaddi
+- HumanKarate
+- HumanKayaking
+- HumanMeditation
+- HumanRowing
+- HumanRun
+- HumanRunFast
+- HumanSkateboarding
+- HumanSki
+- HumanSkiCrossCountry
+- HumanSkiWater
+- HumanSledding
+- HumanSnowboard
+- HumanWalk
+- ImageLock, ImageSecure
+- ImageLockOutline, ImageSecureOutline
+- InternationalSymbolOfAccess, Isa, Wheelchair
+- InvoiceAdd, InvoicePlus, ReceiptTextAdd, ReceiptTextPlus
+- InvoiceCheck, ReceiptTextCheck
+- InvoiceCheckOutline, ReceiptTextCheckOutline
+- InvoiceMinus, ReceiptTextMinus
+- InvoiceMinusOutline, ReceiptTextMinusOutline
+- InvoiceRemove, ReceiptTextRemove
+- InvoiceRemoveOutline, ReceiptTextRemoveOutline
+- JetEngine, Turbine
+- JewishOutline, ShulOutline, SynagogueOutline, TempleOutline
+- LandFields
+- LandPlots
+- LandPlotsCircle
+- LandPlotsCircleVariant
+- LandRowsHorizontal
+- LandRowsVertical
+- LaptopAccount, Teleconference, VideoChat, VirtualMeeting
+- LaundryRoom
+- LaundryRoomAlert
+- LaundryRoomOff
+- LedStripVariantOff, LightStripVariantOff
+- LightbulbDimmer10, LightbulbOn10
+- LightbulbDimmer100
+- LightbulbDimmer20, LightbulbOn20
+- LightbulbDimmer30, LightbulbOn30
+- LightbulbDimmer40, LightbulbOn40
+- LightbulbDimmer50, LightbulbOn50
+- LightbulbDimmer60, LightbulbOn60
+- LightbulbDimmer70, LightbulbOn70
+- LightbulbDimmer80, LightbulbOn80
+- LightbulbDimmer90, LightbulbOn90
+- LightbulbError
+- LightbulbErrorOutline
+- LightbulbHelp
+- LightbulbHelpOutline
+- LightbulbMoonStar, LightbulbNight, NightLight, NiteLight
+- LightbulbMoonStarOutline, LightbulbNightOutline, NightLightOutline, NiteLightOutline
+- LightSwitchOff, RockerSwitchOff
+- LightSwitchOn, ToggleSwitchVariant
+- LocalLibraryOutline
+- MeterElectric, PowerMeter
+- MeterElectricOutline, PowerMeterOutline
+- MeterGas
+- MeterGasOutline, NaturalGasOutline
+- MonitorAccount
+- MotorbikeOff, MotorcycleOff
+- NetworkCashBox, NetworkPointOfSale, NetworkPos
+- NotebookFavorite, NotebookLove
+- NotebookFavoriteOutline, NotebookLoveOutline
+- NotesSearch
+- NotesSearchVariant, TextSearchVariant
+- PaintbrushOutline
+- PaperclipCheck
+- PaperclipMinus
+- PaperclipOff
+- PaperclipPlus
+- PaperclipRemove
+- PlusLock, PlusSecure
+- PlusLockOpen
+- PoolTemperature, PoolThermometer
+- PostLamp, PostLight
+- Printer3dNozzleOff
+- Printer3dNozzleOffOutline
+- Printer3dOff
+- ReceiptTextPlusOutline
+- Repost
+- Required
+- Rewind45
+- RockerSwitch
+- RollerShade
+- RollerShadeOpen
+- Rolodex
+- RolodexOutline
+- SailBoatCrash, SailBoatSink, SailBoatWreck
+- SeedAdd, SeedPlus
+- SeedAddOutline, SeedPlusOutline
+- Shed
+- ShoppingSearchOutline
+- Shul, Synagogue, Temple
+- SnowflakeApprove, SnowflakeCheck
+- Snowshoeing
+- SolarElectricityOutline, SolarEnergyOutline, SolarPowerVariantOutline
+- SolarPowerVariant
+- SortVariantOff
+- SpeakerMessage
+- StopwatchAdd, StopwatchPlus, TimerAdd, TimerPlus
+- StopwatchAddOutline, StopwatchPlusOutline, TimerAddOutline, TimerPlusOutline
+- StopwatchAlert, TimerAlert
+- StopwatchAlertOutline, TimerAlertOutline
+- StopwatchCancel, TimerCancel
+- StopwatchCancelOutline, TimerCancelOutline
+- StopwatchCheck, StopwatchTick, TimerCheck, TimerTick
+- StopwatchCheckOutline, StopwatchTickOutline, TimerCheckOutline, TimerTickOutline
+- StopwatchEdit, TimerEdit
+- StopwatchEditOutline, TimerEditOutline
+- StopwatchFavorite, StopwatchStar, TimerFavorite, TimerStar
+- StopwatchFavoriteOutline, StopwatchStarOutline, TimerFavoriteOutline, TimerStarOutline
+- StopwatchLocation, StopwatchMarker, TimerLocation, TimerMarker
+- StopwatchLocationOutline, StopwatchMarkerOutline, TimerLocationOutline, TimerMarkerOutline
+- StopwatchLock, StopwatchSecure, TimerLock, TimerSecure
+- StopwatchLockOpen, TimerLockOpen
+- StopwatchLockOpenOutline, TimerLockOpenOutline
+- StopwatchLockOutline, StopwatchSecureOutline, TimerLockOutline, TimerSecureOutline
+- StopwatchMinus, StopwatchSubtract, TimerMinus, TimerSubtract
+- StopwatchMinusOutline, StopwatchSubtractOutline, TimerMinusOutline, TimerSubtractOutline
+- StopwatchMusic, TimerMusic
+- StopwatchMusicOutline, TimerMusicOutline
+- StopwatchPause, TimerPause
+- StopwatchPauseOutline, TimerPauseOutline
+- StopwatchPlay, StopwatchStart, TimerPlay, TimerStart
+- StopwatchPlayOutline, StopwatchStartOutline, TimerPlayOutline, TimerStartOutline
+- StopwatchRefresh, TimerRefresh
+- StopwatchRefreshOutline, TimerRefreshOutline
+- StopwatchRemove, TimerRemove
+- StopwatchRemoveOutline, TimerRemoveOutline
+- StopwatchStop, TimerStop
+- StopwatchStopOutline, TimerStopOutline
+- StopwatchSync, TimerSync
+- StopwatchSyncOutline, TimerSyncOutline
+- StudyChair
+- SunClock, SunSchedule, SunTime, TimeOfDay
+- SunClockOutline, SunScheduleOutline, SunTimeOutline, TimeOfDayOutline
+- SunSnowflakeVariant
+- TagApprove, TagCheck
+- TagApproveOutline, TagCheckOutline
+- TemperatureApprove, TemperatureCheck, ThermometerApprove, ThermometerCheck
+- TemperatureAuto, ThermometerAuto
+- TempleBuddhist
+- TempleBuddhistOutline
+- TempleHindu
+- TempleHinduOutline
+- TextBoxEdit
+- TextBoxEditOutline
+- ThermostatAuto
+- ThermostatBoxAuto
+- ToggleSwitchVariantOff
+- TrackLightOff
+- TruckError
+- TruckErrorOutline
+- Tsunami
+- Velocity
+- VolumeEqual
+- WindElectricityOutline, WindEnergyOutline, WindPowerOutline
+- WindEnergy
+- WindowShutterCog
+- WindowShutterSettings
+### Icons with visual changes (98)
+- Accessible
+- Arena, Stadium
+- Barrel, Energy
+- BugCheck, BugTick
+- BugCheckOutline, BugTickOutline
+- Church
+- Closet
+- CurrencyBtc
+- CurrencyCny, Renminbi, Yuan
+- CurrencyEur, Euro, EuroSymbol
+- CurrencyEurOff
+- CurrencyGbp, Sterling
+- CurrencyJpy, Yen
+- CurrencyLkr, CurrencyNpr, CurrencyPkr, CurrencyRupee
+- CurrencyRub, Ruble
+- CurrencyTry, Lira
+- Discount
+- EnergyOutline
+- ExternalTemperature, SunThermometer
+- Fax
+- FileAlert, FileWarning
+- FileAlertOutline, FileWarningOutline
+- FileCheck, FileTick
+- FileCheckOutline
+- FilePlus, NoteAdd
+- FilePlusOutline
+- FileRemove
+- FileRemoveOutline
+- FileTransfer
+- FileTransferOutline
+- FolderLock
+- FolderLockOpen
+- FolderTransfer
+- FolderTransferOutline
+- HomeAdd, HomePlus
+- HomeBattery, HomeElectricity, HomeEnergy, HomePower
+- HomeBatteryOutline, HomeElectricityOutline, HomeEnergyOutline, HomePowerOutline
+- HomeBulbOutline, HomeLightbulbOutline
+- HomeClimate, HomeTemperature, HomeThermometer
+- HomeClimateOutline, HomeTemperatureOutline, HomeThermometerOutline
+- HomeEditOutline
+- HomeExportOutline
+- HomeFlood
+- HomeImportOutline
+- HomeLightningBoltOutline
+- HomeMinus
+- HomeMinusOutline
+- HomeOutline, HouseOutline
+- HomePlusOutline
+- HomeRemove
+- HomeRemoveOutline
+- Humidity
+- Karate, Kickboxing, MartialArts
+- Kitchen
+- LightSwitch
+- OutsideTemperature, SunThermometerOutline
+- PropaneTank
+- PropaneTankOutline
+- SortVariantLock
+- SortVariantLockOpen
+- WindElectricity, WindPower
+### Removed icons (2)
+- CalendarWeekend
+- CalendarWeekendOutline
+
 ## Pack Icon Changes 4.3.0 => 4.4.0
 ### New icons (39)
 - AccountHardHatOutline
