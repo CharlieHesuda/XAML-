@@ -1,1 +1,1 @@
-If you see a mistake or want to contribute to this wiki feel free.
+If you see any mistake or want to contribute to this wiki feel free.
