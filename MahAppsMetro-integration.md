@@ -95,7 +95,7 @@ Metro uses Segoe UI, Material uses Roboto. To override MahApps' fonts with Robot
 ```
 
 ### References
-* [MaterialDesignTheme.MahApps.Fonts.xaml](../../blob/master/MaterialDesignThemes.MahApps/Themes/MaterialDesignTheme.MahApps.Fonts.xaml)
+* [MaterialDesignTheme.MahApps.Fonts.xaml](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/master/MaterialDesignThemes.MahApps/Themes/MaterialDesignTheme.MahApps.Fonts.xaml)
 
 ## The Dialogs
 Using MetroWindow's dialogs with the Toolkit is very easy: the only difference is some extra settings to override the styles of the controls inside the dialog.
@@ -119,7 +119,7 @@ settings.CustomResourceDictionary = dictionary;
 * **Login Dialog:** `UsernameWatermark` and `PasswordWatermark` have no effect when Material Design styles are used. Setting `EnablePasswordPreview` to true reverts the Password Textbox back to the default Metro style.
 
 ### References
-* [MaterialDesignTheme.MahApps.Dialogs.xaml](../../blob/master/MaterialDesignThemes.MahApps/Themes/MaterialDesignTheme.MahApps.Dialogs.xaml)
+* [MaterialDesignTheme.MahApps.Dialogs.xaml](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/master/MaterialDesignThemes.MahApps/Themes/MaterialDesignTheme.MahApps.Dialogs.xaml)
 
 ## The Flyouts
 Similar to the Dialogs, they work just like in MahApps, you just need to override their look. But this time, it's even easier! You just need to import the following dictionary in your app.xaml and all Flyouts will use the new Material look:
@@ -146,7 +146,7 @@ The brush used for the `Background` property must be of the same color as the `C
 ```
 
 ### References
-* [MaterialDesignTheme.MahApps.Flyout.xaml](../../blob/master/MaterialDesignThemes.MahApps/Themes/MaterialDesignTheme.MahApps.Flyout.xaml)
+* [MaterialDesignTheme.MahApps.Flyout.xaml](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/master/MaterialDesignThemes.MahApps/Themes/MaterialDesignTheme.MahApps.Flyout.xaml)
 
 ## The Palette Helper
 
