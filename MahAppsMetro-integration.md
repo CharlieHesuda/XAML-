@@ -94,6 +94,9 @@ Metro uses Segoe UI, Material uses Roboto. To override MahApps' fonts with Robot
 <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.MahApps;component/Themes/MaterialDesignTheme.MahApps.Fonts.xaml" />
 ```
 
+### References
+* [MaterialDesignTheme.MahApps.Fonts.xaml](../../blob/master/MaterialDesignThemes.MahApps/Themes/MaterialDesignTheme.MahApps.Fonts.xaml)
+
 ## The Dialogs
 Using MetroWindow's dialogs with the Toolkit is very easy: the only difference is some extra settings to override the styles of the controls inside the dialog.
 
@@ -114,6 +117,9 @@ settings.CustomResourceDictionary = dictionary;
 ### Known Issues
 * **Progress Dialog:** The 'negative button' in this dialog cannot be styled, it will always use the default Metro style. This is most likely a bug in MahMapps itself.
 * **Login Dialog:** `UsernameWatermark` and `PasswordWatermark` have no effect when Material Design styles are used. Setting `EnablePasswordPreview` to true reverts the Password Textbox back to the default Metro style.
+
+### References
+* [MaterialDesignTheme.MahApps.Dialogs.xaml](../../blob/master/MaterialDesignThemes.MahApps/Themes/MaterialDesignTheme.MahApps.Dialogs.xaml)
 
 ## The Flyouts
 Similar to the Dialogs, they work just like in MahApps, you just need to override their look. But this time, it's even easier! You just need to import the following dictionary in your app.xaml and all Flyouts will use the new Material look:
@@ -138,6 +144,10 @@ The brush used for the `Background` property must be of the same color as the `C
                 <TextBlock>Some content</TextBlock>
 </Controls:Flyout>
 ```
+
+### References
+* [MaterialDesignTheme.MahApps.Flyout.xaml](../../blob/master/MaterialDesignThemes.MahApps/Themes/MaterialDesignTheme.MahApps.Flyout.xaml)
+
 ## The Palette Helper
 
 If you plan on using the Toolkit's Palette Helper to switch colors dynamically during run-time, you need to add an extra paremeter to every *ReplacePrimaryColor* call, to properly change MahApps' brushes. For example:
