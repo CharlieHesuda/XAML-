@@ -1,4 +1,4 @@
-Start new WPF project
+- Start new WPF project
 - Install _MaterialDesignThemes_ nuget: ``` Install-Package MaterialDesignThemes ```
 - Edit App.xaml to following:
 
