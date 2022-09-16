@@ -1,3 +1,422 @@
+## Pack Icon Changes 4.5.0 => 4.6.0
+### New icons (492)
+- AccessPointSuccess, AccessPointTick
+- AccountCard
+- AccountCardOutline
+- AccountCreditCard, AccountPayment, Cardholder
+- AccountCreditCardOutline, AccountPaymentOutline, CardholderOutline
+- AccountMultipleSuccess
+- AccountMultipleSuccessOutline
+- AccountSuccess
+- AccountSuccessOutline
+- Adjuster, Dial, Knob, Tuner, VolumeControl, VolumeKnob
+- AirplaceSuccess, AirplaneTick
+- AirPurifierOff
+- AlarmSuccess
+- AlertCircleSuccess
+- AlertCircleSuccessOutline
+- AllTerrainVehicle, Atv, Quad, Trike, TwoWheeler
+- Artboard
+- Aurora, AuroraAustralis, AuroraBorealis, NorthernLights, PolarLights, SouthernLights
+- AwningOutline, MarquiseOutline, SunShadeOutline
+- BathroomTap
+- BedClock, BedSchedule, BedTime, SleepSchedule, SleepTime
+- BookmarkBox
+- BookmarkBoxOutline
+- ButtonCursor
+- ButtonPointer
+- CalendarAlertOutline
+- CalendarBadge
+- CalendarBadgeOutline
+- CalendarCollapseHorizontalOutline
+- CalendarCursorOutline
+- CalendarEditOutline
+- CalendarEndOutline
+- CalendarExpandHorizontalOutline
+- CalendarExportOutline
+- CalendarFilter
+- CalendarFilterOutline
+- CalendarHeartOutline
+- CalendarHelp
+- CalendarHelpOutline, CalendarQuestionOutline
+- CalendarImportOutline
+- CalendarLockOpen
+- CalendarLockOpenOutline
+- CalendarMinusOutline
+- CalendarMultiselectOutline
+- CalendarPlusOutline
+- CalendarSearchOutline
+- CalendarStarOutline
+- CalendarStartOutline
+- CalendarUser
+- CalendarUserOutline
+- CalendarWeekend
+- CalendarWeekendOutline
+- CallBell
+- CallBellOutline
+- CarFind, CarSearch
+- CarFindOutline, CarSearchOutline
+- CartDiscount, CartPercent, CartSale, TrolleyPercent
+- ChatHelp
+- ChatHelpOutline
+- CheckboxIntermediateVariant
+- CirclePlusOutline, ZoomPlus
+- Cloth, Fabric, Swatch
+- ClothOutline, FabricOutline, SwatchOutline
+- Clouds
+- CommentHelp
+- CommentHelpOutline
+- ContentSaveAdd, ContentSavePlus
+- ContentSaveAddOutline, ContentSavePlusOutline
+- ContentSaveMinus
+- ContentSaveMinusOutline
+- ControlledBurn, Wildfire
+- ControllerOff, GamepadOff
+- CurrencyHryvnia, CurrencyUah, CurrencyUkraine
+- DeskLampOff
+- DeskLampOn
+- DivingScubaMask
+- Drugs, PillMultiple
+- DustStorm, WeatherDust, Windy
+- Ecology, Environment
+- EcologyOutline, EnvironmentOutline
+- EjectCircle
+- EjectCircleOutline
+- EmailArrowLeft
+- EmailArrowLeftOutline
+- EmailArrowRight
+- EmailArrowRightOutline
+- EmailLockOutline, EmailSecureOutline
+- FarmHome, FarmHouse, HomeSilo
+- FarmHomeOutline, FarmHouseOutline, HomeSiloOutline
+- FarmOutline, SiloOutline
+- FaucetVariant
+- FileXmlBox
+- FlagVariantMinus
+- FlagVariantMinusOutline
+- FlagVariantOff
+- FlagVariantOffOutline
+- FlagVariantPlus
+- FlagVariantPlusOutline
+- FlagVariantRemove
+- FlagVariantRemoveOutline
+- FlashOffOutline
+- FlashTriangle, HighVoltage
+- FlashTriangleOutline, HighVoltageOutline
+- FolderHouse
+- FolderHouseOutline
+- FolderMinus
+- FolderMinusOutline
+- Forestry, PineTreeMultiple
+- Form, ListBox
+- FormatListGroupAdd, FormatListGroupPlus
+- FormatPilcrowArrowLeft
+- FormatPilcrowArrowRight
+- FormOutline, ListBoxOutline
+- GestureTouch
+- GestureTouchBox
+- GestureTouchButton
+- GestureTouchHold
+- GiveWay, SignYield
+- GlobeLightOutline
+- HandBike, HandCycle
+- HandReading, TouchReading
+- HdmiPort
+- HomeFind, HouseFind, HouseSearch
+- HomeFindOutline, HouseFindOutline, HouseSearchOutline
+- HomeGroupAdd, HouseGroupAdd, HouseGroupPlus
+- HomeSecure, HouseLock, HouseSecure
+- HomeWarningOutline, HouseAlertOutline, HouseWarningOutline
+- HomeWireless, HouseAutomation, HouseWireless
+- HouseAccount, HouseUser
+- HouseAdd, HousePlus
+- HouseAddOutline, HousePlusOutline
+- HouseAlert, HouseWarning
+- HouseAnalytics, HouseChart
+- HouseAttic, HouseChimney, HouseRoof
+- HouseBattery, HouseEnergy, HousePower
+- HouseBatteryOutline, HouseEnergyOutline, HousePowerOutline
+- HouseBulb, HouseLightbulb
+- HouseBulbOutline, HouseLightbulbOutline
+- HouseClimate, HouseTemperature, HouseThermometer
+- HouseClimateOutline, HouseTemperatureOutline, HouseThermometerOutline
+- HouseClock, HouseSchedule, HouseTime
+- HouseClockOutline, HouseScheduleOutline, HouseTimeOutline
+- HouseEdit
+- HouseEditOutline
+- HouseExportOutline
+- HouseFlash, HouseLightningBolt
+- HouseFlashOutline, HouseLightningBoltOutline
+- HouseFlood
+- HouseGroupMinus
+- HouseGroupRemove
+- HouseHeart
+- HouseImportOutline
+- HouseLockOpen
+- HouseMinus
+- HouseMinusOutline
+- HouseRemove
+- HouseRemoveOutline
+- HouseSwap, HouseSwitch
+- HouseSwapOutline, HouseSwitchOutline
+- HumanWalker
+- ImageAddOutline, ImagePlusOutline
+- ImageCheck
+- ImageCheckOutline
+- ImageMinusOutline
+- ImageRemoveOutline
+- LevelCrossingSignals, RailroadCrossingLight, TrainCrossingLight
+- Marquise, SunShade
+- Maximize
+- MessageCheck
+- MessageCheckOutline
+- Minimize
+- MosqueOutline
+- MowerBagOn
+- MowerOn
+- Multimedia, Picture
+- MusicNoteMinus
+- OfficeBuildingMinus
+- OfficeBuildingMinusOutline
+- OfficeBuildingPlus
+- OfficeBuildingPlusOutline
+- OfficeBuildingRemove
+- OfficeBuildingRemoveOutline
+- Organic
+- OrganicOutline
+- PackageCheck, PackageDelivered
+- PackageVariantClosedCheck, PackageVariantClosedDelivered
+- Patient
+- PatientOutline
+- PauseBox
+- PauseBoxOutline
+- PhoneIncomingOutgoing
+- PhoneIncomingOutgoingOutline
+- PrinterFavorite, PrinterPointOfSaleStar, PrinterPosStar, PrinterPrimary, PrinterReceiptStar
+- PrinterPointOfSaleAlert, PrinterPosAlert, PrinterReceiptAlert
+- PrinterPointOfSaleAlertOutline, PrinterPosAlertOutline, PrinterReceiptAlertOutline
+- PrinterPointOfSaleCancel, PrinterPosCancel, PrinterReceiptCancel
+- PrinterPointOfSaleCancelOutline, PrinterPosCancelOutline, PrinterReceiptCancelOutline
+- PrinterPointOfSaleCheck, PrinterPosCheck, PrinterReceiptCheck
+- PrinterPointOfSaleCheckOutline, PrinterPosCheckOutline, PrinterReceiptCheckOutline
+- PrinterPointOfSaleCog, PrinterPosCog, PrinterReceiptCog
+- PrinterPointOfSaleCogOutline, PrinterPosCogOutline, PrinterReceiptCogOutline
+- PrinterPointOfSaleEdit, PrinterPosEdit, PrinterReceiptEdit
+- PrinterPointOfSaleEditOutline, PrinterPosEditOutline, PrinterReceiptEditOutline
+- PrinterPointOfSaleMinus, PrinterPosMinus, PrinterReceiptMinus
+- PrinterPointOfSaleMinusOutline, PrinterPosMinusOutline, PrinterReceiptMinusOutline
+- PrinterPointOfSaleNetwork, PrinterPosNetwork, PrinterReceiptNetwork
+- PrinterPointOfSaleNetworkOutline, PrinterPosNetworkOutline, PrinterReceiptNetworkOutline
+- PrinterPointOfSaleOff, PrinterPosOff, PrinterReceiptOff
+- PrinterPointOfSaleOffOutline, PrinterPosOffOutline, PrinterReceiptOffOutline
+- PrinterPointOfSaleOutline, PrinterPosOutline, PrinterReceiptOutline
+- PrinterPointOfSalePause, PrinterPosPause, PrinterReceiptPause
+- PrinterPointOfSalePauseOutline, PrinterPosPauseOutline, PrinterReceiptPauseOutline
+- PrinterPointOfSalePlay, PrinterPosPlay, PrinterReceiptPlay
+- PrinterPointOfSalePlayOutline, PrinterPosPlayOutline, PrinterReceiptPlayOutline
+- PrinterPointOfSalePlus, PrinterPosPlus, PrinterReceiptPlus
+- PrinterPointOfSalePlusOutline, PrinterPosPlusOutline, PrinterReceiptPlusOutline
+- PrinterPointOfSaleRefresh, PrinterPosRefresh, PrinterReceiptRefresh
+- PrinterPointOfSaleRefreshOutline, PrinterPosRefreshOutline, PrinterReceiptRefreshOutline
+- PrinterPointOfSaleRemove, PrinterPosRemove, PrinterReceiptRemove
+- PrinterPointOfSaleRemoveOutline, PrinterPosRemoveOutline, PrinterReceiptRemoveOutline
+- PrinterPointOfSaleStarOutline, PrinterPosStarOutline, PrinterReceiptStarOutline
+- PrinterPointOfSaleStop, PrinterPosStop, PrinterReceiptStop
+- PrinterPointOfSaleStopOutline, PrinterPosStopOutline, PrinterReceiptStopOutline
+- PrinterPointOfSaleSync, PrinterPosSync, PrinterReceiptSync
+- PrinterPointOfSaleSyncOutline, PrinterPosSyncOutline, PrinterReceiptSyncOutline
+- PrinterPointOfSaleWrench, PrinterPosWrench, PrinterReceiptWrench
+- PrinterPointOfSaleWrenchOutline, PrinterPosWrenchOutline, PrinterReceiptWrenchOutline
+- PrinterReceipt
+- ProgressHelper
+- PumpOff
+- ReceiptText
+- ReceiptTextOutline
+- Regeneration, RegenerativeAgriculture
+- RobotVacuumAlert, RobotVacuumError
+- RobotVacuumVariantAlert, RobotVacuumVariantError
+- SelectArrowDown
+- SelectArrowUp
+- SignLanguage
+- SignLanguageOutline
+- SolarAngle, SunAngle
+- SolarAngleOutline, SunAngleOutline
+- SpeakerPause
+- SpeakerPlay
+- SpeakerStop
+- SpokenLanguage, TranslateVariant
+- StorefrontCheck
+- StorefrontCheckOutline
+- StorefrontEdit
+- StorefrontEditOutline
+- StorefrontMinus
+- StorefrontMinusOutline
+- StorefrontPlus
+- StorefrontPlusOutline
+- StorefrontRemove
+- StorefrontRemoveOutline
+- Success
+- SuccessBold, SuccessThick
+- SuccessCircle
+- SuccessCircleOutline
+- SucessOutline
+- TableFilter
+- TableHelp, TableQuestion
+- TelevisionSpeaker
+- TelevisionSpeakerOff
+- ThermometerProbe
+- ThermometerProbeOff
+- TimelineQuestion
+- TimelineQuestionOutline
+- TooltipHelp, TooltipQuestion
+- TooltipHelpOutline, TooltipQuestionOutline
+- TrainCarAutorack
+- TrainCarBox
+- TrainCarBoxFull
+- TrainCarBoxOpen
+- TrainCarCaboose
+- TrainCarCenterbeam
+- TrainCarCenterbeamFull
+- TrainCarContainer
+- TrainCarFlatbed
+- TrainCarFlatbedCar
+- TrainCarFlatbedTank
+- TrainCarGondola
+- TrainCarGondolaFull
+- TrainCarHopper
+- TrainCarHopperCovered
+- TrainCarHopperFull
+- TrainCarIntermodal
+- TrainCarTank
+- VectorPointAdd, VectorPointPlus
+- VectorPointEdit
+- VectorPointMinus
+- VectorPointSelect
+- WaterBoilerAuto, WaterHeaterAuto
+- WindowShutterAuto
+- WrenchCheck
+- WrenchCheckOutline
+- WrenchClockOutline
+- WrenchCog, WrenchSettings
+- WrenchCogOutline, WrenchSettingsOutline
+### Icons with visual changes (195)
+- AccountArrowDown, AccountDownload
+- AccountArrowDownOutline, AccountDownloadOutline
+- AccountArrowLeft, PersonArrowLeft, UserArrowLeft
+- AccountArrowLeftOutline, PersonArrowLeftOutline, UserArrowLeftOutline
+- AccountArrowRight, PersonArrowRight, UserArrowRight
+- AccountArrowRightOutline, PersonArrowRightOutline, UserArrowRightOutline
+- AccountArrowUp, AccountUpload
+- AccountArrowUpOutline, AccountUploadOutline
+- AccountFilter, AccountFunnel, Leads
+- AccountFilterOutline, AccountFunnelOutline, LeadsOutline
+- AccountService, AccountWrench
+- AccountServiceOutline, AccountWrenchOutline
+- AddShoppingCart, CartAdd, CartPlus, ShoppingCartAdd, ShoppingCartPlus, TrolleyAdd, TrolleyPlus
+- AdobeAcrobat, FileAcrobatBox, FilePdfBox
+- Audio
+- Awning
+- BankCheck
+- BankOff
+- BankOffOutline
+- CalendarAccount
+- CalendarAccountOutline
+- CalendarAlert, CalendarWarning, EventAlert
+- CalendarBlankOutline, EventBlankOutline
+- CalendarCheckOutline, CalendarTaskOutline, CalendarTickOutline, EventAvailableOutline, EventCheckOutline, EventTickOutline
+- CalendarCursor
+- CalendarDayOutline, CalendarTodayOutline
+- CalendarExport
+- CalendarFavorite, CalendarStar, EventStar
+- CalendarHeart, EventHeart
+- CalendarImport
+- CalendarLock
+- CalendarLockOutline
+- CalendarMonthOutline
+- CalendarOutline, EventOutline
+- CalendarRangeOutline, EventRangeOutline
+- CalendarRemoveOutline, EventBusyOutline, EventRemoveOutline
+- CalendarTextOutline, EventNoteOutline, EventTextOutline
+- CalendarWeekBeginOutline, EventWeekBeginOutline
+- CalendarWeekOutline, EventWeekOutline
+- CartArrowDown, ShoppingCartArrowDown, TrolleyArrowDown
+- CartArrowUp, ShoppingCartArrowUp, TrolleyArrowUp
+- CartCheck
+- CartFavorite, CartHeart, ShoppingFavorite
+- CartMinus, ShoppingCartMinus, TrolleyMinus
+- CartRemove, ShoppingCartRemove, TrolleyRemove
+- Cleaning, SprayBottle
+- CommentCheck, CommentTick
+- CommentCheckOutline, CommentTickOutline
+- Controller
+- CreateNewFolder, FolderAdd, FolderPlus
+- CreateNewFolderOutline, FolderAddOutline, FolderPlusOutline
+- DivingScuba
+- EmailAdd, EmailPlus, EnvelopeAdd, EnvelopePlus
+- EmailAddOutline, EmailPlusOutline, EnvelopeAddOutline, EnvelopePlusOutline
+- EmailCheck, EmailTick
+- EmailCheckOutline, EmailTickOutline
+- EmailLock, EmailSecure, EnvelopeLock, EnvelopeSecure
+- EmailMinus
+- EmailMinusOutline
+- EmailReceive
+- EmailReceiveOutline
+- EmailSend
+- EmailSendOutline
+- EventWeekEndOutline
+- Faucet, KitchenTap
+- FileGifBox
+- FileJpegBox, FileJpgBox, ImageJpegBox, ImageJpgBox
+- FilePngBox
+- FolderCheck
+- FolderCheckOutline
+- FolderEdit
+- FolderEditOutline
+- FolderMusic
+- FolderMusicOutline
+- FolderRemove
+- FolderRemoveOutline
+- GlobeLight
+- ImageAdd, ImagePlus
+- ImageFilter
+- ImageMinus
+- InvoiceCheckOutline, ReceiptTextCheckOutline
+- InvoiceMinusOutline, ReceiptTextMinusOutline
+- InvoiceOutline
+- InvoiceRemoveOutline, ReceiptTextRemoveOutline
+- Islam, Mosque, Muslim
+- MinusThick
+- MonitorSpeaker
+- MonitorSpeakerOff
+- PlaylistAdd, PlaylistPlus
+- PlaylistAddCheck, PlaylistCheck, PlaylistTick, Subscriptions
+- PlaylistEdit
+- PlaylistFavorite, PlaylistStar
+- PlaylistMinus
+- PlaylistPlay
+- PlaylistRemove
+- ProgressQuestion
+- Receipt
+- ReceiptOutline
+- ReceiptTextPlusOutline
+- ServiceToolbox, ToolboxOutline
+- Silo
+- Toolbox
+- VectorPoint
+- WbSunny, WhiteBalanceSunny
+### Removed icons (15)
+- AndroidMessages
+- BooksVariant, BookVariantMultiple
+- CalendarWeekEnd, EventWeekEnd
+- CalendarWeekEndOutline
+- DesktopMac
+- DesktopMacDashboard
+- Discord
+- GoogleController, GoogleGamepad
+- GoogleControllerOff, GoogleGamepadOff
+- GoogleHome
+- TabletAndroid
+
 ## Pack Icon Changes 4.4.0 => 4.5.0
 ### New icons (653)
 - ABCOff, LettersOff
