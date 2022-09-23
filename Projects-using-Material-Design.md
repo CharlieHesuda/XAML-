@@ -15,13 +15,15 @@ Convert between multiple binary, decimal and hexadecimal values. Add a comment t
 ## [DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter)
 Tool for for exporting Discord chat logs to a file.
 
-![](https://github.com/Tyrrrz/DiscordChatExporter/blob/master/.screenshots/list.png)
+![image](https://user-images.githubusercontent.com/54487782/191914475-47051e92-77b4-41a3-bb29-0e980ee44c93.png)
+![image](https://user-images.githubusercontent.com/54487782/191914500-300cd5e6-0cd1-480c-b05b-2150b9840c3f.png)
 
 ## [LightBulb](https://github.com/Tyrrrz/LightBulb)
 
 Background app that gradually reduces blue light
 
-![](https://github.com/Tyrrrz/LightBulb/blob/master/.screenshots/dashboard.png)
+![image](https://user-images.githubusercontent.com/54487782/191914588-45cc09fa-4254-4d38-9c6f-f1fd12548e10.png)
+![image](https://user-images.githubusercontent.com/54487782/191914597-e9e7d3a3-78e9-4ec4-a48d-3fd0f81b5107.png)
 
 ## [TrafficGrapher](https://github.com/oMaN-Rod/TrafficGrapher)
 This tool was inspired by [MRTG](https://oss.oetiker.ch/mrtg/index.en.html) and [STG](http://leonidvm.chat.ru/), it allows quickly monitoring network traffic via SNMP.
@@ -53,8 +55,9 @@ With this apps you can create many WPF application with PowerShell, with two pri
 
 Downloads videos and playlists from YouTube.
 
-![](https://github.com/Tyrrrz/YoutubeDownloader/blob/master/.screenshots/list.png)
-![](https://github.com/Tyrrrz/YoutubeDownloader/blob/master/.screenshots/single.png)
+![image](https://user-images.githubusercontent.com/54487782/191914792-6a6aa92c-d3a5-4418-89a8-c04575fe1ade.png)
+![image](https://user-images.githubusercontent.com/54487782/191914816-925548fb-082f-48f9-af47-a30c7bbd789d.png)
+![image](https://user-images.githubusercontent.com/54487782/191914830-0074267e-a734-448d-a211-9ec60e575a51.png)
 
 ## [Artemis](https://github.com/Artemis-RGB/Artemis)
 
