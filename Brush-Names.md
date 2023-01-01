@@ -1,8 +1,8 @@
-Sometimes you may want to use the toolkit's brushs directly in your XAML. Typically you'll use them as dynamic resources, so they update with the current material palette.
+Sometimes you may want to use the toolkit's brushes directly in your XAML. Typically you'll use them as dynamic resources, so they update with the current material palette.
 
 # Palette Brush Names
 
-## Primary Colour
+## Primary Color
 
 * PrimaryHueLightBrush
 * PrimaryHueLightForegroundBrush
@@ -11,10 +11,10 @@ Sometimes you may want to use the toolkit's brushs directly in your XAML. Typica
 * PrimaryHueDarkBrush
 * PrimaryHueDarkForegroundBrush
 
-NB `[Light/Mid/Dark]Brush` define the different hues of the colour, and the `[Light/Mid/Dark]ForegroundBrush` define a foreground colour which will show up clearly on that hue.
+NB `[Light/Mid/Dark]Brush` define the different hues of the color, and the `[Light/Mid/Dark]ForegroundBrush` define a foreground color which will show up clearly on that hue.
 
 
-## Secondary Colour
+## Secondary Color
 
 * SecondaryHueLightBrush
 * SecondaryHueLightForegroundBrush
@@ -23,7 +23,7 @@ NB `[Light/Mid/Dark]Brush` define the different hues of the colour, and the `[Li
 * SecondaryHueDarkBrush
 * SecondaryHueDarkForegroundBrush
 
-NB `[Light/Mid/Dark]Brush` define the different hues of the colour, and the `[Light/Mid/Dark]ForegroundBrush` define a foreground colour which will show up clearly on that hue.
+NB `[Light/Mid/Dark]Brush` define the different hues of the color, and the `[Light/Mid/Dark]ForegroundBrush` define a foreground color which will show up clearly on that hue.
 
 Prior to version 2.6.0 there was only these accent brushes. Though these still exist in version 3.0.0, they should be considered obsolete and will be removed in a future version.
 * SecondaryAccentBrush
