@@ -1,3 +1,173 @@
+## Pack Icon Changes 4.6.1 => 4.7.0
+### New icons (214)
+- AccountTag
+- AccountTagOutline
+- AdministratorNetwork, ShieldNetwork, UacNetwork
+- ArchiveSuccess, BoxSuccess
+- ArchiveSuccessOutline, BoxSuccessOutline
+- AutoAwesomeOutline, CreationOutline
+- AutoBox, StarFourPointsBox
+- AutoBoxOutline, StarFourPointsBoxOutline
+- AutoCircle, StarFourPointsCircle
+- AutoCircleOutline, StarFourPointsCircleOutline
+- AutoMode
+- BankCircle
+- BankCircleOutline
+- BatteryBackup, PowerPlugBattery
+- BatteryBackupOutline, PowerPlugBatteryOutline
+- BookmarkSuccess
+- BookmarkSuccessOutline
+- CalendarAuto, CalendarStarFourPoints, EventAuto, EventStarFourPoints
+- CameraLockOpen
+- CameraLockOpenOutline
+- CategoryPlus
+- CategoryPlusOutline, ShapeAddOutline, ShapePlusOutline
+- ChartPieOutline, GraphPieOutline, ReportPieOutline, WidgetPieOutline
+- CheckboxIndeterminate
+- CheckboxIndeterminateVariant
+- CheckboxMarkedCircleAutoOutline, TaskAuto, TodoAuto
+- CheckboxMarkedCircleMinusOutline, TaskMinus, TodoMinus
+- CitySwap, CitySwitch
+- ClockAuto, ClockStarFourPoints
+- ClockAutoOutline, ClockStarFourPointsOutline
+- CloudAlertOutline
+- CloudArrowDown
+- CloudArrowDownOutline
+- CloudArrowLeft
+- CloudArrowLeftOutline
+- CloudArrowRight
+- CloudArrowRightOutline
+- CloudArrowUp
+- CloudArrowUpOutline
+- CloudCancel
+- CloudCancelOutline
+- CloudCheckVariant
+- CloudCheckVariantOutline
+- CloudCircleOutline
+- CloudClock
+- CloudClockOutline
+- CloudCog
+- CloudCogOutline
+- CloudLockOpen
+- CloudLockOpenOutline
+- CloudMinus
+- CloudMinusOutline
+- CloudOff
+- CloudPlus
+- CloudPlusOutline
+- CloudQuestionOutline
+- CloudRefreshOutline
+- CloudRefreshVariant
+- CloudRefreshVariantOutline
+- CloudRemove
+- CloudRemoveOutline
+- CurrencyThaiBaht, CurrencyThb
+- DomainSwitch
+- EyeLock
+- EyeLockOpen
+- EyeLockOpenOutline
+- EyeLockOutline
+- FileAuto, FileStarFourPoints
+- FileAutoOutline, FileStarFourPointsOutline
+- FileDocumentArrowRight, FileDocumentMove, FileTextArrowRight, FileTextMove
+- FileDocumentArrowRightOutline, FileDocumentMoveOutline, FileTextArrowRightOutline, FileTextMoveOutline
+- FileText
+- FileTextAdd, FileTextPlus
+- FileTextAddOutline, FileTextPlusOutline
+- FileTextAlert, FileTextError
+- FileTextAlertOutline, FileTextErrorOutline
+- FileTextCheck, FileTextTick
+- FileTextCheckOutline, FileTextTickOutline
+- FileTextDelete, FileTextRemove
+- FileTextDeleteOutline, FileTextRemoveOutline
+- FileTextEdit
+- FileTextEditOutline
+- FileTextMinus
+- FileTextMinusOutline
+- FileTextMultiple
+- FileTextMultipleOutline
+- FileTextOutline
+- HelpBoxMultiple, QuestionBoxMultiple, Quiz
+- HelpBoxMultipleOutline, QuestionBoxMultipleOutline, QuizOutline
+- HelpBoxOutline, QuestionBoxOutline
+- ImageFilterDramaOutline
+- InvoiceArrowLeft, InvoiceReceive, ReceiptTextArrowLeft
+- InvoiceArrowLeftOutline, InvoiceReceiveOutline, ReceiptTextArrowLeftOutline
+- InvoiceArrowRight, InvoiceSend, ReceiptTextArrowRight
+- InvoiceArrowRightOutline, InvoiceSendOutline, ReceiptTextArrowRightOutline
+- InvoiceClock, InvoiceSchedule, ReceiptTextClock, ReceiptTextPending
+- InvoiceClockOutline, InvoiceScheduleOutline, ReceiptTextClockOutline
+- InvoiceEdit, ReceiptTextEdit
+- InvoiceEditOutline, ReceiptTextEditOutline
+- KeyboardCloseOutline, KeyboardHideOutline
+- LockPercent, LockRate
+- LockPercentOpen, LockRateOpen
+- LockPercentOpenOutline, LockRateOpenOutline
+- LockPercentOpenVariant, LockRateOpenVariant
+- LockPercentOpenVariantOutline, LockRateOpenVariantOutline
+- LockPercentOutline, LockRateOutline
+- NinjaStar
+- OctagramEdit, StarburstEdit
+- OctagramEditOutline, StarburstEditOutline
+- OctagramMinus, StarburstPlus
+- OctagramMinusOutline, StarburstMinusOutline
+- OctagramPlus
+- OctagramPlusOutline
+- PaperAirplaneVariant, PaperPlaneVariant, SendVariant
+- PaperAirplaneVariantOutline, PaperPlaneVariantOutline, SendVariantOutline
+- PencilRulerOutline
+- PlayBoxEditOutline
+- ProgressAuto, ProgressStarFourPoints
+- ReceiptClock, ReceiptPending
+- ReceiptClockOutline
+- RenameBoxOutline
+- RenameOutline
+- RobotVacuumOff
+- RobotVacuumVariantOff
+- SackOutline
+- ServerShield
+- SquareCircleOutline
+- StarFourPointsSmall
+- TriangleDown
+- TriangleDownOutline
+- Uac, UserAccessControl
+- WalletBifold
+- WalletBifoldOutline
+### Icons with visual changes (47)
+- Administrator
+- Backup, CloudUpload
+- BackupOutline, CloudUploadOutline
+- BagPersonalTag, PropertyTag
+- BagPersonalTagOutline, PropertyTagOutline
+- Cloud, WbCloudy
+- CloudAlert, CloudWarning
+- CloudBraces, CloudJson
+- CloudCheck
+- CloudCheckOutline
+- CloudCircle
+- CloudDiscount, CloudPercent, Humidity, RainChance
+- CloudDiscountOutline, CloudPercentOutline, HumidityOutline, RainChanceOutline
+- CloudDone, CloudTick
+- CloudDownload
+- CloudDownloadOutline
+- CloudLock
+- CloudLockOutline
+- CloudOffOutline
+- CloudOutline, CloudQueue
+- CloudPrint
+- CloudPrintOutline
+- CloudQuestion
+- CloudRefresh
+- CloudSearch
+- CloudSearchOutline
+- CloudSync
+- CloudSyncOutline
+- CloudTags, CloudXml
+- ImageFilterDrama
+- Rename
+### Removed icons (0)
+_None_
+
 ## Pack Icon Changes 4.5.0 => 4.6.0
 ### New icons (492)
 - AccessPointSuccess, AccessPointTick
