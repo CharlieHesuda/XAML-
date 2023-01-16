@@ -1,3 +1,12 @@
+## Pack Icon Changes 4.7.0 => 4.7.1
+### New icons (4)
+- CheckbookArrowLeft, ChequebookArrowLeft
+- CheckbookArrowRight, ChequebookArrowRight
+### Icons with visual changes (0)
+_None_
+### Removed icons (0)
+_None_
+
 ## Pack Icon Changes 4.6.1 => 4.7.0
 ### New icons (214)
 - AccountTag
