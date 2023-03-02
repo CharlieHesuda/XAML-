@@ -1,3 +1,70 @@
+## Pack Icon Changes 4.7.1 => 4.8.0
+### New icons (105)
+- ArachnidOutline, SpiderOutline
+- BaseballOutline
+- Bench
+- BenchBack
+- BikePedal, BikePedalFlat
+- BikePedalClipless
+- BikePedalMountain
+- CashOff
+- CloverOutline, LuckOutline
+- CupEmpty
+- CycloneOutline, WeatherHurricaneOutline
+- EmailHeartOutline, EnvelopeHeartOutline, GreetingCard, LoveLetter
+- EmailOpenHeartOutline, EnvelopeOpenHeartOutline, GreetingCardOpen, LoveLetterOpen
+- FileDocumentRefresh
+- FileDocumentRefreshOutline
+- ForestOutline, ForestryOutline, PineTreeMultipleOutline
+- HomePercent
+- HomePercentOutline
+- HomeSoundIn
+- HomeSoundInOutline
+- HomeSoundOut
+- HomeSoundOutOutline
+- ImageFilterHdrOutline, LandscapeOutline, MountainOutline
+- Info
+- InfoBox, InformationBox
+- InfoBoxOutline, InformationBoxOutline
+- InfoCircleOff, InfoOff, InformationCircleOff
+- InfoCircleOffOutline, InfoOffOutline, InformationCircleOffOutline
+- InformationSerifBox, InformationVariantBox, InfoSerifBox, InfoVariantBox
+- InformationSerifBoxOutline, InformationVariantBoxOutline, InfoSerifBoxOutline, InfoVariantBoxOutline
+- InformationSerifCircle, InformationVariantCircle, InfoSerifCircle, InfoVariantCircle
+- InformationSerifCircleOutline, InformationVariantCircleOutline, InfoSerifCircleOutline, InfoVariantCircleOutline
+- InformationSerifSymbol, InfoVariantSymbol
+- InformationSlabBox, InfoSlabBox
+- InformationSlabBoxOutline, InfoSlabBoxOutline
+- InformationSlabCircle, InfoSlabCircle
+- InformationSlabCircleOutline, InfoSlabCircleOutline
+- InformationSlabSymbol, InfoSlabSymbol
+- InformationSymbol, InfoSymbol
+- JewelCase, JewelryBox
+- JewelCaseOutline, JewelryBoxOutline, TreasureChestOutline
+- LandPlotsMarker
+- MonitorVertical
+- NatureOutline
+- NaturePeopleOutline
+- PineTreeVariant
+- PineTreeVariantOutline
+- RadioboxIndeterminateVariant, RadioboxIntermediateVariant, RadioButtonIndeterminate
+- ReceiptSend
+- ReceiptSendOutline
+- ReceiptTextSend
+- ReceiptTextSendOutline
+- SendVariantClock
+- SendVariantClockOutline
+- SmartHome, SmartHouse
+- TagHidden
+- TennisBallOutline
+- ThermostatCog
+- TouchTextOutline
+- ViewGridCompact
+### Icons with visual changes (0)
+_None_
+### Removed icons (0)
+_None_
+
 ## Pack Icon Changes 4.7.0 => 4.7.1
 ### New icons (4)
 - CheckbookArrowLeft, ChequebookArrowLeft
