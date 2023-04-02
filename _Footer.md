@@ -1,1 +1,1 @@
-If you see any mistake or want to contribute to this wiki feel free.
+It is missing dots on some parts of page and it was confusing.
