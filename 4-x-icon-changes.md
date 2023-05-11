@@ -1,3 +1,67 @@
+## Pack Icon Changes 4.8.0 => 4.9.0
+### New icons (90)
+- ArrowOscillating
+- ArrowOscillatingOff
+- BackpackAdd, BackpackPlus, BagPersonalAdd, BagPersonalPlus
+- BackpackAddOutline, BackpackPlusOutline, BagPersonalAddOutline, BagPersonalPlusOutline
+- Canvas, Frame
+- CarDoorLockOpen
+- CharitySearch
+- ChipArrowDown, MemoryArrowDown
+- CloudAccess, CloudKey, CloudSecurity
+- CloudAccessOutline, CloudKeyOutline, CloudSecurityOutline
+- CodeBlockBraces, CodeBlockJson, CodeBlockTag
+- CodeBlockBrackets, CodeBlockSquare
+- CodeBlockHtml, CodeBlockTags, CodeBlockXml
+- CodeBlockParentheses
+- DoorClosedCancel, DoorDoNotEnter, DoorForbidden, DoorUnavailable
+- EarthArrowDown, GlobeArrowDown, PlanetArrowDown, WorldArrowDown
+- EarthArrowLeft, GlobeArrowLeft, PlanetArrowLeft, WorldArrowLeft
+- EarthArrowUp, GlobeArrowUp, PlanetArrowUp, WorldArrowUp
+- ElectricityGenerator, GeneratorMobile, PowerGenerator
+- EyeClosed, EyeShut, VisibilityHidden
+- FindLove, HeartSearch
+- GeneratorPortable
+- GeneratorStationary
+- HamburgerClose, MenuClose
+- HamburgerOpen
+- Holiday
+- Hours12
+- Hub
+- HubOutline
+- HumanFemaleFemaleChild
+- HumanMaleMaleChild
+- MessageBubble
+- MessageBubbleOutline, SpeakOutline
+- PersonInjury
+- PersonInjuryOutline
+- PowerHibernate
+- RouterNetworkWireless, WirelessRouter
+- ServerAddOutline, ServerPlusOutline
+- ServerMinusOutline, ServerRemoveOutline
+- ServerNetworkOutline
+- ServerOutline
+- ShimmerOutline, SparklesOutline, StarsOutline
+- TagEdit
+- TagEditOutline
+- TruckOffRoad
+- TruckOffRoadOff
+- VideoQualitySd, VideoSd, VideoStandardDefinition
+### Icons with visual changes (21)
+- Camping
+- FormatStrikethroughVariant, StrikethroughS
+- HumanMaleFemaleChild, MomDadChild
+- JetEngine, Turbine
+- Login, SignIn
+- Logout, SignOut
+- Radiation, Radioactive
+- RadiationCircle, RadioactiveCircle
+- RadiationCircleOutline, RadioactiveCircleOutline
+- RadiationOff, RadioactiveOff
+- Sparkles, Stars
+### Removed icons (0)
+_None_
+
 ## Pack Icon Changes 4.8.0 => 4.8.1
 ### New icons (90)
 - ArrowOscillating
