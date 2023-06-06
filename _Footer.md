@@ -1,0 +1,1 @@
+It is missing dots on some parts of page and it was confusing.
