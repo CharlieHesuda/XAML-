@@ -1,10 +1,6 @@
 # Welcome to the Material Design In XAML Wiki!
 
-Start at one of these places:
-
-* [[Super Quick Start]]
-
-* Or, the more comprehensive [[Getting Started|Getting Started]] guide.
+See the [[Getting Started|Getting Started]] guide to get started. Alternatively, check out the [demo applications](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/releases) to see examples.
 
 ## Download
 
