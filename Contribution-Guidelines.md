@@ -1,8 +1,7 @@
 ## Ways to contribute
 If you have enjoyed using this library and would like to help support it, there are several ways you can help contribute.
-* Help answer questions on [issues](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/issues), [discussions](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/discussions) or the [gitter chat room](https://gitter.im/ButchersBoy/MaterialDesignInXamlToolkit). We all start learning at different places. If you see a question you can answer feel to respond. Remember to be kind and respectful. We all start learning at different levels.
+* Help answer questions on [issues](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/issues), [discussions](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/discussions) or on [Discord](https://discord.keboo.dev). We all start learning at different places. If you see a question you can answer, feel to respond. Remember to be kind and respectful. We all start learning at different levels.
 * [Help improve bug reports](#Improving-bug-reports)
-* [Improve the documentation (Wiki)](#Wiki)
 * [Submit code changes](#Pull-Requests)
 
 ## Pull Requests
@@ -16,7 +15,7 @@ Questions on these issues will be given priority, so if you are having any probl
 Issues that [are tagged with up-for-grabs](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/labels/up-for-grabs) are available for anyone to work on. Simply leave a comment on the issue indicating that you are working on it to avoid doing duplicate work. If you decide not to complete it, please leave another comment so other people know it is available to be worked on.
 
 ## Wiki
-If you come accross an issue in the Wiki, or you simply want to contribute content please feel free to make any needed changes directly. A pull request and approval process are not necessary. If you would like to discuss potential changes this can be done in the [gitter channel](https://gitter.im/ButchersBoy/MaterialDesignInXamlToolkit) or in the [discussion tab](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/discussions). 
+If you come across an issue in the Wiki, please feel free to open an issue or discussion. 
 
 ## Improving bug reports
 When a new issue is filed it often takes time simply to verify the bug before a fix can be done. This process gets more difficult if the bug report is incomplete. Things you can to to help in this area.
