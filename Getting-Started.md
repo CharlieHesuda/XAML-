@@ -8,10 +8,70 @@ The setup of the toolkit can vary from version to version. Please note which ver
 
 Before anything else, you must install the Toolkit. This can be done either manually or through the [NuGet package](https://www.nuget.org/packages/MaterialDesignThemes/) (```Install-Package MaterialDesignThemes```).
 
+## Version 5.0.0 and later
+If you would like to get started with a full solution template @Keboo has a solution template you can find [here](https://github.com/Keboo/DotnetTemplates). Simply install the template and run `dotnet new keboo.wpf` to get a full solution up and running.
 
-We also require to install [ShowMeTheXAML](https://github.com/Keboo/ShowMeTheXAML) using nuget or manually  `PM> Install-Package ShowMeTheXAML.MSBuild`
+Like any other XAML library, the Toolkit needs to be imported and configured through your project's App.xaml to function properly. All of the following changes should be done as merged dictionaries (complete sample below). First, you will need to include all of the default styles for the controls. This is required regardless of which of the three styling options you choose.
 
-## Version 3.0.0 and later
+```xaml
+<ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes//MaterialDesign3.Defaults.xaml" /> 
+```
+Or if you prefer the classic look and feel (note the version changed to 2 from 3):
+```xaml
+<ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesign2.Defaults.xaml" /> 
+```
+
+Next, you need to select a color theme. The simplest option is to use one of the built-in themes provided by the `BundledTheme` resource dictionary.
+
+A final App.xaml should look something like this:
+```xaml
+<Application x:Class="Example.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <materialDesign:BundledTheme BaseTheme="Light" PrimaryColor="DeepPurple" SecondaryColor="Lime" />
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesign2.Defaults.xaml" /> 
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>
+```
+
+If you would prefer to use your own custom colors for the theme, you can do this with the `CustomColorTheme` resource dictionary.
+A final App.xaml should look something like this:
+```xml
+<Application x:Class="Example.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <materialDesign:CustomColorTheme BaseTheme="Light" PrimaryColor="Aqua" SecondaryColor="DarkGreen" />
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesign3.Defaults.xaml" /> 
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>
+```
+
+### Configuring your Window(s)
+To properly setup all of the colors at the Window, you will need to apply a style to your Window classes.
+
+```xml
+<Window [...]
+        Style="{StaticResource MaterialDesignWindow}"
+        [...] >
+```
+
+Now your window's text will also blend in nicely with Material Design.
+
+## Version 3.0.0 through 4.9.0
 
 ### Configuring your App.xaml
 
