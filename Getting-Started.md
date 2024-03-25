@@ -14,7 +14,7 @@ If you would like to get started with a full solution template @Keboo has a solu
 Like any other XAML library, the Toolkit needs to be imported and configured through your project's App.xaml to function properly. All of the following changes should be done as merged dictionaries (complete sample below). First, you will need to include all of the default styles for the controls. This is required regardless of which of the three styling options you choose.
 
 ```xaml
-<ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes//MaterialDesign3.Defaults.xaml" /> 
+<ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesign3.Defaults.xaml" /> 
 ```
 Or if you prefer the classic look and feel (note the version changed to 2 from 3):
 ```xaml
