@@ -21,7 +21,7 @@ This variant changes the color scheme to Primary Dark.
 
 ![](http://i.imgur.com/tX2SfRI.gif)
 
-#### MaterialDesignRaisedAccentButton
+#### MaterialDesignRaisedSecondaryButton
 This variant changes the color scheme to Accent.
 
 ![](http://i.imgur.com/xJYpcep.gif)
@@ -50,7 +50,7 @@ This variant changes the color scheme to Primary Dark.
 
 ![](http://i.imgur.com/MoTuQCx.gif)
 
-#### MaterialDesignFloatingActionAccentButton
+#### MaterialDesignFloatingActionSecondaryButton
 This variant changes the color scheme to Accent.
 
 ![](http://i.imgur.com/j4x5FjX.gif)
