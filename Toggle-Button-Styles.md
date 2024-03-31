@@ -21,10 +21,10 @@ This variant changes the color scheme to Primary Dark.
 
 ![MaterialDesignActionDarkToggleButton](http://i.imgur.com/3R8FoWg.gif)
 
-#### MaterialDesignActionAccentToggleButton
+#### MaterialDesignActionSecondaryToggleButton
 This variant changes the color scheme to Accent.
 
-![MaterialDesignActionAccentToggleButton](http://i.imgur.com/smyJhWZ.gif)
+![MaterialDesignActionSecondaryToggleButton](http://i.imgur.com/smyJhWZ.gif)
 
 ## MaterialDesignFlatToggleButton
 ![MaterialDesignFlatToggleButton](http://i.imgur.com/ZNOzgnp.gif)
