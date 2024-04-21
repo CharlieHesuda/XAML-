@@ -1,52 +1,52 @@
-*The information here applies to version 2.6.0 and later.*
+*The information here applies to version 5.0.0 and later.*
 
 ## Setting the initial theme
 
-The first step is to set the inital theme. There are two recommended ways to accomplish this:
+The first step is to set the initial theme. There are two recommended ways to accomplish this:
 1. Use one of the built in [Markup Extensions](https://docs.microsoft.com/en-us/dotnet/framework/wpf/advanced/markup-extensions-and-wpf-xaml) that generates a theme resource dictionary. Use one of the built-in markup extensions (`BundledTheme` or `CustomColorTheme`). These return a new `ResourceDictionary` instance with all of the brushes setup for you.
-2. Create a new `ITheme` object and use `ResourceDictionaryExtensions.SetTheme(Application.Current.Resources)`. You can create a new `Theme` object using:
+2. Create a new `Theme` object and use `ResourceDictionaryExtensions.SetTheme(Application.Current.Resources)`. You can create a new `Theme` object using:
 ```C#
 using MaterialDesignColors;
 using MaterialDesignThemes.Wpf;
 using System.Windows.Media;
 ...
+Theme theme = new();
 PrimaryColor primary = PrimaryColor.DeepPurple;
 Color primaryColor = SwatchHelper.Lookup[(MaterialDesignColor)primary];
+theme.SetPrimaryColor(primaryColor);
 
 SecondaryColor secondary = SecondaryColor.Teal;
 Color secondaryColor = SwatchHelper.Lookup[(MaterialDesignColor)secondary];
+theme.SetSecondaryColor(secondaryColor);
 
-IBaseTheme baseTheme = Theme.Light;
-//If you want a dark theme you can use IBaseTheme baseTheme = Theme.Dark;
-
-ITheme theme = Theme.Create(baseTheme, primaryColor, secondaryColor);
+theme.SetLightTheme();
+//If you want a dark theme you can use theme.SetDarkTheme(); or theme.SetBaseTheme()
 ```
 If you want you can use any arbitrary colors.
 ```C#
-using MaterialDesignThemes.Wpf;
-using System.Windows.Media;
-...
+Theme theme = new();
 Color primaryColor = Colors.Purple;
+theme.SetPrimaryColor(primaryColor);
+
 Color secondaryColor = Colors.Lime;
+theme.SetSecondaryColor(secondaryColor);
 
-IBaseTheme baseTheme = Theme.Light;
-//If you want a dark theme you can use IBaseTheme baseTheme = Theme.Dark;
-
-ITheme theme = Theme.Create(baseTheme, primaryColor, secondaryColor);
+theme.SetLightTheme();
+//If you want a dark theme you can use theme.SetDarkTheme(); or theme.SetBaseTheme()
 ```
 
 ## Changing the theme
-Prior to version 2.6.0 the `PaletteHelper` class provided methods for modifying the theme. These methods are now obsolete in favor of the new `GetTheme` and `SetTheme` methods on `PaletteHelper`. To change the theme simply get the existing `ITheme`, modify this theme object, and then simply set it with `PaletteHelper.SetTheme`. Similar to this:
+To change the theme simply get or create a `Theme` instance, modify this theme instance, and then apply it with `PaletteHelper.SetTheme`. Similar to this:
 ```C#
 using MaterialDesignColors;
 using MaterialDesignThemes.Wpf;
 ...
 var paletteHelper = new PaletteHelper();
 //Retrieve the app's existing theme
-ITheme theme = paletteHelper.GetTheme();
+Theme theme = paletteHelper.GetTheme();
 
 //Change the base theme to Dark
-theme.SetBaseTheme(Theme.Dark);
+theme.SetBaseTheme(BaseTheme.Dark);
 //or theme.SetBaseTheme(Theme.Light);
 
 //Change all of the primary colors to Red
