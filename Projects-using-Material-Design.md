@@ -1,4 +1,4 @@
-If your project uses Material Design in XAML feel free to add a link, image/video, and paragraph describing the project here. When possible please list projects in alphabetical order.
+If your project uses Material Design in XAML feel free submit an issue to add it.
 
 ## [Artemis](https://github.com/Artemis-RGB/Artemis)
 
@@ -12,10 +12,15 @@ Convert between multiple binary, decimal and hexadecimal values. Add a comment t
 ![grafik](https://user-images.githubusercontent.com/43114787/74468900-e65d6800-4e9b-11ea-9ac5-bf53b21d4353.png)
 
 ## [DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter)
-Tool for for exporting Discord chat logs to a file.
+Tool for exporting Discord chat logs to a file.
 
 ![image](https://user-images.githubusercontent.com/54487782/191914475-47051e92-77b4-41a3-bb29-0e980ee44c93.png)
 ![image](https://user-images.githubusercontent.com/54487782/191914500-300cd5e6-0cd1-480c-b05b-2150b9840c3f.png)
+
+## Fan Control
+A focused and highly customizable fan controlling software for Windows.
+
+![image](https://raw.githubusercontent.com/Rem0o/FanControl.Releases/master/Images/MainUI.png)
 
 ## [LightBulb](https://github.com/Tyrrrz/LightBulb)
 
