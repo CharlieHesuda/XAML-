@@ -6,6 +6,10 @@ Because the Pack Icons are [automatically generated](https://github.com/Material
 
 [Pack Icon Changes 4.9.0 => 5.0.0](5-x-icon-changes#pack-icon-changes-490--500)
 
+[Pack Icon Changes 5.0.0 => 5.1.0](5-x-icon-changes#pack-icon-changes-500--510)
+
+[Pack Icon Changes 4.9.0 => 5.0.0](5-x-icon-changes#pack-icon-changes-490--500)
+
 [Pack Icon Changes 4.8.0 => 4.9.0](4-x-icon-changes#pack-icon-changes-480--490)
 
 [Pack Icon Changes 4.8.0 => 4.8.1](4-x-icon-changes#pack-icon-changes-480--481)
