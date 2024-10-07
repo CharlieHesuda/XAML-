@@ -29,6 +29,9 @@ Background app that gradually reduces blue light
 ![image](https://user-images.githubusercontent.com/54487782/191914588-45cc09fa-4254-4d38-9c6f-f1fd12548e10.png)
 ![image](https://user-images.githubusercontent.com/54487782/191914597-e9e7d3a3-78e9-4ec4-a48d-3fd0f81b5107.png)
 
+## [SinglePass](https://github.com/Erapchu/SinglePass.WPF)
+![image](https://github.com/user-attachments/assets/7abc3724-0b3c-4b2d-9b90-ddb4dcfde5b4)
+
 ## [TrafficGrapher](https://github.com/oMaN-Rod/TrafficGrapher)
 This tool was inspired by [MRTG](https://oss.oetiker.ch/mrtg/index.en.html) and [STG](http://leonidvm.chat.ru/), it allows quickly monitoring network traffic via SNMP.
 
