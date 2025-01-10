@@ -1,3 +1,11 @@
+## Pack Icon Changes 5.2.0 => 5.2.1
+### New icons (0)
+_None_
+### Icons with visual changes (0)
+_None_
+### Removed icons (0)
+_None_
+
 ## Pack Icon Changes 5.1.0 => 5.2.0
 ### New icons (0)
 _None_
