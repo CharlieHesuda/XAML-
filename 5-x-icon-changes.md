@@ -1,3 +1,17 @@
+## Pack Icon Changes 5.2.1 => 5.3.0
+### New icons (7)
+- AirplaneSuccess
+- ArrowDownDiamondOutline
+- ArrowLeftDiamondOutline
+- ArrowRightDiamondOutline
+- ArrowUpDiamondOutline
+- NonProfit
+- WeatherClearNight
+### Icons with visual changes (0)
+_None_
+### Removed icons (1)
+- AirplaceSuccess
+
 ## Pack Icon Changes 5.2.0 => 5.2.1
 ### New icons (0)
 _None_
